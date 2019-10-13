@@ -1,0 +1,25 @@
+\contentsline {schapter}{Daftar Gambar}{xi}% 
+\contentsline {schapter}{Daftar Tabel}{xiii}% 
+\contentsline {schapter}{Foreword}{xvii}% 
+\contentsline {schapter}{Kata Pengantar}{xix}% 
+\contentsline {schapter}{Acknowledgments}{xxi}% 
+\contentsline {schapter}{Acronyms}{xxiii}% 
+\contentsline {schapter}{Glossary}{xxv}% 
+\contentsline {schapter}{List of Symbols}{xxvii}% 
+\contentsline {schapter}{Introduction}{xxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}% 
+\contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
+\contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
+\contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
+\contentsline {subsection}{\numberline {1.1.2}Sejarah}{1}% 
+\contentsline {subsection}{\numberline {1.1.3}Koordinat}{1}% 
+\contentsline {subsection}{\numberline {1.1.4}Data Geospasial}{1}% 
+\contentsline {subsection}{\numberline {1.1.5}Link}{1}% 
+\contentsline {subsection}{\numberline {1.1.6}Plagiarism}{1}% 
+\contentsline {subsection}{\numberline {1.1.7}Cara Penggunaan}{1}% 
+\contentsline {subsubsection}{\numberline {1.1.7.1}Gambar}{1}% 
+\contentsline {subsubsection}{\numberline {1.1.7.2}List}{2}% 
+\contentsline {section}{\numberline {1.2}D. Irga B. Naufal Fakhri (1174066)}{2}% 
+\contentsline {subsection}{\numberline {1.2.1}Koordinat}{2}% 
+\contentsline {subsection}{\numberline {1.2.2}Link}{3}% 
+\contentsline {subsection}{\numberline {1.2.3}Plagiarism}{4}% 
