@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.10.14)  14 OCT 2019 21:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.25)  14 OCT 2019 22:23
 entering extended mode
 **./main.tex
 (main.tex
@@ -101,15 +101,15 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \lst@maxwidth=\dimen119
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 \c@lstnumber=\count113
 \lst@skipnumbers=\count114
 \lst@framebox=\box28
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
-File: listings.cfg 2019/09/10 1.8c listings configuration
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2019/09/10 1.8c (Carsten Heinz)
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
@@ -128,7 +128,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 147.
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
-File: lstlang1.sty 2019/09/10 1.8c listings language file
+File: lstlang1.sty 2019/02/27 1.8b listings language file
 ) (w-bookps.sty
 
 
@@ -232,7 +232,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 149--149
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/bakti/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/USER/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
@@ -909,7 +909,116 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [26 <./figures/Tugas1/1174083/vektor.jpg> <./figures/Tugas1/1174083/plagiarsm.j
-pg>])
+pg>]) (chapters/tugas1/1174091.tex
+Overfull \hbox (1.29729pt too wide) in paragraph at lines 13--14
+[]\OT1/ptm/m/n/10 Geographic Database. Tu-juan dari ba-sis data ge-ografis adal
+ah un-tuk menam-
+ []
+
+<figures/Tugas1/1174091/plagiarisme.png, id=233, 651.18282pt x 349.305pt>
+File: figures/Tugas1/1174091/plagiarisme.png Graphic file (type png)
+<use figures/Tugas1/1174091/plagiarisme.png>
+Package pdftex.def Info: figures/Tugas1/1174091/plagiarisme.png  used on input 
+line 24.
+(pdftex.def)             Requested size: 227.62204pt x 122.09868pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[27]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+File: figures/himatif.png Graphic file (type png)
+<use figures/himatif.png>
+Package pdftex.def Info: figures/himatif.png  used on input line 36.
+(pdftex.def)             Requested size: 113.81102pt x 95.22353pt.
+) (chapters/tugas1/1174062.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[28 <./figures/Tugas1/1174091/plagiarisme.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 10--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \vbox (badness 4927) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[29]
+Overfull \hbox (0.67711pt too wide) in paragraph at lines 31--33
+\OT1/ptm/m/n/10 bawa se-mua penge-tahuan dan keter-ampi-lan matem-atika dan as-
+tronomi dan men-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[30]
+<figures/Tugas1/1174062/plagiat.png, id=248, 631.60968pt x 136.25906pt>
+File: figures/Tugas1/1174062/plagiat.png Graphic file (type png)
+<use figures/Tugas1/1174062/plagiat.png>
+Package pdftex.def Info: figures/Tugas1/1174062/plagiat.png  used on input line
+ 55.
+(pdftex.def)             Requested size: 113.81102pt x 24.5526pt.
+)
 No file main.bbl.
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
@@ -919,7 +1028,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[27] [28
+[31 <./figures/Tugas1/1174062/plagiat.png>] [32
 
 ]
 No file main.ind.
@@ -929,10 +1038,10 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3569 strings out of 492946
- 51918 string characters out of 3135526
- 304940 words of memory out of 3000000
- 7301 multiletter control sequences out of 15000+200000
+ 3584 strings out of 492946
+ 53022 string characters out of 3135530
+ 304935 words of memory out of 3000000
+ 7308 multiletter control sequences out of 15000+200000
  60633 words of font info for 113 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,14n,47p,1323b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -949,9 +1058,9 @@ TeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX 2.9/fonts
 es/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/M
 iKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (59 pages, 1441410 bytes).
+Output written on main.pdf (63 pages, 1486066 bytes).
 PDF statistics:
- 286 PDF objects out of 1000 (max. 8388607)
+ 302 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 121 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 131 words of extra memory for PDF output out of 10000 (max. 10000000)
 
