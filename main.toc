@@ -66,3 +66,8 @@
 \contentsline {subsection}{\numberline {1.8.2}SEJARAH PTOLEMY}{19}% 
 \contentsline {subsection}{\numberline {1.8.3}Link Video}{20}% 
 \contentsline {subsection}{\numberline {1.8.4}Plagiarisme}{20}% 
+\contentsline {section}{\numberline {1.9}Muhammad Reza Syachrani (1174084)}{21}% 
+\contentsline {subsection}{\numberline {1.9.1}Buku}{21}% 
+\contentsline {subsection}{\numberline {1.9.2}Pengertian}{21}% 
+\contentsline {subsection}{\numberline {1.9.3}Link}{22}% 
+\contentsline {subsection}{\numberline {1.9.4}Plagiarism}{22}% 
