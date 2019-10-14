@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  13 OCT 2019 22:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.25)  14 OCT 2019 18:13
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2019-10-01>
+LaTeX2e <2018-12-01>
 (wileySix.cls
 
 
@@ -70,7 +70,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
-Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -78,7 +78,7 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
@@ -101,15 +101,15 @@ File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 \lst@maxwidth=\dimen119
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
-File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 \c@lstnumber=\count113
 \lst@skipnumbers=\count114
 \lst@framebox=\box28
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
-File: listings.cfg 2019/09/10 1.8c listings configuration
+File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
-Package: listings 2019/09/10 1.8c (Carsten Heinz)
+Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
@@ -128,7 +128,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 Package color Info: Driver file: pdftex.def on input line 147.
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
-File: lstlang1.sty 2019/09/10 1.8c listings language file
+File: lstlang1.sty 2019/02/27 1.8b listings language file
 ) (w-bookps.sty
 
 
@@ -159,8 +159,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 130.
 LaTeX Font Info:    ... okay on input line 130.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
 LaTeX Font Info:    ... okay on input line 130.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-30.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 130.
+
  ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -206,7 +206,7 @@ Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
@@ -232,7 +232,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 149--149
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/Rin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/acer/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
@@ -308,8 +308,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 (info/acknowledgments.tex [21]) [22
 
 ] (info/acronyms.tex)
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
-88.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 188.
+
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
@@ -383,9 +383,7 @@ File: figures/Tugas1/1174066/plagiat.jpg Graphic file (type jpg)
 Package pdftex.def Info: figures/Tugas1/1174066/plagiat.jpg  used on input line
  37.
 (pdftex.def)             Requested size: 113.81102pt x 57.3168pt.
-)
-No file main.bbl.
-
+) (chapters/tugas1/1174079.tex
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
@@ -398,6 +396,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [3 <./figures/Tugas1/1174066/kartesius.png> <./figures/Tugas1/1174066/polar.png
 >]
+<figures/Tugas1/1174079/vector.png, id=124, 426.59375pt x 388.45125pt>
+File: figures/Tugas1/1174079/vector.png Graphic file (type png)
+<use figures/Tugas1/1174079/vector.png>
+Package pdftex.def Info: figures/Tugas1/1174079/vector.png  used on input line 
+10.
+(pdftex.def)             Requested size: 227.62204pt x 207.27701pt.
+
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -405,7 +410,125 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[4 <./figures/Tugas1/1174066/plagiat.jpg>]
+[4 <./figures/Tugas1/1174066/plagiat.jpg> <./figures/Tugas1/1174079/vector.png 
+(PNG copy)>]
+Overfull \hbox (1.93756pt too wide) in paragraph at lines 17--18
+\OT1/ptm/m/n/10 pixes yang ada, Con-tin-u-ous raster mem-pun-yai ni-lai yang ak
+an se-lalu berubah
+ []
+
+
+Overfull \hbox (3.73724pt too wide) in paragraph at lines 18--19
+\OT1/ptm/m/n/10 masi yang ter-struk-tur. Kita meng-gu-nakan database ge-ografik
+ karena database
+ []
+
+<figures/Tugas1/1174079/plagiarisme.png, id=128, 421.575pt x 439.6425pt>
+File: figures/Tugas1/1174079/plagiarisme.png Graphic file (type png)
+<use figures/Tugas1/1174079/plagiarisme.png>
+Package pdftex.def Info: figures/Tugas1/1174079/plagiarisme.png  used on input 
+line 29.
+(pdftex.def)             Requested size: 227.62204pt x 237.38329pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
+
+ []
+
+File: figures/himatif.png Graphic file (type png)
+<use figures/himatif.png>
+Package pdftex.def Info: figures/himatif.png  used on input line 41.
+(pdftex.def)             Requested size: 113.81102pt x 95.22353pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[6 <./figures/Tugas1/1174079/plagiarisme.png>]) (chapters/tugas1/1174089.tex
+Overfull \hbox (4.02678pt too wide) in paragraph at lines 9--10
+\OT1/ptm/m/n/10 kom-puter yang di-pacu oleh peneli-tian sen-jata nuk-lir mem-ba
+wa ap-likasi pemetaan
+ []
+
+<figures/Tugas1/1174089/plagiarisme.png, id=136, 642.90187pt x 433.62pt>
+File: figures/Tugas1/1174089/plagiarisme.png Graphic file (type png)
+<use figures/Tugas1/1174089/plagiarisme.png>
+Package pdftex.def Info: figures/Tugas1/1174089/plagiarisme.png  used on input 
+line 19.
+(pdftex.def)             Requested size: 227.62204pt x 153.52264pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 27--28
+
+ []
+
+File: figures/himatif.png Graphic file (type png)
+<use figures/himatif.png>
+Package pdftex.def Info: figures/himatif.png  used on input line 32.
+(pdftex.def)             Requested size: 113.81102pt x 95.22353pt.
+) (chapters/tugas1/1174086.tex
+Underfull \vbox (badness 2435) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[8 <./figures/Tugas1/1174089/plagiarisme.png>]
+Overfull \hbox (7.89653pt too wide) in paragraph at lines 12--14
+\OT1/ptm/m/n/10 Sistem ko-or-di-nat di-mak-sud-kan un-tuk mem-berikan pen-gala-
+matan ter-hadap se-tiap lokasi
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[9]
+<figures/Tugas1/1174086/plagiat.jpg, id=148, 663.22781pt x 378.66469pt>
+File: figures/Tugas1/1174086/plagiat.jpg Graphic file (type jpg)
+<use figures/Tugas1/1174086/plagiat.jpg>
+Package pdftex.def Info: figures/Tugas1/1174086/plagiat.jpg  used on input line
+ 23.
+(pdftex.def)             Requested size: 113.81102pt x 64.97882pt.
+)
+No file main.bbl.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[10 <./figures/Tugas1/1174086/plagiat.jpg>]
 No file main.ind.
 (main.aux)
 
@@ -413,13 +536,13 @@ LaTeX Warning: There were undefined references.
 
  ) 
 Here is how much of TeX's memory you used:
- 3475 strings out of 492452
- 49492 string characters out of 3129813
- 304277 words of memory out of 3000000
- 7721 multiletter control sequences out of 15000+200000
+ 3433 strings out of 492946
+ 48374 string characters out of 3135530
+ 304935 words of memory out of 3000000
+ 7204 multiletter control sequences out of 15000+200000
  60118 words of font info for 111 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,14n,47p,671b,348s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 42i,14n,47p,1323b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
@@ -432,9 +555,9 @@ iKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/font
 s/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times
 /utmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/
 Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (33 pages, 420229 bytes).
+Output written on main.pdf (39 pages, 627802 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
+ 196 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
