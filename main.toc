@@ -83,3 +83,19 @@
 \contentsline {subsection}{\numberline {1.11.5}Cara Penggunaan}{26}% 
 \contentsline {subsubsection}{\numberline {1.11.5.1}Gambar}{26}% 
 \contentsline {subsubsection}{\numberline {1.11.5.2}List}{26}% 
+\contentsline {section}{\numberline {1.12}Alfadian Owen (1174091)}{27}% 
+\contentsline {subsection}{\numberline {1.12.1}Buku}{27}% 
+\contentsline {subsection}{\numberline {1.12.2}Data Geospasial}{27}% 
+\contentsline {subsection}{\numberline {1.12.3}Link}{27}% 
+\contentsline {subsection}{\numberline {1.12.4}Plagiarism}{28}% 
+\contentsline {subsection}{\numberline {1.12.5}Cara Penggunaan}{28}% 
+\contentsline {subsubsection}{\numberline {1.12.5.1}Gambar}{28}% 
+\contentsline {subsubsection}{\numberline {1.12.5.2}List}{28}% 
+\contentsline {section}{\numberline {1.13}Geographic Information System | Nurul Izza Hamka | 1174062}{29}% 
+\contentsline {subsection}{\numberline {1.13.1}Buku}{29}% 
+\contentsline {subsection}{\numberline {1.13.2}Pengertian Sistem Informasi geografis}{29}% 
+\contentsline {subsection}{\numberline {1.13.3}Sejarah}{30}% 
+\contentsline {subsection}{\numberline {1.13.4}Koordinat}{30}% 
+\contentsline {subsection}{\numberline {1.13.5}Data Geospasial}{30}% 
+\contentsline {subsection}{\numberline {1.13.6}Link}{31}% 
+\contentsline {subsection}{\numberline {1.13.7}Plagiarism}{31}% 
