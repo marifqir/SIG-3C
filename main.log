@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.25)  14 OCT 2019 22:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.10.14)  14 OCT 2019 23:27
 entering extended mode
 **./main.tex
 (main.tex
@@ -63,36 +63,36 @@ Writing index file main.idx
 \chapheight=\dimen112
 \authorskip=\dimen113
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
 ty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
 "
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
 ty"
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
 cs.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
 .def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.s
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.s
 ty"
 \lst@mode=\count107
 \lst@gtempboxa=\box27
@@ -107,20 +107,20 @@ ty"
 \lst@lineno=\count112
 \lst@maxwidth=\dimen119
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
 y"
-File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 \c@lstnumber=\count113
 \lst@skipnumbers=\count114
 \lst@framebox=\box28
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.c
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.c
 fg"
-File: listings.cfg 2019/02/27 1.8b listings configuration
+File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
-Package: listings 2019/02/27 1.8b (Carsten Heinz)
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count115
 \float@exts=\toks16
@@ -128,18 +128,18 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box30
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
 cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
 ty"
-File: lstlang1.sty 2019/02/27 1.8b listings language file
+File: lstlang1.sty 2019/09/10 1.8c listings language file
 ) (w-bookps.sty
 
 
@@ -173,10 +173,10 @@ LaTeX Font Info:    ... okay on input line 130.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 130.
 
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
 f.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
@@ -191,49 +191,49 @@ f.mkii"
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks19
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
 ase.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
 r.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
 "
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
 keys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
 sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
 sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
 s.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
 .sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
 .sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
 ds.sty"
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
 y"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
@@ -257,7 +257,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 149--149
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/ASUS/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/USER/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
@@ -303,7 +303,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[10])
+[10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -315,9 +326,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[11] [12
+[12] (main.lof [13
 
-] (main.lof [13])
+])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
@@ -355,7 +366,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 188.
 
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
@@ -726,7 +737,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 [17 <./figures/Tugas1/1174087/lp.jpg> <./figures/Tugas1/1174087/pc.jpg>]
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 55.
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
+("C:\Users\USER\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 <figures/Tugas1/1174087/plagiarism.png, id=188, 631.60968pt x 330.48468pt>
@@ -1086,6 +1097,70 @@ File: figures/Tugas1/1174073/plagiarism.png Graphic file (type png)
 Package pdftex.def Info: figures/Tugas1/1174073/plagiarism.png  used on input l
 ine 40.
 (pdftex.def)             Requested size: 113.81102pt x 64.01463pt.
+) (chapters/tugas1/1174054.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[34 <./figures/Tugas1/1174073/plagiarism.png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[35]
+Overfull \hbox (0.50735pt too wide) in paragraph at lines 46--47
+[]\OT1/ptm/m/n/10 Lebih dari 2000 tahun yang lalu Erathos-thenes mem-band-ingka
+n po-sisi mata-
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[36]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[37]
+Overfull \hbox (7.75655pt too wide) in paragraph at lines 67--68
+[]\OT1/ptm/m/n/10 Garis bu-jur 0 de-r-a-jat ser-ing dise-but prime merid-ian at
+au merid-ian Green-wich,garis
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[38]
+Overfull \hbox (6.38776pt too wide) in paragraph at lines 80--82
+[]\OT1/ptm/m/n/10 Data Line Data Line meru-pakan ben-tuk ge-ometri lin-ear yang
+ menghubungkan
+ []
+
+<figures/Tugas1/1174054/plagiarismetgas1.png, id=276, 1028.34187pt x 578.16pt>
+File: figures/Tugas1/1174054/plagiarismetgas1.png Graphic file (type png)
+<use figures/Tugas1/1174054/plagiarismetgas1.png>
+Package pdftex.def Info: figures/Tugas1/1174054/plagiarismetgas1.png  used on i
+nput line 90.
+(pdftex.def)             Requested size: 113.81102pt x 63.98596pt.
 )
 No file main.bbl.
 
@@ -1096,7 +1171,9 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[34 <./figures/Tugas1/1174073/plagiarism.png>]
+[39 <./figures/Tugas1/1174054/plagiarismetgas1.png>] [40
+
+]
 No file main.ind.
 
 ! LaTeX Error: \begin{enumerate} on input line 5 ended by \end{document}.
@@ -1105,7 +1182,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.281 \end{document}
+l.282 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1115,39 +1192,42 @@ or  <return>  to continue without it.
 
 LaTeX Warning: There were undefined references.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
  )
 (\end occurred inside a group at level 1)
 
 ### semi simple group (level 1) entered at line 5 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3592 strings out of 492946
- 53986 string characters out of 3126710
- 304935 words of memory out of 3000000
- 7312 multiletter control sequences out of 15000+200000
+ 3602 strings out of 492946
+ 56129 string characters out of 3126709
+ 304940 words of memory out of 3000000
+ 7317 multiletter control sequences out of 15000+200000
  60633 words of font info for 113 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,14n,47p,1555b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvip
-s/base/8r.enc}<C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
-ic/amsfonts/cm/cmex10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiK
-TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/ASUS/AppData/Local/P
-rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ASUS/AppD
+{C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvip
+s/base/8r.enc}<C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmex10.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/USER/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/USER/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/USER/AppD
 ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Use
-rs/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
-pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/uc
-rr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helve
-tic/uhvb8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
-/helvetic/uhvbo8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
-pe1/urw/helvetic/uhvr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/urw/times/utmb8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9
-/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiK
+rs/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
+pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/uc
+rr8a.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helve
+tic/uhvb8a.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw
+/helvetic/uhvbo8a.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/urw/helvetic/uhvr8a.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/times/utmb8a.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/USER/AppData/Local/Programs/MiKTeX
+ 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/USER/AppData/Local/Programs/MiK
 TeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (65 pages, 1898470 bytes).
+Output written on main.pdf (71 pages, 2077276 bytes).
 PDF statistics:
- 310 PDF objects out of 1000 (max. 8388607)
+ 330 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 136 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 141 words of extra memory for PDF output out of 10000 (max. 10000000)
 
