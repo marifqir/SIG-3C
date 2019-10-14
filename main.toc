@@ -107,3 +107,14 @@
 \contentsline {subsection}{\numberline {1.14.5}Data geospasial}{34}% 
 \contentsline {subsection}{\numberline {1.14.6}link}{34}% 
 \contentsline {subsection}{\numberline {1.14.7}plagiarisme}{34}% 
+\contentsline {section}{\numberline {1.15}Aulyardha Anindita | 1174054}{35}% 
+\contentsline {subsection}{\numberline {1.15.1}Buku}{35}% 
+\contentsline {subsection}{\numberline {1.15.2}Sistem Informasi Geografis}{35}% 
+\contentsline {paragraph}{}{35}% 
+\contentsline {subsection}{\numberline {1.15.3}Sejarah}{35}% 
+\contentsline {paragraph}{}{35}% 
+\contentsline {paragraph}{}{36}% 
+\contentsline {subsection}{\numberline {1.15.4}Koordinat Bumi}{37}% 
+\contentsline {subsection}{\numberline {1.15.5}Data Geospasial}{38}% 
+\contentsline {subsection}{\numberline {1.15.6}Link Youtube}{39}% 
+\contentsline {subsection}{\numberline {1.15.7}Plagiarisme}{39}% 
