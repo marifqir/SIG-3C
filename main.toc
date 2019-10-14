@@ -71,3 +71,15 @@
 \contentsline {subsection}{\numberline {1.9.2}Pengertian}{21}% 
 \contentsline {subsection}{\numberline {1.9.3}Link}{22}% 
 \contentsline {subsection}{\numberline {1.9.4}Plagiarism}{22}% 
+\contentsline {section}{\numberline {1.10}Arrizal Furqona Gifary (1174070)}{22}% 
+\contentsline {subsection}{\numberline {1.10.1}Koordinat}{22}% 
+\contentsline {subsection}{\numberline {1.10.2}Link}{24}% 
+\contentsline {subsection}{\numberline {1.10.3}Plagiarism}{24}% 
+\contentsline {section}{\numberline {1.11}Bakti QIlan Mufid (1174083)}{24}% 
+\contentsline {subsection}{\numberline {1.11.1}Buku}{24}% 
+\contentsline {subsection}{\numberline {1.11.2}Data Geospasial}{24}% 
+\contentsline {subsection}{\numberline {1.11.3}Link}{26}% 
+\contentsline {subsection}{\numberline {1.11.4}Plagiarism}{26}% 
+\contentsline {subsection}{\numberline {1.11.5}Cara Penggunaan}{26}% 
+\contentsline {subsubsection}{\numberline {1.11.5.1}Gambar}{26}% 
+\contentsline {subsubsection}{\numberline {1.11.5.2}List}{26}% 
