@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.15)  15 OCT 2019 21:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  21 OCT 2019 02:14
 entering extended mode
 **./main.tex
 (main.tex
@@ -62,38 +62,31 @@ Writing index file main.idx
 \chapskip=\dimen111
 \chapheight=\dimen112
 \authorskip=\dimen113
-)
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
-sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
 Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
-ics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 105.
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
-x.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
 \lst@mode=\count107
 \lst@gtempboxa=\box27
 \lst@token=\toks15
@@ -107,20 +100,18 @@ sty"
 \lst@lineno=\count112
 \lst@maxwidth=\dimen119
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
 File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 \c@lstnumber=\count113
 \lst@skipnumbers=\count114
 \lst@framebox=\box28
 )
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
-cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
 File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
 Package: listings 2019/09/10 1.8c (Carsten Heinz)
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count115
 \float@exts=\toks16
@@ -128,18 +119,15 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box30
 )
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
-.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
 File: lstlang1.sty 2019/09/10 1.8c listings language file
 ) (w-bookps.sty
 
@@ -173,12 +161,10 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
 LaTeX Font Info:    ... okay on input line 130.
 LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
 30.
-
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
-df.mkii"
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
 \scratchdimen=\dimen120
@@ -191,51 +177,39 @@ df.mkii"
 \MPnumerator=\count120
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks19
-)
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
-base.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
-rr.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
-y"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
-ekeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
-ys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
-s.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
-x.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
-mds.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
 Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -258,7 +232,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 149--149
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/kaka_/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/Rin/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
@@ -377,12 +351,12 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 (info/acronyms.tex)
 LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
 88.
-
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 188.
+
 [27] [28
 
 ] (info/glossary.tex) [29] [30
@@ -758,7 +732,7 @@ Package pdftex.def Info: figures/Tugas1/1174087/raster.png  used on input line
 (pdftex.def)             Requested size: 113.81102pt x 208.44054pt.
 LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 5
 5.
-("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 <figures/Tugas1/1174087/plagiarism.png, id=200, 631.60968pt x 330.48468pt>
@@ -767,7 +741,8 @@ File: figures/Tugas1/1174087/plagiarism.png Graphic file (type png)
 Package pdftex.def Info: figures/Tugas1/1174087/plagiarism.png  used on input l
 ine 59.
 (pdftex.def)             Requested size: 113.81102pt x 59.55023pt.
-) (chapters/tugas1/1174077.tex
+)
+(chapters/tugas1/1174077.tex
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -1397,7 +1372,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[49]) (main.bbl
+[49])
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -1405,42 +1380,193 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[50]) [51
+[50]
+Bab 2.
+(chapters/tugas2/1174066.tex (src/tugas2/1174066/No1.py
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+ [51
 
-] [52
+])
+<figures/Tugas2/1174066/No1.jpeg, id=338, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No1.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No1.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No1.jpeg  used on input line 7.
 
-] (main.ind [53
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+(src/tugas2/1174066/No2.py)
+<figures/Tugas2/1174066/No2.jpeg, id=339, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No2.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No2.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No2.jpeg  used on input line 14
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[52 <./figures/Tugas2/1174066/No1.jpeg>] (src/tugas2/1174066/No3.py)
+<figures/Tugas2/1174066/No3.jpeg, id=344, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No3.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No3.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No3.jpeg  used on input line 21
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[53 <./figures/Tugas2/1174066/No2.jpeg>] (src/tugas2/1174066/No4.py)
+<figures/Tugas2/1174066/No4.jpeg, id=348, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No4.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No4.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No4.jpeg  used on input line 28
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[54 <./figures/Tugas2/1174066/No3.jpeg>] (src/tugas2/1174066/No5.py)
+<figures/Tugas2/1174066/No5.jpeg, id=352, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No5.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No5.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No5.jpeg  used on input line 35
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[55 <./figures/Tugas2/1174066/No4.jpeg> <./figures/Tugas2/1174066/No5.jpeg>]
+(src/tugas2/1174066/No6.py)
+<figures/Tugas2/1174066/No6.jpeg, id=356, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No6.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No6.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No6.jpeg  used on input line 42
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+ (src/tugas2/1174066/No7.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [56 <./figures/Tugas2/1174066/No6.jpeg>])
+<figures/Tugas2/1174066/No7.jpeg, id=360, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No7.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No7.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No7.jpeg  used on input line 49
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+ (src/tugas2/1174066/No8.py)
+<figures/Tugas2/1174066/No8.jpeg, id=361, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No8.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No8.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No8.jpeg  used on input line 56
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Underfull \vbox (badness 3989) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[57 <./figures/Tugas2/1174066/No7.jpeg>] (src/tugas2/1174066/No9.py)
+<figures/Tugas2/1174066/No9.jpeg, id=365, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No9.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No9.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No9.jpeg  used on input line 63
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[58 <./figures/Tugas2/1174066/No8.jpeg>] (src/tugas2/1174066/No10.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [59 <./figures/Tugas2/1174066/No9.jpeg>])
+<figures/Tugas2/1174066/No10.jpeg, id=373, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No10.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No10.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No10.jpeg  used on input line 7
+0.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+) (main.bbl
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[60 <./figures/Tugas2/1174066/No10.jpeg>]) [61
+
+] [62
+
+] (main.ind [63
 
 
 ]) (main.aux) ) 
 Here is how much of TeX's memory you used:
- 3841 strings out of 492452
- 63882 string characters out of 3120063
- 308277 words of memory out of 3000000
- 7984 multiletter control sequences out of 15000+200000
- 62317 words of font info for 115 fonts, out of 3000000 for 9000
+ 4291 strings out of 492452
+ 68256 string characters out of 3129813
+ 454277 words of memory out of 3000000
+ 8389 multiletter control sequences out of 15000+200000
+ 65469 words of font info for 122 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,14n,47p,1555b,416s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvip
-s/base/8r.enc}<C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmex10.pfb><C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fo
-nts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/kaka_/AppData/Local/Programs/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/kaka_/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kaka_
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C
-:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmsy8.pfb><C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/cou
-rier/ucrr8a.pfb><C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
-rw/helvetic/uhvb8a.pfb><C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/helvetic/uhvbo8a.pfb><C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.
-9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/kaka_/AppData/Local/Programs/Mi
-KTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/kaka_/AppData/Local/Program
-s/MiKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/kaka_/AppData/Local/Pr
-ograms/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/kaka_/AppData/Loca
-l/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (86 pages, 2510840 bytes).
+ 47i,15n,47p,1555b,1903s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8
+a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
+tmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (96 pages, 2658586 bytes).
 PDF statistics:
- 393 PDF objects out of 1000 (max. 8388607)
+ 434 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 196 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
