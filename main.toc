@@ -151,5 +151,9 @@
 \contentsline {subsection}{\numberline {1.21.4}koordinat}{49}% 
 \contentsline {subsection}{\numberline {1.21.5}Data geospasial}{50}% 
 \contentsline {subsection}{\numberline {1.21.6}link}{50}% 
-\contentsline {schapter}{Daftar Pustaka}{51}% 
-\contentsline {schapter}{Index}{53}% 
+\contentsline {chapter}{\numberline {2}Tugas Kedua}{51}% 
+\contentsline {section}{\numberline {2.1}D. Irga B. Naufal Fakhri (1174066)}{51}% 
+\contentsline {subsection}{\numberline {2.1.1}Menulis Shapefile dengan PySHP}{51}% 
+\contentsline {subsection}{\numberline {2.1.2}Link}{60}% 
+\contentsline {schapter}{Daftar Pustaka}{61}% 
+\contentsline {schapter}{Index}{63}% 
