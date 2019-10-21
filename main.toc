@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xv}% 
-\contentsline {schapter}{Daftar Tabel}{xxi}% 
-\contentsline {schapter}{Foreword}{xxvii}% 
-\contentsline {schapter}{Kata Pengantar}{xxix}% 
-\contentsline {schapter}{Acknowledgments}{xxxi}% 
-\contentsline {schapter}{Acronyms}{xxxiii}% 
-\contentsline {schapter}{Glossary}{xxxv}% 
-\contentsline {schapter}{List of Symbols}{xxxvii}% 
-\contentsline {schapter}{Introduction}{xxxix}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxix}% 
+\contentsline {schapter}{Daftar Gambar}{xi}% 
+\contentsline {schapter}{Daftar Tabel}{xiii}% 
+\contentsline {schapter}{Foreword}{xvii}% 
+\contentsline {schapter}{Kata Pengantar}{xix}% 
+\contentsline {schapter}{Acknowledgments}{xxi}% 
+\contentsline {schapter}{Acronyms}{xxiii}% 
+\contentsline {schapter}{Glossary}{xxv}% 
+\contentsline {schapter}{List of Symbols}{xxvii}% 
+\contentsline {schapter}{Introduction}{xxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -173,8 +173,17 @@
 \contentsline {section}{\numberline {2.7}Bakti QIlan Mufid (1174083)}{105}% 
 \contentsline {subsection}{\numberline {2.7.1}Tugas Membuat Shapefile dengan PySHP}{105}% 
 \contentsline {subsection}{\numberline {2.7.2}Link}{114}% 
-\contentsline {section}{\numberline {2.8}D. Irga B. Naufal Fakhri (1174067)}{114}% 
+\contentsline {section}{\numberline {2.8}Kaka Kamaludin (1174067)}{114}% 
 \contentsline {subsection}{\numberline {2.8.1}Menulis Shapefile dengan PySHP}{114}% 
 \contentsline {subsection}{\numberline {2.8.2}Link}{123}% 
-\contentsline {schapter}{Daftar Pustaka}{125}% 
-\contentsline {schapter}{Index}{127}% 
+\contentsline {section}{\numberline {2.9}Handi Hermawan (1174080)}{123}% 
+\contentsline {subsection}{\numberline {2.9.1}Tugas 2 membuat Shapefile dengan PySHP}{123}% 
+\contentsline {subsection}{\numberline {2.9.2}Link}{132}% 
+\contentsline {section}{\numberline {2.10}ADVENT NOPELE OLANSI DAMIAHAN SIHITE (1174089)}{132}% 
+\contentsline {subsection}{\numberline {2.10.1}Menulis Shapefile dengan PySHP}{132}% 
+\contentsline {subsection}{\numberline {2.10.2}Link}{142}% 
+\contentsline {section}{\numberline {2.11}Nurul Izza Hamka | 1174062}{143}% 
+\contentsline {subsection}{\numberline {2.11.1}Shapefile Dengan PyShp}{143}% 
+\contentsline {subsection}{\numberline {2.11.2}Link}{151}% 
+\contentsline {schapter}{Daftar Pustaka}{153}% 
+\contentsline {schapter}{Index}{155}% 
