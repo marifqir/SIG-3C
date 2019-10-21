@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xv}% 
 \contentsline {schapter}{Daftar Tabel}{xxiii}% 
-\contentsline {schapter}{Foreword}{xxix}% 
-\contentsline {schapter}{Kata Pengantar}{xxxi}% 
-\contentsline {schapter}{Acknowledgments}{xxxiii}% 
-\contentsline {schapter}{Acronyms}{xxxv}% 
-\contentsline {schapter}{Glossary}{xxxvii}% 
-\contentsline {schapter}{List of Symbols}{xxxix}% 
-\contentsline {schapter}{Introduction}{xli}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xli}% 
+\contentsline {schapter}{Foreword}{xxxi}% 
+\contentsline {schapter}{Kata Pengantar}{xxxiii}% 
+\contentsline {schapter}{Acknowledgments}{xxxv}% 
+\contentsline {schapter}{Acronyms}{xxxvii}% 
+\contentsline {schapter}{Glossary}{xxxix}% 
+\contentsline {schapter}{List of Symbols}{xli}% 
+\contentsline {schapter}{Introduction}{xliii}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xliii}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -191,5 +191,5 @@
 \contentsline {section}{\numberline {2.13}Ilham Muhammad Ariq (1174087)}{160}% 
 \contentsline {subsection}{\numberline {2.13.1}Menulis Shapefile dengan PySHP}{160}% 
 \contentsline {subsection}{\numberline {2.13.2}Link}{169}% 
-\contentsline {schapter}{Daftar Pustaka}{171}% 
-\contentsline {schapter}{Index}{173}% 
+\contentsline {section}{\numberline {2.14}Ainul Filiani (1174073)}{169}% 
+\contentsline {subsection}{\numberline {2.14.1}Menulis Shapefile dengan PySHP}{169}% 
