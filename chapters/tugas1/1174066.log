@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  13 OCT 2019 21:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  21 OCT 2019 01:41
 entering extended mode
 **./1174066.tex
 (1174066.tex
@@ -1590,15 +1590,6 @@ Missing character: There is no L in font nullfont!
 Missing character: There is no i in font nullfont!
 Missing character: There is no n in font nullfont!
 Missing character: There is no k in font nullfont!
-! Undefined control sequence.
-l.34 \href
-          {https://youtu.be/Xk0PBql01Cc}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 Missing character: There is no h in font nullfont!
 Missing character: There is no t in font nullfont!
 Missing character: There is no t in font nullfont!
@@ -1763,7 +1754,7 @@ or  <return>  to continue without it.
  
 Here is how much of TeX's memory you used:
  12 strings out of 492452
- 279 string characters out of 3129813
+ 295 string characters out of 3129813
  60229 words of memory out of 3000000
  4471 multiletter control sequences out of 15000+200000
  3640 words of font info for 14 fonts, out of 3000000 for 9000
