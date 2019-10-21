@@ -18,11 +18,13 @@ w.record("adalah","EXO")  #Mengisi table pada kolom satu yaitu adalah dan kolom 
 w.record("SEVENTEEN","SUPERJUNIOR")   #Mengisi table pada kolom satu yaitu SEVENTEEN dan kolom dua yaitu SUPERJUNIOR
 w.record("WANNAONE","Dan masih banyak lagi")    #Mengisi table pada kolom satu yaitu WANNAONE dan kolom dua yaitu dan masih banyaklagi
 
-w.poly([[[1,1],[3,1],[3,3],[1,3],[1,1]]])   #membuat garis dengan cara menghubungkan setiap titik yang digambar yang nantinya akan dihubungkan seluruh hingga membentuk suatu bidang 
-w.poly([[[5,1],[7,1],[7,3],[5,3],[5,1]]])   #membuat garis dengan cara menghubungkan setiap titik yang digambar yang nantinya akan dihubungkan seluruh hingga membentuk suatu bidang
-w.poly([[[9,1],[17,1],[17,3],[9,3],[9,1]]]) #membuat garis dengan cara menghubungkan setiap titik yang digambar yang nantinya akan dihubungkan seluruh hingga membentuk suatu bidang
-w.poly([[[2,9],[7,11],[7,16],[2,11],[2,9]]])   #membuat garis dengan cara menghubungkan setiap titik yang digambar yang nantinya akan dihubungkan seluruh hingga membentuk suatu bidang
-w.poly([[[5,10],[17,5],[17,7],[9,7],[11,5]]])   #membuat garis dengan cara menghubungkan setiap titik yang digambar yang nantinya akan dihubungkan seluruh hingga membentuk suatu bidang
-w.poly([[[9,5],[11,5],[11,7],[9,7],[9,5]]]) #membuat garis dengan cara menghubungkan setiap titik yang digambar yang nantinya akan dihubungkan seluruh hingga membentuk suatu bidang
+
+
+w.poly([[[2,3],[4,6],[6,3],[4,0],[2,3]]]) # Membuat garis dengan menghubungkan titik-titik sehingga nantinya akan membentuk sebuah bidang
+w.poly([[[-9,-2],[-2,-9],[5,-2],[-2,5],[-9,-2]]])
+w.poly([[[-4,-1],[-1,-5],[2,-1],[-1,3],[-4,-1]]])
+w.poly([[[-2,-1],[1,4],[4,1],[1,-2],[-2,-1]]])
+w.poly([[[3,6],[7,3],[11,6],[7,9],[3,6]]])
+w.poly([[[-1,-2],[2,-6],[5,-2],[2,3],[-1,-2]]])
 
 w.close() # Menutup penggambar (writer) karena kita sudah beres menggambar yang kita perlukan

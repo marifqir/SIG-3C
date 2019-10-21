@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xv}% 
-\contentsline {schapter}{Daftar Tabel}{xxiii}% 
-\contentsline {schapter}{Foreword}{xxxi}% 
-\contentsline {schapter}{Kata Pengantar}{xxxiii}% 
-\contentsline {schapter}{Acknowledgments}{xxxv}% 
-\contentsline {schapter}{Acronyms}{xxxvii}% 
-\contentsline {schapter}{Glossary}{xxxix}% 
-\contentsline {schapter}{List of Symbols}{xli}% 
-\contentsline {schapter}{Introduction}{xliii}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xliii}% 
+\contentsline {schapter}{Daftar Tabel}{xxv}% 
+\contentsline {schapter}{Foreword}{xxxiii}% 
+\contentsline {schapter}{Kata Pengantar}{xxxv}% 
+\contentsline {schapter}{Acknowledgments}{xxxvii}% 
+\contentsline {schapter}{Acronyms}{xxxix}% 
+\contentsline {schapter}{Glossary}{xli}% 
+\contentsline {schapter}{List of Symbols}{xliii}% 
+\contentsline {schapter}{Introduction}{xlv}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xlv}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -200,5 +200,8 @@
 \contentsline {section}{\numberline {2.16}Alvan Alvanzah (1174077)}{187}% 
 \contentsline {subsection}{\numberline {2.16.1}Tugas Membuat Shapefile dengan PySHP}{187}% 
 \contentsline {subsection}{\numberline {2.16.2}Link}{195}% 
-\contentsline {schapter}{Daftar Pustaka}{197}% 
-\contentsline {schapter}{Index}{199}% 
+\contentsline {section}{\numberline {2.17}Aulyardha Anindita | 1174054}{196}% 
+\contentsline {subsection}{\numberline {2.17.1}Menulis Shapefile dengan PySHP}{196}% 
+\contentsline {subsection}{\numberline {2.17.2}Link}{205}% 
+\contentsline {schapter}{Daftar Pustaka}{207}% 
+\contentsline {schapter}{Index}{209}% 
