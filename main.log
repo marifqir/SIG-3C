@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.3.25)  21 OCT 2019 19:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.25)  21 OCT 2019 19:53
 entering extended mode
 **./main.tex
 (main.tex
@@ -62,38 +62,31 @@ Writing index file main.idx
 \chapskip=\dimen111
 \chapheight=\dimen112
 \authorskip=\dimen113
-)
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
-ty"
+) (D:\MIktex\tex/latex/graphics\graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
-"
+(D:\MIktex\tex/latex/graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
-ty"
+(D:\MIktex\tex/latex/graphics\graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+(D:\MIktex\tex/latex/graphics\trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
-cs.cfg"
+(D:\MIktex\tex/latex/graphics-cfg\graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
-.def"
+(D:\MIktex\tex/latex/graphics-def\pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.s
-ty"
+(D:\MIktex\tex/latex/listings\listings.sty
 \lst@mode=\count107
 \lst@gtempboxa=\box27
 \lst@token=\toks15
@@ -107,38 +100,33 @@ ty"
 \lst@lineno=\count112
 \lst@maxwidth=\dimen119
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
-y"
+(D:\MIktex\tex/latex/listings\lstmisc.sty
 File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
 \c@lstnumber=\count113
 \lst@skipnumbers=\count114
 \lst@framebox=\box28
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.c
-fg"
+(D:\MIktex\tex/latex/listings\listings.cfg
 File: listings.cfg 2019/02/27 1.8b listings configuration
 ))
 Package: listings 2019/02/27 1.8b (Carsten Heinz)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+(D:\MIktex\tex/latex/float\float.sty
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count115
 \float@exts=\toks16
 \float@box=\box29
 \@float@everytoks=\toks17
 \@floatcapt=\box30
-)
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
+) (D:\MIktex\tex/latex/graphics\color.sty
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
-cfg"
+(D:\MIktex\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
-ty"
+(D:\MIktex\tex/latex/listings\lstlang1.sty
 File: lstlang1.sty 2019/02/27 1.8b listings language file
 ) (w-bookps.sty
 
@@ -172,12 +160,10 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
 LaTeX Font Info:    ... okay on input line 130.
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 130.
 
-
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+ (D:\MIktex\tex/latex/psnfss\ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
-f.mkii"
+(D:\MIktex\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
 \scratchdimen=\dimen120
@@ -190,51 +176,39 @@ f.mkii"
 \MPnumerator=\count120
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks19
-)
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
-ase.sty"
+) (D:\MIktex\tex/latex/oberdiek\epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
-r.sty"
+(D:\MIktex\tex/generic/oberdiek\infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
-"
+(D:\MIktex\tex/latex/oberdiek\grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
-keys.sty"
+(D:\MIktex\tex/generic/oberdiek\kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
-sty"
+(D:\MIktex\tex/generic/oberdiek\ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
-sty"
+(D:\MIktex\tex/latex/oberdiek\kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
-s.sty"
+(D:\MIktex\tex/generic/oberdiek\kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
-.sty"
+(D:\MIktex\tex/generic/oberdiek\etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
-.sty"
+(D:\MIktex\tex/generic/oberdiek\ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
-ds.sty"
+(D:\MIktex\tex/generic/oberdiek\pdftexcmds.sty
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
-y"
+(D:\MIktex\tex/generic/oberdiek\ifpdf.sty
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -257,7 +231,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 149--149
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/ASUS/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/User/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
@@ -479,20 +453,19 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 LaTeX Font Info:    Try loading font information for OMS+ptm on input line 188.
 
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+(D:\MIktex\tex/latex/psnfss\omsptm.fd
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 188.
+ [37] [38
 
-[37] [38
-
-] (info/glossary.tex) [39] [40
+] (info/glossary.tex) [39]
+[40
 
 ] (info/symbols.tex) [41] [42
 
-]
-(info/introduction.tex) [43] [44
+] (info/introduction.tex) [43] [44
 
 ]
 Bab 1.
@@ -859,7 +832,7 @@ Package pdftex.def Info: figures/Tugas1/1174087/raster.png  used on input line
 44.
 (pdftex.def)             Requested size: 113.81102pt x 208.44054pt.
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 55.
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
+(D:\MIktex\tex/latex/psnfss\ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 <figures/Tugas1/1174087/plagiarism.png, id=232, 631.60968pt x 330.48468pt>
@@ -3438,7 +3411,82 @@ to read past where you wanted me to stop.
 I'll try to recover; but if the error is serious,
 you'd better type `E' or `X' now and fix your file.
 
-(main.bbl) (main.ind)
+(chapters/tugas2/1174070.tex (src/tugas2/1174070/No1.py)
+<figures/Tugas2/1174070/No1.jpeg, id=982, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174070/No1.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174070/No1.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174070/No1.jpeg  used on input line 7.
+
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+(src/tugas2/1174070/No2.py)
+<figures/Tugas2/1174070/No2.jpeg, id=983, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174070/No2.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174070/No2.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174070/No2.jpeg  used on input line 14
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+ (src/tugas2/1174070/No3.py)
+<figures/Tugas2/1174070/No3.jpeg, id=984, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174070/No3.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174070/No3.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174070/No3.jpeg  used on input line 21
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+(src/tugas2/1174070/No4.py)
+<figures/Tugas2/1174070/No4.jpeg, id=985, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174070/No4.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174070/No4.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174070/No4.jpeg  used on input line 28
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+ (src/tugas2/1174070/No5.py)
+<figures/Tugas2/1174070/No5.jpeg, id=986, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174070/No5.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174070/No5.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174070/No5.jpeg  used on input line 35
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+(src/tugas2/1174070/No6.py)
+<figures/Tugas2/1174070/No6.jpeg, id=987, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174070/No6.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174070/No6.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174070/No6.jpeg  used on input line 42
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+ (src/tugas2/1174070/No7.py)
+<figures/Tugas2/1174070/No7.jpeg, id=988, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174070/No7.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174070/No7.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174070/No7.jpeg  used on input line 49
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+(src/tugas2/1174070/No8.py)
+<figures/Tugas2/1174070/No8.jpeg, id=989, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174070/No8.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174070/No8.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174070/No8.jpeg  used on input line 56
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+ (src/tugas2/1174070/No9.py)
+<figures/Tugas2/1174070/No9.jpeg, id=990, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174070/No9.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174070/No9.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174070/No9.jpeg  used on input line 63
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+(src/tugas2/1174070/No10.py)
+<figures/Tugas2/1174070/No10.jpeg, id=991, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174070/No10.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174070/No10.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174070/No10.jpeg  used on input line 7
+0.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+) (main.bbl) (main.ind)
 
 ! LaTeX Error: \begin{figure} on input line 69 ended by \end{document}.
 
@@ -3446,7 +3494,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.301 \end{document}
+l.302 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3456,7 +3504,7 @@ or  <return>  to continue without it.
 ! You can't use `\end' in internal vertical mode.
 \saveenddocument ...dgroup \deadcycles \z@ \@@end 
                                                   
-l.301 \end{document}
+l.302 \end{document}
                     
 Sorry, but I'm not programmed to handle this case;
 I'll just pretend that you didn't ask for it.
@@ -3470,7 +3518,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.301 \end{document}
+l.302 \end{document}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3479,7 +3527,7 @@ or  <return>  to continue without it.
 ! Missing } inserted.
 <inserted text> 
                 }
-l.301 \end{document}
+l.302 \end{document}
                     
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
@@ -3495,10 +3543,10 @@ my insertion and my current dilemma will both disappear.
 
  
 Here is how much of TeX's memory you used:
- 5010 strings out of 492946
- 90318 string characters out of 3126710
- 472935 words of memory out of 3000000
- 8270 multiletter control sequences out of 15000+200000
+ 5075 strings out of 492946
+ 89853 string characters out of 3135530
+ 1250935 words of memory out of 3000000
+ 8310 multiletter control sequences out of 15000+200000
  64333 words of font info for 121 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,15n,47p,1555b,1907s stack positions out of 5000i,500n,10000p,200000b,50000s
