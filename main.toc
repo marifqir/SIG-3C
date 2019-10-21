@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xi}% 
-\contentsline {schapter}{Daftar Tabel}{xiii}% 
-\contentsline {schapter}{Foreword}{xvii}% 
-\contentsline {schapter}{Kata Pengantar}{xix}% 
-\contentsline {schapter}{Acknowledgments}{xxi}% 
-\contentsline {schapter}{Acronyms}{xxiii}% 
-\contentsline {schapter}{Glossary}{xxv}% 
-\contentsline {schapter}{List of Symbols}{xxvii}% 
-\contentsline {schapter}{Introduction}{xxix}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxix}% 
+\contentsline {schapter}{Daftar Gambar}{xv}% 
+\contentsline {schapter}{Daftar Tabel}{xxiii}% 
+\contentsline {schapter}{Foreword}{xxix}% 
+\contentsline {schapter}{Kata Pengantar}{xxxi}% 
+\contentsline {schapter}{Acknowledgments}{xxxiii}% 
+\contentsline {schapter}{Acronyms}{xxxv}% 
+\contentsline {schapter}{Glossary}{xxxvii}% 
+\contentsline {schapter}{List of Symbols}{xxxix}% 
+\contentsline {schapter}{Introduction}{xli}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xli}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -185,5 +185,11 @@
 \contentsline {section}{\numberline {2.11}Nurul Izza Hamka | 1174062}{143}% 
 \contentsline {subsection}{\numberline {2.11.1}Shapefile Dengan PyShp}{143}% 
 \contentsline {subsection}{\numberline {2.11.2}Link}{151}% 
-\contentsline {schapter}{Daftar Pustaka}{153}% 
-\contentsline {schapter}{Index}{155}% 
+\contentsline {section}{\numberline {2.12}Alfadian Owen (1174091)}{151}% 
+\contentsline {subsection}{\numberline {2.12.1}Menulis Shapefile dengan PySHP}{151}% 
+\contentsline {subsection}{\numberline {2.12.2}Link}{159}% 
+\contentsline {section}{\numberline {2.13}Ilham Muhammad Ariq (1174087)}{160}% 
+\contentsline {subsection}{\numberline {2.13.1}Menulis Shapefile dengan PySHP}{160}% 
+\contentsline {subsection}{\numberline {2.13.2}Link}{169}% 
+\contentsline {schapter}{Daftar Pustaka}{171}% 
+\contentsline {schapter}{Index}{173}% 
