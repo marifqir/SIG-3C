@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.25)  21 OCT 2019 19:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.2.25)  21 OCT 2019 20:08
 entering extended mode
 **./main.tex
 (main.tex
@@ -3400,7 +3400,7 @@ Package pdftex.def Info: figures/Tugas2/1174073/No10.png  used on input line 70
 (pdftex.def)             Requested size: 170.71652pt x 96.02194pt.
 )
 Runaway argument?
-{Polygon, Hasil modulus dari npm saya 1174073 \end {figure} \end {enu\ETC.
+{Polygon, Hasil modulus dari npm saya 1174073 \end {figure} \subsection \ETC.
 ! File ended while scanning use of \@xdblarg.
 <inserted text> 
                 \par 
@@ -3544,7 +3544,7 @@ my insertion and my current dilemma will both disappear.
  
 Here is how much of TeX's memory you used:
  5075 strings out of 492946
- 89853 string characters out of 3135530
+ 91887 string characters out of 3135530
  1250935 words of memory out of 3000000
  8310 multiletter control sequences out of 15000+200000
  64333 words of font info for 121 fonts, out of 3000000 for 9000
