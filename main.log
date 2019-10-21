@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  21 OCT 2019 16:24
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930 64-bit) (preloaded format=pdflatex 2019.10.14)  21 OCT 2019 16:37
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2019-10-01>
+LaTeX2e <2018-12-01>
 (wileySix.cls
 
 
@@ -70,7 +70,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
-Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -78,7 +78,7 @@ Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 105.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
@@ -159,8 +159,8 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 130.
 LaTeX Font Info:    ... okay on input line 130.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
 LaTeX Font Info:    ... okay on input line 130.
-LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
-30.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 130.
+
  ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
@@ -206,7 +206,7 @@ Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
-Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 
 ("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
@@ -232,7 +232,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 149--149
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/LENOVO/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/bakti/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
@@ -394,8 +394,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 (info/acknowledgments.tex [31]) [32
 
 ] (info/acronyms.tex)
-LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
-88.
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 188.
+
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
@@ -776,8 +776,7 @@ File: figures/Tugas1/1174087/raster.png Graphic file (type png)
 Package pdftex.def Info: figures/Tugas1/1174087/raster.png  used on input line 
 44.
 (pdftex.def)             Requested size: 113.81102pt x 208.44054pt.
-LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 5
-5.
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 55.
 ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
@@ -2279,7 +2278,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[104]) (main.bbl
+[104]) (chapters/tugas2/1174083.tex (src/tugas2/1174083/scriptNo1.py)
+<figures/Tugas2/1174083/1.png, id=615, 572.1375pt x 434.37282pt>
+File: figures/Tugas2/1174083/1.png Graphic file (type png)
+<use figures/Tugas2/1174083/1.png>
+Package pdftex.def Info: figures/Tugas2/1174083/1.png  used on input line 7.
+(pdftex.def)             Requested size: 170.71652pt x 129.61028pt.
+
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -2287,39 +2292,159 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[105 <./figures/Tugas2/1174069/No10.png>] [106
+[105 <./figures/Tugas2/1174069/No10.png>] (src/tugas2/1174083/scriptNo2.py)
+<figures/Tugas2/1174083/2.png, id=620, 572.1375pt x 434.37282pt>
+File: figures/Tugas2/1174083/2.png Graphic file (type png)
+<use figures/Tugas2/1174083/2.png>
+Package pdftex.def Info: figures/Tugas2/1174083/2.png  used on input line 15.
+(pdftex.def)             Requested size: 170.71652pt x 129.61028pt.
 
-]) [107] [108
-
-] (main.ind [109
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
-])
-(main.aux) ) 
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[106 <./figures/Tugas2/1174083/1.png>] (src/tugas2/1174083/scriptNo3.py)
+<figures/Tugas2/1174083/3.png, id=626, 609.77812pt x 341.77687pt>
+File: figures/Tugas2/1174083/3.png Graphic file (type png)
+<use figures/Tugas2/1174083/3.png>
+Package pdftex.def Info: figures/Tugas2/1174083/3.png  used on input line 23.
+(pdftex.def)             Requested size: 170.71652pt x 95.68643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[107 <./figures/Tugas2/1174083/2.png>] (src/tugas2/1174083/scriptNo4.py)
+<figures/Tugas2/1174083/4.png, id=631, 609.77812pt x 341.77687pt>
+File: figures/Tugas2/1174083/4.png Graphic file (type png)
+<use figures/Tugas2/1174083/4.png>
+Package pdftex.def Info: figures/Tugas2/1174083/4.png  used on input line 31.
+(pdftex.def)             Requested size: 170.71652pt x 95.68643pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[108 <./figures/Tugas2/1174083/3.png> <./figures/Tugas2/1174083/4.png>]
+(src/tugas2/1174083/scriptNo5.py)
+<figures/Tugas2/1174083/5.png, id=637, 609.77812pt x 341.77687pt>
+File: figures/Tugas2/1174083/5.png Graphic file (type png)
+<use figures/Tugas2/1174083/5.png>
+Package pdftex.def Info: figures/Tugas2/1174083/5.png  used on input line 39.
+(pdftex.def)             Requested size: 170.71652pt x 95.68643pt.
+ (src/tugas2/1174083/scriptNo6.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [109 <./figures/Tugas2/1174083/5.png>])
+<figures/Tugas2/1174083/6.png, id=642, 380.92313pt x 341.77687pt>
+File: figures/Tugas2/1174083/6.png Graphic file (type png)
+<use figures/Tugas2/1174083/6.png>
+Package pdftex.def Info: figures/Tugas2/1174083/6.png  used on input line 47.
+(pdftex.def)             Requested size: 170.71652pt x 153.17235pt.
+ (src/tugas2/1174083/scriptNo7.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [110 <./figures/Tugas2/1174083/6.png>])
+<figures/Tugas2/1174083/7.png, id=647, 380.92313pt x 341.77687pt>
+File: figures/Tugas2/1174083/7.png Graphic file (type png)
+<use figures/Tugas2/1174083/7.png>
+Package pdftex.def Info: figures/Tugas2/1174083/7.png  used on input line 55.
+(pdftex.def)             Requested size: 170.71652pt x 153.17235pt.
+ (src/tugas2/1174083/scriptNo8.py)
+<figures/Tugas2/1174083/8.png, id=648, 380.92313pt x 341.77687pt>
+File: figures/Tugas2/1174083/8.png Graphic file (type png)
+<use figures/Tugas2/1174083/8.png>
+Package pdftex.def Info: figures/Tugas2/1174083/8.png  used on input line 63.
+(pdftex.def)             Requested size: 170.71652pt x 153.17235pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[111 <./figures/Tugas2/1174083/7.png>] (src/tugas2/1174083/scriptNo9.py)
+<figures/Tugas2/1174083/9.png, id=653, 380.92313pt x 341.77687pt>
+File: figures/Tugas2/1174083/9.png Graphic file (type png)
+<use figures/Tugas2/1174083/9.png>
+Package pdftex.def Info: figures/Tugas2/1174083/9.png  used on input line 71.
+(pdftex.def)             Requested size: 170.71652pt x 153.17235pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[112 <./figures/Tugas2/1174083/8.png>] (src/tugas2/1174083/scriptNo10.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [113 <./figures/Tugas2/1174083/9.png>])
+<figures/Tugas2/1174083/10.png, id=663, 532.99126pt x 434.37282pt>
+File: figures/Tugas2/1174083/10.png Graphic file (type png)
+<use figures/Tugas2/1174083/10.png>
+Package pdftex.def Info: figures/Tugas2/1174083/10.png  used on input line 79.
+(pdftex.def)             Requested size: 170.71652pt x 139.12807pt.
+) (main.bbl
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[114 <./figures/Tugas2/1174083/10.png>]) [115
+
+] [116
+
+] (main.ind [117
+
+
+]) (main.aux) ) 
 Here is how much of TeX's memory you used:
- 4803 strings out of 492452
- 84401 string characters out of 3129804
- 475277 words of memory out of 3000000
- 8746 multiletter control sequences out of 15000+200000
+ 4542 strings out of 492946
+ 73994 string characters out of 3135526
+ 472940 words of memory out of 3000000
+ 7987 multiletter control sequences out of 15000+200000
  65469 words of font info for 122 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 47i,15n,47p,1555b,1903s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Progra
-m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/
-MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
-lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
-onts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.p
-fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program
- Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX
- 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
-e1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb
-i8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
-am Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (148 pages, 3020837 bytes).
+ 42i,15n,47p,1555b,1907s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Pro
+gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fil
+es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8
+a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Prog
+ram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
+tmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (156 pages, 3068059 bytes).
 PDF statistics:
- 682 PDF objects out of 1000 (max. 8388607)
+ 727 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 496 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 546 words of extra memory for PDF output out of 10000 (max. 10000000)
 

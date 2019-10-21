@@ -170,5 +170,8 @@
 \contentsline {section}{\numberline {2.6}Fanny Shafira Damayanti (1174069)}{96}% 
 \contentsline {subsection}{\numberline {2.6.1}Menulis Shapefile dengan PySHP}{96}% 
 \contentsline {subsection}{\numberline {2.6.2}Link}{105}% 
-\contentsline {schapter}{Daftar Pustaka}{107}% 
-\contentsline {schapter}{Index}{109}% 
+\contentsline {section}{\numberline {2.7}Bakti QIlan Mufid (1174083)}{105}% 
+\contentsline {subsection}{\numberline {2.7.1}Tugas Membuat Shapefile dengan PySHP}{105}% 
+\contentsline {subsection}{\numberline {2.7.2}Link}{114}% 
+\contentsline {schapter}{Daftar Pustaka}{115}% 
+\contentsline {schapter}{Index}{117}% 
