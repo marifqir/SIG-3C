@@ -161,5 +161,11 @@
 \contentsline {section}{\numberline {2.3}Tia Nur Candida (1174086)}{70}% 
 \contentsline {subsection}{\numberline {2.3.1}Menulis Shapefile dengan PySHP}{70}% 
 \contentsline {subsection}{\numberline {2.3.2}Link}{78}% 
-\contentsline {schapter}{Daftar Pustaka}{79}% 
-\contentsline {schapter}{Index}{81}% 
+\contentsline {section}{\numberline {2.4}Muhammad Abdul Gani Wijaya 1174071}{78}% 
+\contentsline {subsection}{\numberline {2.4.1}Menggunakan library Shapefile dengan Python (pyshp)}{78}% 
+\contentsline {subsection}{\numberline {2.4.2}Link Youtube}{86}% 
+\contentsline {section}{\numberline {2.5}Muhammad Reza Syachrani (1174084)}{86}% 
+\contentsline {subsection}{\numberline {2.5.1}Menulis Shapefile dengan PySHP}{86}% 
+\contentsline {subsection}{\numberline {2.5.2}Link}{96}% 
+\contentsline {schapter}{Daftar Pustaka}{97}% 
+\contentsline {schapter}{Index}{99}% 
