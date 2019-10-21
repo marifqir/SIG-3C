@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xv}% 
-\contentsline {schapter}{Daftar Tabel}{xvii}% 
-\contentsline {schapter}{Foreword}{xxi}% 
-\contentsline {schapter}{Kata Pengantar}{xxiii}% 
-\contentsline {schapter}{Acknowledgments}{xxv}% 
-\contentsline {schapter}{Acronyms}{xxvii}% 
-\contentsline {schapter}{Glossary}{xxix}% 
-\contentsline {schapter}{List of Symbols}{xxxi}% 
-\contentsline {schapter}{Introduction}{xxxiii}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxiii}% 
+\contentsline {schapter}{Daftar Tabel}{xix}% 
+\contentsline {schapter}{Foreword}{xxiii}% 
+\contentsline {schapter}{Kata Pengantar}{xxv}% 
+\contentsline {schapter}{Acknowledgments}{xxvii}% 
+\contentsline {schapter}{Acronyms}{xxix}% 
+\contentsline {schapter}{Glossary}{xxxi}% 
+\contentsline {schapter}{List of Symbols}{xxxiii}% 
+\contentsline {schapter}{Introduction}{xxxv}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxv}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -155,5 +155,11 @@
 \contentsline {section}{\numberline {2.1}D. Irga B. Naufal Fakhri (1174066)}{51}% 
 \contentsline {subsection}{\numberline {2.1.1}Menulis Shapefile dengan PySHP}{51}% 
 \contentsline {subsection}{\numberline {2.1.2}Link}{60}% 
-\contentsline {schapter}{Daftar Pustaka}{61}% 
-\contentsline {schapter}{Index}{63}% 
+\contentsline {section}{\numberline {2.2}Chandra Kirana Poetra (1174079)}{60}% 
+\contentsline {subsection}{\numberline {2.2.1}Tugas Membuat Shapefile dengan PySHP}{60}% 
+\contentsline {subsection}{\numberline {2.2.2}Link}{70}% 
+\contentsline {section}{\numberline {2.3}Tia Nur Candida (1174086)}{70}% 
+\contentsline {subsection}{\numberline {2.3.1}Menulis Shapefile dengan PySHP}{70}% 
+\contentsline {subsection}{\numberline {2.3.2}Link}{78}% 
+\contentsline {schapter}{Daftar Pustaka}{79}% 
+\contentsline {schapter}{Index}{81}% 
