@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xv}% 
-\contentsline {schapter}{Daftar Tabel}{xvii}% 
-\contentsline {schapter}{Foreword}{xxi}% 
-\contentsline {schapter}{Kata Pengantar}{xxiii}% 
-\contentsline {schapter}{Acknowledgments}{xxv}% 
-\contentsline {schapter}{Acronyms}{xxvii}% 
-\contentsline {schapter}{Glossary}{xxix}% 
-\contentsline {schapter}{List of Symbols}{xxxi}% 
-\contentsline {schapter}{Introduction}{xxxiii}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxiii}% 
+\contentsline {schapter}{Daftar Tabel}{xxi}% 
+\contentsline {schapter}{Foreword}{xxvii}% 
+\contentsline {schapter}{Kata Pengantar}{xxix}% 
+\contentsline {schapter}{Acknowledgments}{xxxi}% 
+\contentsline {schapter}{Acronyms}{xxxiii}% 
+\contentsline {schapter}{Glossary}{xxxv}% 
+\contentsline {schapter}{List of Symbols}{xxxvii}% 
+\contentsline {schapter}{Introduction}{xxxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxix}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -155,5 +155,23 @@
 \contentsline {section}{\numberline {2.1}D. Irga B. Naufal Fakhri (1174066)}{51}% 
 \contentsline {subsection}{\numberline {2.1.1}Menulis Shapefile dengan PySHP}{51}% 
 \contentsline {subsection}{\numberline {2.1.2}Link}{60}% 
-\contentsline {schapter}{Daftar Pustaka}{61}% 
-\contentsline {schapter}{Index}{63}% 
+\contentsline {section}{\numberline {2.2}Chandra Kirana Poetra (1174079)}{60}% 
+\contentsline {subsection}{\numberline {2.2.1}Tugas Membuat Shapefile dengan PySHP}{60}% 
+\contentsline {subsection}{\numberline {2.2.2}Link}{70}% 
+\contentsline {section}{\numberline {2.3}Tia Nur Candida (1174086)}{70}% 
+\contentsline {subsection}{\numberline {2.3.1}Menulis Shapefile dengan PySHP}{70}% 
+\contentsline {subsection}{\numberline {2.3.2}Link}{78}% 
+\contentsline {section}{\numberline {2.4}Muhammad Abdul Gani Wijaya 1174071}{78}% 
+\contentsline {subsection}{\numberline {2.4.1}Menggunakan library Shapefile dengan Python (pyshp)}{78}% 
+\contentsline {subsection}{\numberline {2.4.2}Link Youtube}{86}% 
+\contentsline {section}{\numberline {2.5}Muhammad Reza Syachrani (1174084)}{86}% 
+\contentsline {subsection}{\numberline {2.5.1}Menulis Shapefile dengan PySHP}{86}% 
+\contentsline {subsection}{\numberline {2.5.2}Link}{96}% 
+\contentsline {section}{\numberline {2.6}Fanny Shafira Damayanti (1174069)}{96}% 
+\contentsline {subsection}{\numberline {2.6.1}Menulis Shapefile dengan PySHP}{96}% 
+\contentsline {subsection}{\numberline {2.6.2}Link}{105}% 
+\contentsline {section}{\numberline {2.7}Bakti QIlan Mufid (1174083)}{105}% 
+\contentsline {subsection}{\numberline {2.7.1}Tugas Membuat Shapefile dengan PySHP}{105}% 
+\contentsline {subsection}{\numberline {2.7.2}Link}{114}% 
+\contentsline {schapter}{Daftar Pustaka}{115}% 
+\contentsline {schapter}{Index}{117}% 
