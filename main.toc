@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xv}% 
-\contentsline {schapter}{Daftar Tabel}{xix}% 
-\contentsline {schapter}{Foreword}{xxiii}% 
-\contentsline {schapter}{Kata Pengantar}{xxv}% 
-\contentsline {schapter}{Acknowledgments}{xxvii}% 
-\contentsline {schapter}{Acronyms}{xxix}% 
-\contentsline {schapter}{Glossary}{xxxi}% 
-\contentsline {schapter}{List of Symbols}{xxxiii}% 
-\contentsline {schapter}{Introduction}{xxxv}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxv}% 
+\contentsline {schapter}{Daftar Tabel}{xxi}% 
+\contentsline {schapter}{Foreword}{xxvii}% 
+\contentsline {schapter}{Kata Pengantar}{xxix}% 
+\contentsline {schapter}{Acknowledgments}{xxxi}% 
+\contentsline {schapter}{Acronyms}{xxxiii}% 
+\contentsline {schapter}{Glossary}{xxxv}% 
+\contentsline {schapter}{List of Symbols}{xxxvii}% 
+\contentsline {schapter}{Introduction}{xxxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xxxix}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -167,5 +167,8 @@
 \contentsline {section}{\numberline {2.5}Muhammad Reza Syachrani (1174084)}{86}% 
 \contentsline {subsection}{\numberline {2.5.1}Menulis Shapefile dengan PySHP}{86}% 
 \contentsline {subsection}{\numberline {2.5.2}Link}{96}% 
-\contentsline {schapter}{Daftar Pustaka}{97}% 
-\contentsline {schapter}{Index}{99}% 
+\contentsline {section}{\numberline {2.6}Fanny Shafira Damayanti (1174069)}{96}% 
+\contentsline {subsection}{\numberline {2.6.1}Menulis Shapefile dengan PySHP}{96}% 
+\contentsline {subsection}{\numberline {2.6.2}Link}{105}% 
+\contentsline {schapter}{Daftar Pustaka}{107}% 
+\contentsline {schapter}{Index}{109}% 
