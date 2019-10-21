@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.3.26)  14 OCT 2019 19:44
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.15)  21 OCT 2019 17:02
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2018-12-01>
+LaTeX2e <2019-10-01>
 (wileySix.cls
 
 
@@ -63,37 +63,37 @@ Writing index file main.idx
 \chapheight=\dimen112
 \authorskip=\dimen113
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.s
-ty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty
-"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.s
-ty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphi
-cs.cfg"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex
-.def"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.s
-ty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+sty"
 \lst@mode=\count107
 \lst@gtempboxa=\box27
 \lst@token=\toks15
@@ -107,20 +107,20 @@ ty"
 \lst@lineno=\count112
 \lst@maxwidth=\dimen119
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.st
-y"
-File: lstmisc.sty 2019/02/27 1.8b (Carsten Heinz)
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 \c@lstnumber=\count113
 \lst@skipnumbers=\count114
 \lst@framebox=\box28
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.c
-fg"
-File: listings.cfg 2019/02/27 1.8b listings configuration
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
-Package: listings 2019/02/27 1.8b (Carsten Heinz)
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count115
 \float@exts=\toks16
@@ -128,18 +128,19 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box30
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.sty
+"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.
-cfg"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color
+.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.s
-ty"
-File: lstlang1.sty 2019/02/27 1.8b listings language file
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlang1.
+sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
 ) (w-bookps.sty
 
 
@@ -170,14 +171,14 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 130.
 LaTeX Font Info:    ... okay on input line 130.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
 LaTeX Font Info:    ... okay on input line 130.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 130.
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+30.
 
-
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pd
-f.mkii"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
 \scratchdimen=\dimen120
@@ -191,50 +192,50 @@ f.mkii"
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks19
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-b
-ase.sty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-
+base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarer
-r.sty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infware
+rr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty
-"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.st
+y"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefine
-keys.sty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefin
+ekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.
-sty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds
+.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.
-sty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions
+.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkey
-s.sty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetke
+ys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds
-.sty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmd
+s.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluatex
-.sty"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifluate
+x.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexcm
-ds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.st
-y"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.s
+ty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -257,7 +258,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 149--149
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/ASUS/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/kaka_/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
@@ -303,7 +304,40 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[10])
+[10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[13])
 \tf@toc=\write4
 \openout4 = `main.toc'.
 
@@ -315,9 +349,41 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[11] [12
+[14] (main.lof [15
 
-] (main.lof [13])
+]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[16]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[18]
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[19])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
@@ -329,54 +395,66 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[14] (main.lot)
+[20] (main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [15
+ [21
 
-] [16
+] [22
 
-] (main.lol)
+] (main.lol
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [23]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[24])
 \tf@lol=\write7
 \openout7 = `main.lol'.
 
- [17] [18
 
-] (info/foreword.tex) [19]
-[20
+Overfull \vbox (4.85098pt too high) has occurred while \output is active []
 
-] (info/preface.tex) [21] [22
 
-] (info/acknowledgments.tex [23]) [24
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[25] [26
+
+] (info/foreword.tex) [27] [28
+
+] (info/preface.tex) [29] [30
 
 ]
-(info/acronyms.tex)
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 188.
+(info/acknowledgments.tex [31]) [32
 
+] (info/acronyms.tex)
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
+88.
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 188.
+[33] [34
 
-[25] [26
+] (info/glossary.tex) [35] [36
 
-] (info/glossary.tex) [27] [28
-
-] (info/symbols.tex) [29] [30
+] (info/symbols.tex) [37] [38
 
 ]
-(info/introduction.tex
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
-
-
-LaTeX Warning: Citation `awangga2018sampeu' on page xxxi undefined on input lin
-e 13.
-
-) [31] [32
+(info/introduction.tex) [39] [40
 
 ]
 Bab 1.
@@ -385,12 +463,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (chapters/tugas1/1174xxx.tex
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 12.
 
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
 
  []
 
-<figures/himatif.png, id=112, 301.125pt x 251.94125pt>
+<figures/himatif.png, id=136, 301.125pt x 251.94125pt>
 File: figures/himatif.png Graphic file (type png)
 <use figures/himatif.png>
 Package pdftex.def Info: figures/himatif.png  used on input line 16.
@@ -400,7 +480,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1])
 (chapters/tugas1/1174066.tex
-<figures/Tugas1/1174066/kartesius.png, id=118, 250.9375pt x 250.9375pt>
+<figures/Tugas1/1174066/kartesius.png, id=142, 250.9375pt x 250.9375pt>
 File: figures/Tugas1/1174066/kartesius.png Graphic file (type png)
 <use figures/Tugas1/1174066/kartesius.png>
 Package pdftex.def Info: figures/Tugas1/1174066/kartesius.png  used on input li
@@ -415,13 +495,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [2 <./figures/himatif.png>]
-<figures/Tugas1/1174066/polar.png, id=123, 250.9375pt x 206.7725pt>
+<figures/Tugas1/1174066/polar.png, id=148, 250.9375pt x 206.7725pt>
 File: figures/Tugas1/1174066/polar.png Graphic file (type png)
 <use figures/Tugas1/1174066/polar.png>
 Package pdftex.def Info: figures/Tugas1/1174066/polar.png  used on input line 2
 7.
 (pdftex.def)             Requested size: 113.81102pt x 93.78189pt.
-<figures/Tugas1/1174066/plagiat.jpg, id=124, 1445.4pt x 727.96968pt>
+<figures/Tugas1/1174066/plagiat.jpg, id=149, 1445.4pt x 727.96968pt>
 File: figures/Tugas1/1174066/plagiat.jpg Graphic file (type jpg)
 <use figures/Tugas1/1174066/plagiat.jpg>
 Package pdftex.def Info: figures/Tugas1/1174066/plagiat.jpg  used on input line
@@ -440,7 +520,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [3 <./figures/Tugas1/1174066/kartesius.png> <./figures/Tugas1/1174066/polar.png
 >]
-<figures/Tugas1/1174079/vector.png, id=130, 426.59375pt x 388.45125pt>
+<figures/Tugas1/1174079/vector.png, id=155, 426.59375pt x 388.45125pt>
 File: figures/Tugas1/1174079/vector.png Graphic file (type png)
 <use figures/Tugas1/1174079/vector.png>
 Package pdftex.def Info: figures/Tugas1/1174079/vector.png  used on input line 
@@ -467,7 +547,7 @@ Overfull \hbox (3.73724pt too wide) in paragraph at lines 18--19
  karena database
  []
 
-<figures/Tugas1/1174079/plagiarisme.png, id=134, 421.575pt x 439.6425pt>
+<figures/Tugas1/1174079/plagiarisme.png, id=160, 421.575pt x 439.6425pt>
 File: figures/Tugas1/1174079/plagiarisme.png Graphic file (type png)
 <use figures/Tugas1/1174079/plagiarisme.png>
 Package pdftex.def Info: figures/Tugas1/1174079/plagiarisme.png  used on input 
@@ -507,7 +587,7 @@ Overfull \hbox (4.02678pt too wide) in paragraph at lines 9--10
 wa ap-likasi pemetaan
  []
 
-<figures/Tugas1/1174089/plagiarisme.png, id=143, 642.90187pt x 433.62pt>
+<figures/Tugas1/1174089/plagiarisme.png, id=168, 642.90187pt x 433.62pt>
 File: figures/Tugas1/1174089/plagiarisme.png Graphic file (type png)
 <use figures/Tugas1/1174089/plagiarisme.png>
 Package pdftex.def Info: figures/Tugas1/1174089/plagiarisme.png  used on input 
@@ -556,13 +636,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [9]
-<figures/Tugas1/1174086/plagiat.jpg, id=154, 663.22781pt x 378.66469pt>
+<figures/Tugas1/1174086/plagiat.jpg, id=179, 663.22781pt x 378.66469pt>
 File: figures/Tugas1/1174086/plagiat.jpg Graphic file (type jpg)
 <use figures/Tugas1/1174086/plagiat.jpg>
 Package pdftex.def Info: figures/Tugas1/1174086/plagiat.jpg  used on input line
  23.
 (pdftex.def)             Requested size: 113.81102pt x 64.97882pt.
-) (chapters/tugas1/1174069.tex
+) (chapters/tugas1/1174067.tex
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -571,6 +651,29 @@ Underfull \hbox (badness 10000) has occurred while \output is active
  []
 
 [10 <./figures/Tugas1/1174086/plagiat.jpg>]
+<figures/Tugas1/1174067/plagiat.png, id=184, 523.9575pt x 560.8453pt>
+File: figures/Tugas1/1174067/plagiat.png Graphic file (type png)
+<use figures/Tugas1/1174067/plagiat.png>
+Package pdftex.def Info: figures/Tugas1/1174067/plagiat.png  used on input line
+ 24.
+(pdftex.def)             Requested size: 113.81102pt x 121.82027pt.
+) (chapters/tugas1/1174069.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[11]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[12 <./figures/Tugas1/1174067/plagiat.png>]
 Overfull \hbox (4.02678pt too wide) in paragraph at lines 15--16
 \OT1/ptm/m/n/10 kom-puter yang di-pacu oleh peneli-tian sen-jata nuk-lir mem-ba
 wa ap-likasi pemetaan
@@ -589,14 +692,6 @@ pada skala 1:250000.
  []
 
 
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[11]
 Overfull \hbox (8.08728pt too wide) in paragraph at lines 21--22
 \OT1/ptm/m/n/10 pemetaan komer-sil yang dikelu-arkan be-ber-apa ven-dor seperti
  In-ter-graph. Perkem-
@@ -608,7 +703,7 @@ Overfull \hbox (13.67683pt too wide) in paragraph at lines 21--22
 gek-spor menampilkan
  []
 
-<figures/Tugas1/1174069/lintang.jpg, id=161, 119.69719pt x 118.94438pt>
+<figures/Tugas1/1174069/lintang.jpg, id=192, 119.69719pt x 118.94438pt>
 File: figures/Tugas1/1174069/lintang.jpg Graphic file (type jpg)
 <use figures/Tugas1/1174069/lintang.jpg>
 Package pdftex.def Info: figures/Tugas1/1174069/lintang.jpg  used on input line
@@ -622,14 +717,23 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[12 <./figures/Tugas1/1174069/lintang.jpg>]
-<figures/Tugas1/1174069/bujur.jpg, id=166, 117.43875pt x 118.19156pt>
+[13]
+<figures/Tugas1/1174069/bujur.jpg, id=196, 117.43875pt x 118.19156pt>
 File: figures/Tugas1/1174069/bujur.jpg Graphic file (type jpg)
 <use figures/Tugas1/1174069/bujur.jpg>
 Package pdftex.def Info: figures/Tugas1/1174069/bujur.jpg  used on input line 3
 8.
 (pdftex.def)             Requested size: 113.81102pt x 114.54106pt.
 
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[14 <./figures/Tugas1/1174069/lintang.jpg> <./figures/Tugas1/1174069/bujur.jpg>
+]
 Overfull \hbox (5.96661pt too wide) in paragraph at lines 48--49
 []\OT1/ptm/m/n/10 Contoh data spasial an-tara lain letak su-atu wilayah, po-sis
 i sum-ber minyak bumi,dsb.
@@ -643,22 +747,17 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[13 <./figures/Tugas1/1174069/bujur.jpg>]
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[14]
-<figures/Tugas1/1174069/plagiarism.png, id=173, 1028.34187pt x 578.16pt>
+[15]
+<figures/Tugas1/1174069/plagiarism.png, id=203, 1028.34187pt x 578.16pt>
 File: figures/Tugas1/1174069/plagiarism.png Graphic file (type png)
 <use figures/Tugas1/1174069/plagiarism.png>
 Package pdftex.def Info: figures/Tugas1/1174069/plagiarism.png  used on input l
 ine 88.
 (pdftex.def)             Requested size: 113.81102pt x 63.98596pt.
-) (chapters/tugas1/1174087.tex
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -666,55 +765,41 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[15 <./figures/Tugas1/1174069/plagiarism.png>]
-<figures/Tugas1/1174087/vektor.png, id=177, 142.28156pt x 248.42813pt>
+[16]) (chapters/tugas1/1174087.tex
+<figures/Tugas1/1174087/vektor.png, id=208, 142.28156pt x 248.42813pt>
 File: figures/Tugas1/1174087/vektor.png Graphic file (type png)
 <use figures/Tugas1/1174087/vektor.png>
 Package pdftex.def Info: figures/Tugas1/1174087/vektor.png  used on input line 
 14.
 (pdftex.def)             Requested size: 113.81102pt x 198.7276pt.
-<figures/Tugas1/1174087/lp.jpg, id=178, 190.46156pt x 191.21437pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[17 <./figures/Tugas1/1174069/plagiarism.png>]
+<figures/Tugas1/1174087/lp.jpg, id=212, 190.46156pt x 191.21437pt>
 File: figures/Tugas1/1174087/lp.jpg Graphic file (type jpg)
 <use figures/Tugas1/1174087/lp.jpg>
 Package pdftex.def Info: figures/Tugas1/1174087/lp.jpg  used on input line 25.
 (pdftex.def)             Requested size: 113.81102pt x 114.25975pt.
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-Overfull \vbox (6.372pt too high) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) has occurred while \output is active
-[]
- []
-
-[16 <./figures/Tugas1/1174087/vektor.png>]
 Overfull \hbox (5.74805pt too wide) in paragraph at lines 31--32
 \OT1/ptm/m/n/10 ada dibumi. Con-tohnya gam-baran laut, garis pan-tai, terumbu k
 arang,
  []
 
-<figures/Tugas1/1174087/pc.jpg, id=183, 445.665pt x 123.46124pt>
+<figures/Tugas1/1174087/pc.jpg, id=213, 445.665pt x 123.46124pt>
 File: figures/Tugas1/1174087/pc.jpg Graphic file (type jpg)
 <use figures/Tugas1/1174087/pc.jpg>
 Package pdftex.def Info: figures/Tugas1/1174087/pc.jpg  used on input line 34.
 (pdftex.def)             Requested size: 113.81102pt x 31.52834pt.
-
-Overfull \hbox (1.79674pt too wide) in paragraph at lines 41--42
-[]\OT1/ptm/m/n/10 Data raster menampilkan per-mukaan bumi seperti ben-tuk aslin
-ya atau seperti
- []
-
-<figures/Tugas1/1174087/raster.png, id=184, 134.00063pt x 245.41687pt>
-File: figures/Tugas1/1174087/raster.png Graphic file (type png)
-<use figures/Tugas1/1174087/raster.png>
-Package pdftex.def Info: figures/Tugas1/1174087/raster.png  used on input line 
-44.
-(pdftex.def)             Requested size: 113.81102pt x 208.44054pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
@@ -723,22 +808,30 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[17 <./figures/Tugas1/1174087/lp.jpg> <./figures/Tugas1/1174087/pc.jpg>]
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 55.
+[18 <./figures/Tugas1/1174087/vektor.png> <./figures/Tugas1/1174087/lp.jpg>]
+Overfull \hbox (1.79674pt too wide) in paragraph at lines 41--42
+[]\OT1/ptm/m/n/10 Data raster menampilkan per-mukaan bumi seperti ben-tuk aslin
+ya atau seperti
+ []
 
-("C:\Users\ASUS\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
+<figures/Tugas1/1174087/raster.png, id=218, 134.00063pt x 245.41687pt>
+File: figures/Tugas1/1174087/raster.png Graphic file (type png)
+<use figures/Tugas1/1174087/raster.png>
+Package pdftex.def Info: figures/Tugas1/1174087/raster.png  used on input line 
+44.
+(pdftex.def)             Requested size: 113.81102pt x 208.44054pt.
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 5
+5.
+("C:\Users\kaka_\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
-<figures/Tugas1/1174087/plagiarism.png, id=188, 631.60968pt x 330.48468pt>
+<figures/Tugas1/1174087/plagiarism.png, id=219, 631.60968pt x 330.48468pt>
 File: figures/Tugas1/1174087/plagiarism.png Graphic file (type png)
 <use figures/Tugas1/1174087/plagiarism.png>
 Package pdftex.def Info: figures/Tugas1/1174087/plagiarism.png  used on input l
 ine 59.
 (pdftex.def)             Requested size: 113.81102pt x 59.55023pt.
 ) (chapters/tugas1/1174077.tex
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -746,8 +839,7 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[18 <./figures/Tugas1/1174087/raster.png> <./figures/Tugas1/1174087/plagiarism.
-png>]
+[19 <./figures/Tugas1/1174087/pc.jpg> <./figures/Tugas1/1174087/raster.png>]
 Overfull \hbox (4.13719pt too wide) in paragraph at lines 15--16
 \OT1/ptm/m/n/10 dari berba-gai tem-pat di dunia, be-serta ko-or-di-nat, yang me
 m-bolehkan para pelukis
@@ -773,8 +865,8 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[19]
-<figures/tugas1/1174077/plagarisme.PNG, id=199, 639.89063pt x 486.31688pt>
+[20 <./figures/Tugas1/1174087/plagiarism.png>]
+<figures/tugas1/1174077/plagarisme.PNG, id=229, 639.89063pt x 486.31688pt>
 File: figures/tugas1/1174077/plagarisme.PNG Graphic file (type png)
 <use figures/tugas1/1174077/plagarisme.PNG>
 Package pdftex.def Info: figures/tugas1/1174077/plagarisme.PNG  used on input l
@@ -785,8 +877,12 @@ Overfull \hbox (5.43494pt too wide) in paragraph at lines 30--31
  [][] 
  []
 
-)
-No file main.bbl.
+) (chapters/tugas1/1174084.tex
+Overfull \hbox (0.60895pt too wide) in paragraph at lines 6--8
+  \OT1/ptm/m/n/10 Sis-tem In-for-masi Ge-ografis (SIG) atau Ge-o-graphic In-for
+-ma-tion Sys-tem (GIS)
+ []
+
 
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
@@ -795,44 +891,1745 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[20 <./figures/tugas1/1174077/plagarisme.PNG>]
-No file main.ind.
-(main.aux)
+[21]
+Overfull \hbox (3.99669pt too wide) in paragraph at lines 18--20
+[]\OT1/ptm/m/n/10 Sistem Sis-tem meru-pakan kumpu-lan elemen-elemen yang berin-
+te-grasi dan berin-
+ []
 
-LaTeX Warning: There were undefined references.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
 
- ) 
+[22 <./figures/tugas1/1174077/plagarisme.PNG>]
+<figures/Tugas1/1174084/plagiarism.png, id=238, 630.55576pt x 469.15276pt>
+File: figures/Tugas1/1174084/plagiarism.png Graphic file (type png)
+<use figures/Tugas1/1174084/plagiarism.png>
+Package pdftex.def Info: figures/Tugas1/1174084/plagiarism.png  used on input l
+ine 40.
+(pdftex.def)             Requested size: 113.81102pt x 84.67293pt.
+) (chapters/tugas1/1174070.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[23 <./figures/Tugas1/1174084/plagiarism.png>]
+<figures/Tugas1/1174070/kartesius.png, id=243, 250.9375pt x 250.9375pt>
+File: figures/Tugas1/1174070/kartesius.png Graphic file (type png)
+<use figures/Tugas1/1174070/kartesius.png>
+Package pdftex.def Info: figures/Tugas1/1174070/kartesius.png  used on input li
+ne 14.
+(pdftex.def)             Requested size: 113.81102pt x 113.81297pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[24 <./figures/Tugas1/1174070/kartesius.png>]
+<figures/Tugas1/1174070/polar.png, id=248, 250.9375pt x 206.7725pt>
+File: figures/Tugas1/1174070/polar.png Graphic file (type png)
+<use figures/Tugas1/1174070/polar.png>
+Package pdftex.def Info: figures/Tugas1/1174070/polar.png  used on input line 2
+7.
+(pdftex.def)             Requested size: 113.81102pt x 93.78189pt.
+<figures/Tugas1/1174070/plagiat.jpg, id=249, 1445.4pt x 727.96968pt>
+File: figures/Tugas1/1174070/plagiat.jpg Graphic file (type jpg)
+<use figures/Tugas1/1174070/plagiat.jpg>
+Package pdftex.def Info: figures/Tugas1/1174070/plagiat.jpg  used on input line
+ 37.
+(pdftex.def)             Requested size: 113.81102pt x 57.3168pt.
+) (chapters/tugas1/1174083.tex
+Overfull \hbox (0.14784pt too wide) in paragraph at lines 6--7
+\OT1/ptm/m/n/10 bumi. Ben-tuk an-thro-pogenic men-gan-dung di-dalam-nya fenom-e
+na bu-daya seperti
+ []
+
+
+Overfull \hbox (6.16647pt too wide) in paragraph at lines 6--7
+\OT1/ptm/m/n/10 as-pek ad-min-is-tratif adalah pem-ba-gian atau pem-bat-asan so
+sio-kultular yang dibuat
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[25 <./figures/Tugas1/1174070/polar.png> <./figures/Tugas1/1174070/plagiat.jpg>
+]
+Overfull \hbox (4.42726pt too wide) in paragraph at lines 8--9
+[]\OT1/ptm/m/n/10 SIG mu-lai dike-nal pada awal 1980-an. Se-jalan den-gan berke
+m-bangnya perangkat
+ []
+
+<figures/Tugas1/1174083/Raster.jpg, id=254, 320.69812pt x 217.5628pt>
+File: figures/Tugas1/1174083/Raster.jpg Graphic file (type jpg)
+<use figures/Tugas1/1174083/Raster.jpg>
+Package pdftex.def Info: figures/Tugas1/1174083/Raster.jpg  used on input line 
+16.
+(pdftex.def)             Requested size: 113.81102pt x 77.2071pt.
+<figures/Tugas1/1174083/vektor.jpg, id=255, 304.88907pt x 208.52907pt>
+File: figures/Tugas1/1174083/vektor.jpg Graphic file (type jpg)
+<use figures/Tugas1/1174083/vektor.jpg>
+Package pdftex.def Info: figures/Tugas1/1174083/vektor.jpg  used on input line 
+22.
+(pdftex.def)             Requested size: 113.81102pt x 77.84183pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[26 <./figures/Tugas1/1174083/Raster.jpg>]
+<figures/Tugas1/1174083/plagiarsm.jpg, id=259, 615.0478pt x 367.3725pt>
+File: figures/Tugas1/1174083/plagiarsm.jpg Graphic file (type jpg)
+<use figures/Tugas1/1174083/plagiarsm.jpg>
+Package pdftex.def Info: figures/Tugas1/1174083/plagiarsm.jpg  used on input li
+ne 33.
+(pdftex.def)             Requested size: 113.81102pt x 67.97966pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 41--42
+
+ []
+
+File: figures/himatif.png Graphic file (type png)
+<use figures/himatif.png>
+Package pdftex.def Info: figures/himatif.png  used on input line 45.
+(pdftex.def)             Requested size: 113.81102pt x 95.22353pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[27 <./figures/Tugas1/1174083/vektor.jpg> <./figures/Tugas1/1174083/plagiarsm.j
+pg>]) (chapters/tugas1/1174091.tex
+Overfull \hbox (1.29729pt too wide) in paragraph at lines 13--14
+[]\OT1/ptm/m/n/10 Geographic Database. Tu-juan dari ba-sis data ge-ografis adal
+ah un-tuk menam-
+ []
+
+<figures/Tugas1/1174091/plagiarisme.png, id=263, 651.18282pt x 349.305pt>
+File: figures/Tugas1/1174091/plagiarisme.png Graphic file (type png)
+<use figures/Tugas1/1174091/plagiarisme.png>
+Package pdftex.def Info: figures/Tugas1/1174091/plagiarisme.png  used on input 
+line 24.
+(pdftex.def)             Requested size: 227.62204pt x 122.09868pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 32--33
+
+ []
+
+File: figures/himatif.png Graphic file (type png)
+<use figures/himatif.png>
+Package pdftex.def Info: figures/himatif.png  used on input line 36.
+(pdftex.def)             Requested size: 113.81102pt x 95.22353pt.
+) (chapters/tugas1/1174062.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[29 <./figures/Tugas1/1174091/plagiarisme.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 10--17
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--25
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 29--31
+
+ []
+
+
+Underfull \vbox (badness 4927) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[30]
+Overfull \hbox (0.67711pt too wide) in paragraph at lines 31--33
+\OT1/ptm/m/n/10 bawa se-mua penge-tahuan dan keter-ampi-lan matem-atika dan as-
+tronomi dan men-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 33--35
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--42
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[31]
+<figures/Tugas1/1174062/plagiat.png, id=278, 631.60968pt x 136.25906pt>
+File: figures/Tugas1/1174062/plagiat.png Graphic file (type png)
+<use figures/Tugas1/1174062/plagiat.png>
+Package pdftex.def Info: figures/Tugas1/1174062/plagiat.png  used on input line
+ 55.
+(pdftex.def)             Requested size: 113.81102pt x 24.5526pt.
+) (chapters/tugas1/1174073.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[32 <./figures/Tugas1/1174062/plagiat.png>]
+Overfull \hbox (5.89676pt too wide) in paragraph at lines 25--26
+\OT1/ptm/m/n/10 kon-sep ten-tang bumi dalam hal ini peta meru-pakan alat un-tuk
+ me-lengkapi atau memuat
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[33]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[34]
+<figures/Tugas1/1174073/plagiarism.png, id=289, 1927.2pt x 1084.05pt>
+File: figures/Tugas1/1174073/plagiarism.png Graphic file (type png)
+<use figures/Tugas1/1174073/plagiarism.png>
+Package pdftex.def Info: figures/Tugas1/1174073/plagiarism.png  used on input l
+ine 41.
+(pdftex.def)             Requested size: 113.81102pt x 64.01463pt.
+) (chapters/tugas1/1174054.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[35 <./figures/Tugas1/1174073/plagiarism.png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[36]
+Overfull \hbox (7.80739pt too wide) in paragraph at lines 35--36
+\OT1/ptm/m/n/10 terkan-dung di-dalam buku Ge-ographia, di-t-ulis kira-kira pada
+ 150 masehi walaupun
+ []
+
+
+Overfull \hbox (2.23717pt too wide) in paragraph at lines 35--36
+\OT1/ptm/m/n/10 dari berba-gai tem-pat didunia, be-serta ko-or-di-nat, yang mem
+-bolehkan para pelukis
+ []
+
+
+Overfull \hbox (3.6866pt too wide) in paragraph at lines 39--40
+[]\OT1/ptm/m/n/10 Ptolemy mem-perki-rakan uku-ran bumi ter-lalu ke-cil, se-men-
+tara Er-atosthones men-
+ []
+
+
+Overfull \hbox (0.36676pt too wide) in paragraph at lines 41--42
+[]\OT1/ptm/m/n/10 Karena Ptolemy be-rasal dari garis lin-tang uta-manya dari ni
+-lai ter-pan-jang minyak
+ []
+
+
+Overfull \hbox (10.6874pt too wide) in paragraph at lines 50--51
+\OT1/ptm/m/n/10 trigonometri seder-hana dan den-gan men-ge-nali bumi se-ba-gai 
+bola di ru-ang angkasa. 
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[37]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[38]
+Overfull \hbox (27.79692pt too wide) in paragraph at lines 78--80
+\OT1/ptm/m/n/10 Data Vek-tor adalah data yang di-rekam dalam ben-tuk ko-or-di-n
+at titik yang menampilkan,
+ []
+
+<figures/Tugas1/1174054/plagiarismetgas1.png, id=303, 1028.34187pt x 578.16pt>
+File: figures/Tugas1/1174054/plagiarismetgas1.png Graphic file (type png)
+<use figures/Tugas1/1174054/plagiarismetgas1.png>
+Package pdftex.def Info: figures/Tugas1/1174054/plagiarismetgas1.png  used on i
+nput line 90.
+(pdftex.def)             Requested size: 113.81102pt x 63.98596pt.
+) (chapters/tugas1/1174076.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[39]
+<figures/Tugas1/1174076/1174076.png, id=307, 484.05844pt x 377.91188pt>
+File: figures/Tugas1/1174076/1174076.png Graphic file (type png)
+<use figures/Tugas1/1174076/1174076.png>
+Package pdftex.def Info: figures/Tugas1/1174076/1174076.png  used on input line
+ 26.
+(pdftex.def)             Requested size: 227.62567pt x 227.6196pt.
+) (chapters/tugas1/1174074.tex
+Underfull \vbox (badness 1838) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[40 <./figures/Tugas1/1174054/plagiarismetgas1.png>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[41 <./figures/Tugas1/1174076/1174076.png>]
+Overfull \hbox (1.48691pt too wide) in paragraph at lines 21--23
+[]\OT1/ptm/m/n/10 Sistem Ko-r-di-nat Sis-tem ko-r-di-nat meru-pakan su-atu pa-r
+am-e-ter yang me-nun-jukkan
+ []
+
+<figures/Tugas1/1174074/dimensi1.jpg, id=316, 225.84375pt x 38.39343pt>
+File: figures/Tugas1/1174074/dimensi1.jpg Graphic file (type jpg)
+<use figures/Tugas1/1174074/dimensi1.jpg>
+Package pdftex.def Info: figures/Tugas1/1174074/dimensi1.jpg  used on input lin
+e 29.
+(pdftex.def)             Requested size: 113.81102pt x 19.34839pt.
+<figures/Tugas1/1174074/dimensi2.jpg, id=317, 225.84375pt x 120.45pt>
+File: figures/Tugas1/1174074/dimensi2.jpg Graphic file (type jpg)
+<use figures/Tugas1/1174074/dimensi2.jpg>
+Package pdftex.def Info: figures/Tugas1/1174074/dimensi2.jpg  used on input lin
+e 37.
+(pdftex.def)             Requested size: 113.81102pt x 60.70085pt.
+<figures/Tugas1/1174074/dimensi3.jpg, id=318, 225.84375pt x 144.54pt>
+File: figures/Tugas1/1174074/dimensi3.jpg Graphic file (type jpg)
+<use figures/Tugas1/1174074/dimensi3.jpg>
+Package pdftex.def Info: figures/Tugas1/1174074/dimensi3.jpg  used on input lin
+e 45.
+(pdftex.def)             Requested size: 113.81102pt x 72.84103pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[42 <./figures/Tugas1/1174074/dimensi1.jpg> <./figures/Tugas1/1174074/dimensi2.
+jpg>]
+<figures/Tugas1/1174074/plagiat.png, id=322, 525.46312pt x 433.62pt>
+File: figures/Tugas1/1174074/plagiat.png Graphic file (type png)
+<use figures/Tugas1/1174074/plagiat.png>
+Package pdftex.def Info: figures/Tugas1/1174074/plagiat.png  used on input line
+ 56.
+(pdftex.def)             Requested size: 113.81102pt x 93.9146pt.
+) (chapters/tugas1/1174071.tex
+<figures/Tugas1/1174071/Geospasial.jpg, id=323, 451.6875pt x 302.63063pt>
+File: figures/Tugas1/1174071/Geospasial.jpg Graphic file (type jpg)
+<use figures/Tugas1/1174071/Geospasial.jpg>
+Package pdftex.def Info: figures/Tugas1/1174071/Geospasial.jpg  used on input l
+ine 6.
+(pdftex.def)             Requested size: 170.71947pt x 170.71878pt.
+<figures/Tugas1/1174071/Raster.png, id=324, 277.035pt x 173.89969pt>
+File: figures/Tugas1/1174071/Raster.png Graphic file (type png)
+<use figures/Tugas1/1174071/Raster.png>
+Package pdftex.def Info: figures/Tugas1/1174071/Raster.png  used on input line 
+13.
+(pdftex.def)             Requested size: 170.71579pt x 170.723pt.
+<figures/Tugas1/1174071/Vektor.PNG, id=325, 749.80125pt x 268.00125pt>
+File: figures/Tugas1/1174071/Vektor.PNG Graphic file (type png)
+<use figures/Tugas1/1174071/Vektor.PNG>
+Package pdftex.def Info: figures/Tugas1/1174071/Vektor.PNG  used on input line 
+20.
+(pdftex.def)             Requested size: 170.71162pt x 170.7146pt.
+
+Overfull \hbox (9.87688pt too wide) in paragraph at lines 17--23
+\OT1/ptm/m/n/10 Data vec-tor adalah data yang dis-im-pan dalam ben-tuk ko-or-di
+-nat titik yang menampilkan,
+ []
+
+
+Underfull \vbox (badness 1990) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[43 <./figures/Tugas1/1174074/dimensi3.jpg> <./figures/Tugas1/1174074/plagiat.p
+ng>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[44 <./figures/Tugas1/1174071/Geospasial.jpg> <./figures/Tugas1/1174071/Raster.
+png (PNG copy)>]
+<figures/Tugas1/1174071/OGC.jpg, id=333, 1188.44pt x 597.23125pt>
+File: figures/Tugas1/1174071/OGC.jpg Graphic file (type jpg)
+<use figures/Tugas1/1174071/OGC.jpg>
+Package pdftex.def Info: figures/Tugas1/1174071/OGC.jpg  used on input line 27.
+
+(pdftex.def)             Requested size: 170.71452pt x 170.71388pt.
+
+Overfull \hbox (4.287pt too wide) in paragraph at lines 24--30
+\OT1/ptm/m/n/10 didefin-isikan oleh OGC, yang memu-ngkinkan se-mua je-nis fungs
+i geospasial. Layanan
+ []
+
+<figures/Tugas1/1174071/Plagiarism.png, id=334, 944.7797pt x 327.47343pt>
+File: figures/Tugas1/1174071/Plagiarism.png Graphic file (type png)
+<use figures/Tugas1/1174071/Plagiarism.png>
+Package pdftex.def Info: figures/Tugas1/1174071/Plagiarism.png  used on input l
+ine 35.
+(pdftex.def)             Requested size: 426.79037pt x 284.52983pt.
+
+Overfull \hbox (90.79037pt too wide) in paragraph at lines 35--36
+ [][] 
+ []
+
+) (chapters/tugas1/1174080.tex
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[45 <./figures/Tugas1/1174071/Vektor.PNG>]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[46 <./figures/Tugas1/1174071/OGC.jpg> <./figures/Tugas1/1174071/Plagiarism.png
+>]
+Overfull \hbox (11.31621pt too wide) in paragraph at lines 5--6
+[]\OT1/ptm/m/n/10 Sistem in-for-masi ge-ografis di-ar-tikan se-ba-gai sis-tem u
+n-tuk meny-im-pan, memeriksa,
+ []
+
+
+Overfull \hbox (2.83676pt too wide) in paragraph at lines 5--6
+\OT1/ptm/m/n/10 meng-in-te-grasi, me-ma-nip-u-lasi, men-ganan-li-sis dan mema-p
+arkan data yang berkai-
+ []
+
+
+Overfull \hbox (4.09741pt too wide) in paragraph at lines 6--7
+\OT1/ptm/m/n/10 den-gan meng-gu-nakan tiga karak-ter-is-tik dasar, yaitu fenom-
+ena yang ak-tual, meru-
+ []
+
+
+Overfull \hbox (8.09671pt too wide) in paragraph at lines 30--31
+[]\OT1/ptm/m/n/10 Software GIS meru-pakan Ar-cGIS un-tuk tu-juan per-an-can-gan
+, pen-gu-ru-san, ataupun
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[47]) (chapters/tugas1/1174053.tex
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[48]
+Overfull \hbox (5.89676pt too wide) in paragraph at lines 25--26
+\OT1/ptm/m/n/10 kon-sep ten-tang bumi dalam hal ini peta meru-pakan alat un-tuk
+ me-lengkapi atau memuat
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[49])
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[50]
+Bab 2.
+(chapters/tugas2/1174066.tex (src/tugas2/1174066/No1.py
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+ [51
+
+])
+<figures/Tugas2/1174066/No1.jpeg, id=357, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No1.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No1.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No1.jpeg  used on input line 7.
+
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+(src/tugas2/1174066/No2.py)
+<figures/Tugas2/1174066/No2.jpeg, id=358, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No2.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No2.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No2.jpeg  used on input line 14
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[52 <./figures/Tugas2/1174066/No1.jpeg>] (src/tugas2/1174066/No3.py)
+<figures/Tugas2/1174066/No3.jpeg, id=363, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No3.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No3.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No3.jpeg  used on input line 21
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[53 <./figures/Tugas2/1174066/No2.jpeg>] (src/tugas2/1174066/No4.py)
+<figures/Tugas2/1174066/No4.jpeg, id=367, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No4.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No4.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No4.jpeg  used on input line 28
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[54 <./figures/Tugas2/1174066/No3.jpeg>] (src/tugas2/1174066/No5.py)
+<figures/Tugas2/1174066/No5.jpeg, id=371, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No5.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No5.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No5.jpeg  used on input line 35
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[55 <./figures/Tugas2/1174066/No4.jpeg> <./figures/Tugas2/1174066/No5.jpeg>]
+(src/tugas2/1174066/No6.py)
+<figures/Tugas2/1174066/No6.jpeg, id=375, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No6.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No6.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No6.jpeg  used on input line 42
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+ (src/tugas2/1174066/No7.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [56 <./figures/Tugas2/1174066/No6.jpeg>])
+<figures/Tugas2/1174066/No7.jpeg, id=379, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No7.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No7.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No7.jpeg  used on input line 49
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+ (src/tugas2/1174066/No8.py)
+<figures/Tugas2/1174066/No8.jpeg, id=380, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No8.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No8.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No8.jpeg  used on input line 56
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Underfull \vbox (badness 3989) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[57 <./figures/Tugas2/1174066/No7.jpeg>] (src/tugas2/1174066/No9.py)
+<figures/Tugas2/1174066/No9.jpeg, id=384, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No9.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No9.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No9.jpeg  used on input line 63
+.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[58 <./figures/Tugas2/1174066/No8.jpeg>] (src/tugas2/1174066/No10.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [59 <./figures/Tugas2/1174066/No9.jpeg>])
+<figures/Tugas2/1174066/No10.jpeg, id=392, 589.4522pt x 434.37282pt>
+File: figures/Tugas2/1174066/No10.jpeg Graphic file (type jpg)
+<use figures/Tugas2/1174066/No10.jpeg>
+Package pdftex.def Info: figures/Tugas2/1174066/No10.jpeg  used on input line 7
+0.
+(pdftex.def)             Requested size: 170.71652pt x 125.79918pt.
+) (chapters/tugas2/1174079.tex
+(src/tugas2/1174079/no1.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [60 <./figures/Tugas2/1174066/No10.jpeg>])
+<figures/Tugas2/1174079/no1.PNG, id=396, 793.46437pt x 438.8897pt>
+File: figures/Tugas2/1174079/no1.PNG Graphic file (type png)
+<use figures/Tugas2/1174079/no1.PNG>
+Package pdftex.def Info: figures/Tugas2/1174079/no1.PNG  used on input line 7.
+(pdftex.def)             Requested size: 170.71652pt x 94.4264pt.
+ (src/tugas2/1174079/no2.py)
+<figures/Tugas2/1174079/no2.PNG, id=397, 539.76656pt x 441.90094pt>
+File: figures/Tugas2/1174079/no2.PNG Graphic file (type png)
+<use figures/Tugas2/1174079/no2.PNG>
+Package pdftex.def Info: figures/Tugas2/1174079/no2.PNG  used on input line 14.
+
+(pdftex.def)             Requested size: 170.71652pt x 139.76593pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[61 <./figures/Tugas2/1174079/no1.PNG>] (src/tugas2/1174079/no3.py)
+<figures/Tugas2/1174079/no3.PNG, id=402, 508.90125pt x 435.12563pt>
+File: figures/Tugas2/1174079/no3.PNG Graphic file (type png)
+<use figures/Tugas2/1174079/no3.PNG>
+Package pdftex.def Info: figures/Tugas2/1174079/no3.PNG  used on input line 21.
+
+(pdftex.def)             Requested size: 170.71652pt x 145.96883pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[62 <./figures/Tugas2/1174079/no2.PNG>] (src/tugas2/1174079/no4.py)
+<figures/Tugas2/1174079/no4.PNG, id=407, 460.72125pt x 436.63126pt>
+File: figures/Tugas2/1174079/no4.PNG Graphic file (type png)
+<use figures/Tugas2/1174079/no4.PNG>
+Package pdftex.def Info: figures/Tugas2/1174079/no4.PNG  used on input line 28.
+
+(pdftex.def)             Requested size: 170.71652pt x 161.78421pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[63 <./figures/Tugas2/1174079/no3.PNG>] (src/tugas2/1174079/no5.py)
+<figures/Tugas2/1174079/no5.PNG, id=412, 353.06906pt x 321.45094pt>
+File: figures/Tugas2/1174079/no5.PNG Graphic file (type png)
+<use figures/Tugas2/1174079/no5.PNG>
+Package pdftex.def Info: figures/Tugas2/1174079/no5.PNG  used on input line 35.
+
+(pdftex.def)             Requested size: 170.71652pt x 155.42773pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[64 <./figures/Tugas2/1174079/no4.PNG>] (src/tugas2/1174079/no6.py)
+<figures/Tugas2/1174079/no6.PNG, id=418, 347.79938pt x 117.43875pt>
+File: figures/Tugas2/1174079/no6.PNG Graphic file (type png)
+<use figures/Tugas2/1174079/no6.PNG>
+Package pdftex.def Info: figures/Tugas2/1174079/no6.PNG  used on input line 42.
+
+(pdftex.def)             Requested size: 170.71652pt x 57.64403pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[65 <./figures/Tugas2/1174079/no5.PNG>] (src/tugas2/1174079/no7.py)
+<figures/Tugas2/1174079/no7.PNG, id=423, 293.59688pt x 89.58469pt>
+File: figures/Tugas2/1174079/no7.PNG Graphic file (type png)
+<use figures/Tugas2/1174079/no7.PNG>
+Package pdftex.def Info: figures/Tugas2/1174079/no7.PNG  used on input line 49.
+
+(pdftex.def)             Requested size: 170.71652pt x 52.09036pt.
+
+(src/tugas2/1174079/no8.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [66 <./figures/Tugas2/1174079/no6.PNG> <./figures/Tugas2/1174079/no7.PNG>])
+<figures/Tugas2/1174079/no8.PNG, id=429, 293.59688pt x 100.12407pt>
+File: figures/Tugas2/1174079/no8.PNG Graphic file (type png)
+<use figures/Tugas2/1174079/no8.PNG>
+Package pdftex.def Info: figures/Tugas2/1174079/no8.PNG  used on input line 56.
+
+(pdftex.def)             Requested size: 170.71652pt x 58.21866pt.
+
+(src/tugas2/1174079/no9.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [67 <./figures/Tugas2/1174079/no8.PNG>])
+<figures/Tugas2/1174079/no9.PNG, id=434, 222.07968pt x 360.59718pt>
+File: figures/Tugas2/1174079/no9.PNG Graphic file (type png)
+<use figures/Tugas2/1174079/no9.PNG>
+Package pdftex.def Info: figures/Tugas2/1174079/no9.PNG  used on input line 63.
+
+(pdftex.def)             Requested size: 170.71652pt x 277.19849pt.
+ (src/tugas2/1174079/no10.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [68 <./figures/Tugas2/1174079/no9.PNG>])
+<figures/Tugas2/1174079/no10.PNG, id=439, 331.99031pt x 305.64188pt>
+File: figures/Tugas2/1174079/no10.PNG Graphic file (type png)
+<use figures/Tugas2/1174079/no10.PNG>
+Package pdftex.def Info: figures/Tugas2/1174079/no10.PNG  used on input line 70
+.
+(pdftex.def)             Requested size: 170.71652pt x 157.16713pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[69]) (chapters/tugas2/1174086.tex (src/tugas2/1174086/1.py)
+<figures/Tugas2/1174086/No1.jpg, id=443, 421.575pt x 302.63063pt>
+File: figures/Tugas2/1174086/No1.jpg Graphic file (type jpg)
+<use figures/Tugas2/1174086/No1.jpg>
+Package pdftex.def Info: figures/Tugas2/1174086/No1.jpg  used on input line 7.
+(pdftex.def)             Requested size: 170.71652pt x 122.55087pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[70 <./figures/Tugas2/1174079/no10.PNG>] (src/tugas2/1174086/2.py)
+<figures/Tugas2/1174086/No2.jpg, id=449, 433.62pt x 289.83281pt>
+File: figures/Tugas2/1174086/No2.jpg Graphic file (type jpg)
+<use figures/Tugas2/1174086/No2.jpg>
+Package pdftex.def Info: figures/Tugas2/1174086/No2.jpg  used on input line 14.
+
+(pdftex.def)             Requested size: 170.71652pt x 114.109pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[71 <./figures/Tugas2/1174086/No1.jpg> <./figures/Tugas2/1174086/No2.jpg>]
+(src/tugas2/1174086/3..py)
+<figures/Tugas2/1174086/No3.jpg, id=453, 353.82187pt x 295.85532pt>
+File: figures/Tugas2/1174086/No3.jpg Graphic file (type jpg)
+<use figures/Tugas2/1174086/No3.jpg>
+Package pdftex.def Info: figures/Tugas2/1174086/No3.jpg  used on input line 21.
+
+(pdftex.def)             Requested size: 170.71652pt x 142.74928pt.
+ (src/tugas2/1174086/4.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [72 <./figures/Tugas2/1174086/No3.jpg>])
+<figures/Tugas2/1174086/No4.jpg, id=457, 185.94469pt x 143.78719pt>
+File: figures/Tugas2/1174086/No4.jpg Graphic file (type jpg)
+<use figures/Tugas2/1174086/No4.jpg>
+Package pdftex.def Info: figures/Tugas2/1174086/No4.jpg  used on input line 28.
+
+(pdftex.def)             Requested size: 170.71652pt x 132.01595pt.
+ (src/tugas2/1174086/5.py)
+<figures/Tugas2/1174086/No5.jpg, id=458, 356.0803pt x 309.40594pt>
+File: figures/Tugas2/1174086/No5.jpg Graphic file (type jpg)
+<use figures/Tugas2/1174086/No5.jpg>
+Package pdftex.def Info: figures/Tugas2/1174086/No5.jpg  used on input line 35.
+
+(pdftex.def)             Requested size: 170.71652pt x 148.33847pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[73 <./figures/Tugas2/1174086/No4.jpg>] (src/tugas2/1174086/6.py)
+<figures/Tugas2/1174086/No6.jpg, id=462, 339.51843pt x 97.11281pt>
+File: figures/Tugas2/1174086/No6.jpg Graphic file (type jpg)
+<use figures/Tugas2/1174086/No6.jpg>
+Package pdftex.def Info: figures/Tugas2/1174086/No6.jpg  used on input line 42.
+
+(pdftex.def)             Requested size: 170.71652pt x 48.83041pt.
+
+(src/tugas2/1174086/7.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [74 <./figures/Tugas2/1174086/No5.jpg> <./figures/Tugas2/1174086/No6.jpg>])
+<figures/Tugas2/1174086/No7.jpg, id=466, 361.35pt x 179.16937pt>
+File: figures/Tugas2/1174086/No7.jpg Graphic file (type jpg)
+<use figures/Tugas2/1174086/No7.jpg>
+Package pdftex.def Info: figures/Tugas2/1174086/No7.jpg  used on input line 49.
+
+(pdftex.def)             Requested size: 170.71652pt x 84.64703pt.
+
+(src/tugas2/1174086/8.py)
+<figures/Tugas2/1174086/No8.jpg, id=467, 392.96812pt x 191.9672pt>
+File: figures/Tugas2/1174086/No8.jpg Graphic file (type jpg)
+<use figures/Tugas2/1174086/No8.jpg>
+Package pdftex.def Info: figures/Tugas2/1174086/No8.jpg  used on input line 56.
+
+(pdftex.def)             Requested size: 170.71652pt x 83.39667pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[75 <./figures/Tugas2/1174086/No7.jpg>] (src/tugas2/1174086/9.py)
+<figures/Tugas2/1174086/No9.jpg, id=471, 258.9675pt x 269.50688pt>
+File: figures/Tugas2/1174086/No9.jpg Graphic file (type jpg)
+<use figures/Tugas2/1174086/No9.jpg>
+Package pdftex.def Info: figures/Tugas2/1174086/No9.jpg  used on input line 63.
+
+(pdftex.def)             Requested size: 170.71652pt x 177.67357pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[76 <./figures/Tugas2/1174086/No8.jpg>] (src/tugas2/1174086/10.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [77 <./figures/Tugas2/1174086/No9.jpg>])
+<figures/Tugas2/1174086/No10.jpg, id=479, 219.06844pt x 181.42781pt>
+File: figures/Tugas2/1174086/No10.jpg Graphic file (type jpg)
+<use figures/Tugas2/1174086/No10.jpg>
+Package pdftex.def Info: figures/Tugas2/1174086/No10.jpg  used on input line 70
+.
+(pdftex.def)             Requested size: 170.71652pt x 141.38577pt.
+) (chapters/tugas2/1174071.tex
+(src/tugas2/1174071/soal1.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [78 <./figures/Tugas2/1174086/No10.jpg>])
+<figures/Tugas2/1174071/soal1.png, id=483, 786.68906pt x 437.38406pt>
+File: figures/Tugas2/1174071/soal1.png Graphic file (type png)
+<use figures/Tugas2/1174071/soal1.png>
+Package pdftex.def Info: figures/Tugas2/1174071/soal1.png  used on input line 7
+.
+(pdftex.def)             Requested size: 170.71652pt x 94.91669pt.
+ (src/tugas2/1174071/soal2.py)
+<figures/Tugas2/1174071/soal2.png, id=484, 794.2172pt x 434.37282pt>
+File: figures/Tugas2/1174071/soal2.png Graphic file (type png)
+<use figures/Tugas2/1174071/soal2.png>
+Package pdftex.def Info: figures/Tugas2/1174071/soal2.png  used on input line 1
+4.
+(pdftex.def)             Requested size: 170.71652pt x 93.36844pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[79 <./figures/Tugas2/1174071/soal1.png>] (src/tugas2/1174071/soal3.py)
+<figures/Tugas2/1174071/soal3.png, id=488, 747.54282pt x 434.37282pt>
+File: figures/Tugas2/1174071/soal3.png Graphic file (type png)
+<use figures/Tugas2/1174071/soal3.png>
+Package pdftex.def Info: figures/Tugas2/1174071/soal3.png  used on input line 2
+1.
+(pdftex.def)             Requested size: 170.71652pt x 99.19444pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[80 <./figures/Tugas2/1174071/soal2.png>] (src/tugas2/1174071/soal4.py)
+<figures/Tugas2/1174071/soal4.png, id=492, 592.46344pt x 342.5297pt>
+File: figures/Tugas2/1174071/soal4.png Graphic file (type png)
+<use figures/Tugas2/1174071/soal4.png>
+Package pdftex.def Info: figures/Tugas2/1174071/soal4.png  used on input line 2
+8.
+(pdftex.def)             Requested size: 170.71652pt x 98.69864pt.
+
+(src/tugas2/1174071/soal5.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [81 <./figures/Tugas2/1174071/soal3.png> <./figures/Tugas2/1174071/soal4.png>]
+)
+<figures/Tugas2/1174071/soal5.png, id=496, 794.2172pt x 434.37282pt>
+File: figures/Tugas2/1174071/soal5.png Graphic file (type png)
+<use figures/Tugas2/1174071/soal5.png>
+Package pdftex.def Info: figures/Tugas2/1174071/soal5.png  used on input line 3
+5.
+(pdftex.def)             Requested size: 170.71652pt x 93.36844pt.
+
+(src/tugas2/1174071/soal6.py)
+<figures/Tugas2/1174071/soal6.png, id=497, 797.22844pt x 417.05812pt>
+File: figures/Tugas2/1174071/soal6.png Graphic file (type png)
+<use figures/Tugas2/1174071/soal6.png>
+Package pdftex.def Info: figures/Tugas2/1174071/soal6.png  used on input line 4
+2.
+(pdftex.def)             Requested size: 170.71652pt x 89.30301pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[82 <./figures/Tugas2/1174071/soal5.png>] (src/tugas2/1174071/soal7.py)
+<figures/Tugas2/1174071/soal7.png, id=502, 797.22844pt x 414.79968pt>
+File: figures/Tugas2/1174071/soal7.png Graphic file (type png)
+<use figures/Tugas2/1174071/soal7.png>
+Package pdftex.def Info: figures/Tugas2/1174071/soal7.png  used on input line 4
+9.
+(pdftex.def)             Requested size: 170.71652pt x 88.81941pt.
+
+(src/tugas2/1174071/soal8.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [83 <./figures/Tugas2/1174071/soal6.png> <./figures/Tugas2/1174071/soal7.png>]
+)
+<figures/Tugas2/1174071/soal8.png, id=507, 791.20593pt x 414.79968pt>
+File: figures/Tugas2/1174071/soal8.png Graphic file (type png)
+<use figures/Tugas2/1174071/soal8.png>
+Package pdftex.def Info: figures/Tugas2/1174071/soal8.png  used on input line 5
+6.
+(pdftex.def)             Requested size: 170.71652pt x 89.49666pt.
+
+(src/tugas2/1174071/soal9.py)
+<figures/Tugas2/1174071/soal9.png, id=508, 794.97pt x 429.10312pt>
+File: figures/Tugas2/1174071/soal9.png Graphic file (type png)
+<use figures/Tugas2/1174071/soal9.png>
+Package pdftex.def Info: figures/Tugas2/1174071/soal9.png  used on input line 6
+3.
+(pdftex.def)             Requested size: 170.71652pt x 92.14406pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[84 <./figures/Tugas2/1174071/soal8.png>] (src/tugas2/1174071/soal10.py)
+<figures/Tugas2/1174071/soal10.png, id=512, 795.72281pt x 434.37282pt>
+File: figures/Tugas2/1174071/soal10.png Graphic file (type png)
+<use figures/Tugas2/1174071/soal10.png>
+Package pdftex.def Info: figures/Tugas2/1174071/soal10.png  used on input line 
+70.
+(pdftex.def)             Requested size: 170.71652pt x 93.18948pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[85 <./figures/Tugas2/1174071/soal9.png>]) (chapters/tugas2/1174084.tex
+(src/tugas2/1174084/soal1.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [86 <./figures/Tugas2/1174071/soal10.png>]
+
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 6.
+
+<figures/Tugas2/1174084/no1.png, id=519, 569.12625pt x 416.15475pt>
+File: figures/Tugas2/1174084/no1.png Graphic file (type png)
+<use figures/Tugas2/1174084/no1.png>
+Package pdftex.def Info: figures/Tugas2/1174084/no1.png  used on input line 7.
+(pdftex.def)             Requested size: 170.71652pt x 124.82834pt.
+(src/tugas2/1174084/soal2.py)
+<figures/Tugas2/1174084/no2.png, id=520, 590.205pt x 417.9615pt>
+File: figures/Tugas2/1174084/no2.png Graphic file (type png)
+<use figures/Tugas2/1174084/no2.png>
+Package pdftex.def Info: figures/Tugas2/1174084/no2.png  used on input line 14.
+
+(pdftex.def)             Requested size: 170.71652pt x 120.89322pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[87 <./figures/Tugas2/1174084/no1.png>] (src/tugas2/1174084/soal3.py)
+<figures/Tugas2/1174084/no3.png, id=525, 613.0905pt x 418.56375pt>
+File: figures/Tugas2/1174084/no3.png Graphic file (type png)
+<use figures/Tugas2/1174084/no3.png>
+Package pdftex.def Info: figures/Tugas2/1174084/no3.png  used on input line 21.
+
+(pdftex.def)             Requested size: 170.71652pt x 116.55197pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[88 <./figures/Tugas2/1174084/no2.png>] (src/tugas2/1174084/soal4.py)
+<figures/Tugas2/1174084/no4.png, id=531, 645.00975pt x 419.76825pt>
+File: figures/Tugas2/1174084/no4.png Graphic file (type png)
+<use figures/Tugas2/1174084/no4.png>
+Package pdftex.def Info: figures/Tugas2/1174084/no4.png  used on input line 28.
+
+(pdftex.def)             Requested size: 170.71652pt x 111.09714pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[89 <./figures/Tugas2/1174084/no3.png>] (src/tugas2/1174084/soal5.py)
+<figures/Tugas2/1174084/no5.png, id=536, 561.297pt x 416.757pt>
+File: figures/Tugas2/1174084/no5.png Graphic file (type png)
+<use figures/Tugas2/1174084/no5.png>
+Package pdftex.def Info: figures/Tugas2/1174084/no5.png  used on input line 35.
+
+(pdftex.def)             Requested size: 170.71652pt x 126.75775pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[90 <./figures/Tugas2/1174084/no4.png>] (src/tugas2/1174084/soal6.py)
+<figures/Tugas2/1174084/no6.png, id=541, 724.50674pt x 416.757pt>
+File: figures/Tugas2/1174084/no6.png Graphic file (type png)
+<use figures/Tugas2/1174084/no6.png>
+Package pdftex.def Info: figures/Tugas2/1174084/no6.png  used on input line 42.
+
+(pdftex.def)             Requested size: 170.71652pt x 98.19862pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[91 <./figures/Tugas2/1174084/no5.png>] (src/tugas2/1174084/soal7.py)
+<figures/Tugas2/1174084/no7.png, id=546, 732.336pt x 417.35925pt>
+File: figures/Tugas2/1174084/no7.png Graphic file (type png)
+<use figures/Tugas2/1174084/no7.png>
+Package pdftex.def Info: figures/Tugas2/1174084/no7.png  used on input line 49.
+
+(pdftex.def)             Requested size: 170.71652pt x 97.28975pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[92 <./figures/Tugas2/1174084/no6.png> <./figures/Tugas2/1174084/no7.png>]
+(src/tugas2/1174084/soal8.py)
+<figures/Tugas2/1174084/no8.png, id=552, 729.927pt x 417.35925pt>
+File: figures/Tugas2/1174084/no8.png Graphic file (type png)
+<use figures/Tugas2/1174084/no8.png>
+Package pdftex.def Info: figures/Tugas2/1174084/no8.png  used on input line 56.
+
+(pdftex.def)             Requested size: 170.71652pt x 97.60817pt.
+ (src/tugas2/1174084/soal9.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [93 <./figures/Tugas2/1174084/no8.png>])
+<figures/Tugas2/1174084/no9.png, id=557, 317.988pt x 415.5525pt>
+File: figures/Tugas2/1174084/no9.png Graphic file (type png)
+<use figures/Tugas2/1174084/no9.png>
+Package pdftex.def Info: figures/Tugas2/1174084/no9.png  used on input line 63.
+
+(pdftex.def)             Requested size: 170.71652pt x 223.09514pt.
+ (src/tugas2/1174084/soal10.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [94 <./figures/Tugas2/1174084/no9.png>])
+<figures/Tugas2/1174084/no10.png, id=563, 454.0965pt x 416.15475pt>
+File: figures/Tugas2/1174084/no10.png Graphic file (type png)
+<use figures/Tugas2/1174084/no10.png>
+Package pdftex.def Info: figures/Tugas2/1174084/no10.png  used on input line 70
+.
+(pdftex.def)             Requested size: 170.71652pt x 156.45134pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[95]) (chapters/tugas2/1174069.tex (src/tugas2/1174069/No1.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [96 <./figures/Tugas2/1174084/no10.png>])
+<figures/Tugas2/1174069/No1.png, id=571, 472.01344pt x 213.79875pt>
+File: figures/Tugas2/1174069/No1.png Graphic file (type png)
+<use figures/Tugas2/1174069/No1.png>
+Package pdftex.def Info: figures/Tugas2/1174069/No1.png  used on input line 7.
+(pdftex.def)             Requested size: 170.71652pt x 77.32634pt.
+ (src/tugas2/1174069/No2.py)
+<figures/Tugas2/1174069/No2.png, id=572, 454.69875pt x 257.46187pt>
+File: figures/Tugas2/1174069/No2.png Graphic file (type png)
+<use figures/Tugas2/1174069/No2.png>
+Package pdftex.def Info: figures/Tugas2/1174069/No2.png  used on input line 14.
+
+(pdftex.def)             Requested size: 170.71652pt x 96.6658pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[97 <./figures/Tugas2/1174069/No1.png>] (src/tugas2/1174069/No3.py)
+<figures/Tugas2/1174069/No3.png, id=577, 481.8pt x 269.50688pt>
+File: figures/Tugas2/1174069/No3.png Graphic file (type png)
+<use figures/Tugas2/1174069/No3.png>
+Package pdftex.def Info: figures/Tugas2/1174069/No3.png  used on input line 21.
+
+(pdftex.def)             Requested size: 170.71652pt x 95.4926pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[98 <./figures/Tugas2/1174069/No2.png>] (src/tugas2/1174069/No4.py)
+<figures/Tugas2/1174069/No4.png, id=582, 488.57532pt x 227.34938pt>
+File: figures/Tugas2/1174069/No4.png Graphic file (type png)
+<use figures/Tugas2/1174069/No4.png>
+Package pdftex.def Info: figures/Tugas2/1174069/No4.png  used on input line 28.
+
+(pdftex.def)             Requested size: 170.71652pt x 79.43817pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[99 <./figures/Tugas2/1174069/No3.png> <./figures/Tugas2/1174069/No4.png>]
+(src/tugas2/1174069/No5.py)
+<figures/Tugas2/1174069/No5.png, id=588, 501.37312pt x 331.99031pt>
+File: figures/Tugas2/1174069/No5.png Graphic file (type png)
+<use figures/Tugas2/1174069/No5.png>
+Package pdftex.def Info: figures/Tugas2/1174069/No5.png  used on input line 35.
+
+(pdftex.def)             Requested size: 170.71652pt x 113.04237pt.
+ (src/tugas2/1174069/No6.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [100 <./figures/Tugas2/1174069/No5.png>])
+<figures/Tugas2/1174069/No6.png, id=594, 516.42938pt x 197.23688pt>
+File: figures/Tugas2/1174069/No6.png Graphic file (type png)
+<use figures/Tugas2/1174069/No6.png>
+Package pdftex.def Info: figures/Tugas2/1174069/No6.png  used on input line 42.
+
+(pdftex.def)             Requested size: 170.71652pt x 65.1997pt.
+ (src/tugas2/1174069/No7.py)
+<figures/Tugas2/1174069/No7.png, id=595, 484.05844pt x 262.73157pt>
+File: figures/Tugas2/1174069/No7.png Graphic file (type png)
+<use figures/Tugas2/1174069/No7.png>
+Package pdftex.def Info: figures/Tugas2/1174069/No7.png  used on input line 49.
+
+(pdftex.def)             Requested size: 170.71652pt x 92.65898pt.
+
+Underfull \vbox (badness 5133) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[101 <./figures/Tugas2/1174069/No6.png>] (src/tugas2/1174069/No8.py)
+<figures/Tugas2/1174069/No8.png, id=600, 448.67625pt x 210.03468pt>
+File: figures/Tugas2/1174069/No8.png Graphic file (type png)
+<use figures/Tugas2/1174069/No8.png>
+Package pdftex.def Info: figures/Tugas2/1174069/No8.png  used on input line 56.
+
+(pdftex.def)             Requested size: 170.71652pt x 79.91335pt.
+
+(src/tugas2/1174069/No9.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [102 <./figures/Tugas2/1174069/No7.png> <./figures/Tugas2/1174069/No8.png>])
+<figures/Tugas2/1174069/No9.png, id=606, 356.0803pt x 371.88937pt>
+File: figures/Tugas2/1174069/No9.png Graphic file (type png)
+<use figures/Tugas2/1174069/No9.png>
+Package pdftex.def Info: figures/Tugas2/1174069/No9.png  used on input line 63.
+
+(pdftex.def)             Requested size: 170.71652pt x 178.2949pt.
+
+(src/tugas2/1174069/No10.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [103 <./figures/Tugas2/1174069/No9.png>])
+<figures/Tugas2/1174069/No10.png, id=611, 371.13657pt x 341.77687pt>
+File: figures/Tugas2/1174069/No10.png Graphic file (type png)
+<use figures/Tugas2/1174069/No10.png>
+Package pdftex.def Info: figures/Tugas2/1174069/No10.png  used on input line 70
+.
+(pdftex.def)             Requested size: 170.71652pt x 157.21405pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[104]) (chapters/tugas2/1174083.tex (src/tugas2/1174083/scriptNo1.py)
+<figures/Tugas2/1174083/1.png, id=615, 572.1375pt x 434.37282pt>
+File: figures/Tugas2/1174083/1.png Graphic file (type png)
+<use figures/Tugas2/1174083/1.png>
+Package pdftex.def Info: figures/Tugas2/1174083/1.png  used on input line 7.
+(pdftex.def)             Requested size: 170.71652pt x 129.61028pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[105 <./figures/Tugas2/1174069/No10.png>] (src/tugas2/1174083/scriptNo2.py)
+<figures/Tugas2/1174083/2.png, id=620, 572.1375pt x 434.37282pt>
+File: figures/Tugas2/1174083/2.png Graphic file (type png)
+<use figures/Tugas2/1174083/2.png>
+Package pdftex.def Info: figures/Tugas2/1174083/2.png  used on input line 15.
+(pdftex.def)             Requested size: 170.71652pt x 129.61028pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[106 <./figures/Tugas2/1174083/1.png>] (src/tugas2/1174083/scriptNo3.py)
+<figures/Tugas2/1174083/3.png, id=626, 609.77812pt x 341.77687pt>
+File: figures/Tugas2/1174083/3.png Graphic file (type png)
+<use figures/Tugas2/1174083/3.png>
+Package pdftex.def Info: figures/Tugas2/1174083/3.png  used on input line 23.
+(pdftex.def)             Requested size: 170.71652pt x 95.68643pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[107 <./figures/Tugas2/1174083/2.png>] (src/tugas2/1174083/scriptNo4.py)
+<figures/Tugas2/1174083/4.png, id=631, 609.77812pt x 341.77687pt>
+File: figures/Tugas2/1174083/4.png Graphic file (type png)
+<use figures/Tugas2/1174083/4.png>
+Package pdftex.def Info: figures/Tugas2/1174083/4.png  used on input line 31.
+(pdftex.def)             Requested size: 170.71652pt x 95.68643pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[108 <./figures/Tugas2/1174083/3.png> <./figures/Tugas2/1174083/4.png>]
+(src/tugas2/1174083/scriptNo5.py)
+<figures/Tugas2/1174083/5.png, id=637, 609.77812pt x 341.77687pt>
+File: figures/Tugas2/1174083/5.png Graphic file (type png)
+<use figures/Tugas2/1174083/5.png>
+Package pdftex.def Info: figures/Tugas2/1174083/5.png  used on input line 39.
+(pdftex.def)             Requested size: 170.71652pt x 95.68643pt.
+ (src/tugas2/1174083/scriptNo6.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [109 <./figures/Tugas2/1174083/5.png>])
+<figures/Tugas2/1174083/6.png, id=642, 380.92313pt x 341.77687pt>
+File: figures/Tugas2/1174083/6.png Graphic file (type png)
+<use figures/Tugas2/1174083/6.png>
+Package pdftex.def Info: figures/Tugas2/1174083/6.png  used on input line 47.
+(pdftex.def)             Requested size: 170.71652pt x 153.17235pt.
+ (src/tugas2/1174083/scriptNo7.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [110 <./figures/Tugas2/1174083/6.png>])
+<figures/Tugas2/1174083/7.png, id=647, 380.92313pt x 341.77687pt>
+File: figures/Tugas2/1174083/7.png Graphic file (type png)
+<use figures/Tugas2/1174083/7.png>
+Package pdftex.def Info: figures/Tugas2/1174083/7.png  used on input line 55.
+(pdftex.def)             Requested size: 170.71652pt x 153.17235pt.
+ (src/tugas2/1174083/scriptNo8.py)
+<figures/Tugas2/1174083/8.png, id=648, 380.92313pt x 341.77687pt>
+File: figures/Tugas2/1174083/8.png Graphic file (type png)
+<use figures/Tugas2/1174083/8.png>
+Package pdftex.def Info: figures/Tugas2/1174083/8.png  used on input line 63.
+(pdftex.def)             Requested size: 170.71652pt x 153.17235pt.
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[111 <./figures/Tugas2/1174083/7.png>] (src/tugas2/1174083/scriptNo9.py)
+<figures/Tugas2/1174083/9.png, id=653, 380.92313pt x 341.77687pt>
+File: figures/Tugas2/1174083/9.png Graphic file (type png)
+<use figures/Tugas2/1174083/9.png>
+Package pdftex.def Info: figures/Tugas2/1174083/9.png  used on input line 71.
+(pdftex.def)             Requested size: 170.71652pt x 153.17235pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[112 <./figures/Tugas2/1174083/8.png>] (src/tugas2/1174083/scriptNo10.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [113 <./figures/Tugas2/1174083/9.png>])
+<figures/Tugas2/1174083/10.png, id=663, 532.99126pt x 434.37282pt>
+File: figures/Tugas2/1174083/10.png Graphic file (type png)
+<use figures/Tugas2/1174083/10.png>
+Package pdftex.def Info: figures/Tugas2/1174083/10.png  used on input line 79.
+(pdftex.def)             Requested size: 170.71652pt x 139.12807pt.
+) (chapters/tugas2/1174067.tex
+(src/tugas2/1174067/1.py)
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [114 <./figures/Tugas2/1174083/10.png>]
+<figures/Tugas2/1174067/1.png, id=668, 77.53969pt x 90.3375pt>
+File: figures/Tugas2/1174067/1.png Graphic file (type png)
+<use figures/Tugas2/1174067/1.png>
+Package pdftex.def Info: figures/Tugas2/1174067/1.png  used on input line 7.
+(pdftex.def)             Requested size: 170.71652pt x 198.914pt.
+ (src/tugas2/1174067/2.py)
+<figures/Tugas2/1174067/2.png, id=669, 114.4275pt x 117.43875pt>
+File: figures/Tugas2/1174067/2.png Graphic file (type png)
+<use figures/Tugas2/1174067/2.png>
+Package pdftex.def Info: figures/Tugas2/1174067/2.png  used on input line 14.
+(pdftex.def)             Requested size: 170.71652pt x 175.21687pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[115 <./figures/Tugas2/1174067/1.png>] (src/tugas2/1174067/3.py)
+<figures/Tugas2/1174067/3.png, id=674, 96.36pt x 117.43875pt>
+File: figures/Tugas2/1174067/3.png Graphic file (type png)
+<use figures/Tugas2/1174067/3.png>
+Package pdftex.def Info: figures/Tugas2/1174067/3.png  used on input line 21.
+(pdftex.def)             Requested size: 170.71652pt x 208.06007pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[116 <./figures/Tugas2/1174067/2.png>] (src/tugas2/1174067/4.py)
+<figures/Tugas2/1174067/4.png, id=679, 115.93312pt x 152.06813pt>
+File: figures/Tugas2/1174067/4.png Graphic file (type png)
+<use figures/Tugas2/1174067/4.png>
+Package pdftex.def Info: figures/Tugas2/1174067/4.png  used on input line 28.
+(pdftex.def)             Requested size: 170.71652pt x 223.94583pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[117 <./figures/Tugas2/1174067/3.png>] (src/tugas2/1174067/5.py)
+<figures/Tugas2/1174067/5.png, id=684, 154.32657pt x 149.05687pt>
+File: figures/Tugas2/1174067/5.png Graphic file (type png)
+<use figures/Tugas2/1174067/5.png>
+Package pdftex.def Info: figures/Tugas2/1174067/5.png  used on input line 35.
+(pdftex.def)             Requested size: 170.71652pt x 164.90012pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[118 <./figures/Tugas2/1174067/4.png>] (src/tugas2/1174067/6.py)
+<figures/Tugas2/1174067/6.png, id=690, 170.88844pt x 62.48344pt>
+File: figures/Tugas2/1174067/6.png Graphic file (type png)
+<use figures/Tugas2/1174067/6.png>
+Package pdftex.def Info: figures/Tugas2/1174067/6.png  used on input line 42.
+(pdftex.def)             Requested size: 170.71652pt x 62.42511pt.
+
+(src/tugas2/1174067/7.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [119 <./figures/Tugas2/1174067/5.png> <./figures/Tugas2/1174067/6.png>])
+<figures/Tugas2/1174067/7.png, id=696, 137.01187pt x 52.69687pt>
+File: figures/Tugas2/1174067/7.png Graphic file (type png)
+<use figures/Tugas2/1174067/7.png>
+Package pdftex.def Info: figures/Tugas2/1174067/7.png  used on input line 49.
+(pdftex.def)             Requested size: 170.71652pt x 65.66505pt.
+
+(src/tugas2/1174067/8.py)
+<figures/Tugas2/1174067/8.png, id=697, 144.54pt x 84.315pt>
+File: figures/Tugas2/1174067/8.png Graphic file (type png)
+<use figures/Tugas2/1174067/8.png>
+Package pdftex.def Info: figures/Tugas2/1174067/8.png  used on input line 56.
+(pdftex.def)             Requested size: 170.71652pt x 99.58987pt.
+ (src/tugas2/1174067/9.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [120 <./figures/Tugas2/1174067/7.png> <./figures/Tugas2/1174067/8.png>])
+<figures/Tugas2/1174067/9.png, id=703, 165.61874pt x 273.27094pt>
+File: figures/Tugas2/1174067/9.png Graphic file (type png)
+<use figures/Tugas2/1174067/9.png>
+Package pdftex.def Info: figures/Tugas2/1174067/9.png  used on input line 63.
+(pdftex.def)             Requested size: 170.71652pt x 281.69736pt.
+
+(src/tugas2/1174067/10.py
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+ [121 <./figures/Tugas2/1174067/9.png>]
+Overfull \hbox (6.40308pt too wide) in paragraph at lines 15--16
+[][] 
+ []
+
+)
+<figures/Tugas2/1174067/10.png, id=708, 213.79875pt x 223.58531pt>
+File: figures/Tugas2/1174067/10.png Graphic file (type png)
+<use figures/Tugas2/1174067/10.png>
+Package pdftex.def Info: figures/Tugas2/1174067/10.png  used on input line 70.
+(pdftex.def)             Requested size: 170.71652pt x 178.53072pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[122]) (main.bbl
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[123 <./figures/Tugas2/1174067/10.png>] [124
+
+]) [125] [126
+
+] (main.ind [127
+
+
+])
+(main.aux) ) 
 Here is how much of TeX's memory you used:
- 3525 strings out of 492945
- 51789 string characters out of 3126696
- 304935 words of memory out of 3000000
- 7272 multiletter control sequences out of 15000+200000
- 60633 words of font info for 113 fonts, out of 3000000 for 9000
+ 5008 strings out of 492452
+ 98259 string characters out of 3120063
+ 475277 words of memory out of 3000000
+ 8890 multiletter control sequences out of 15000+200000
+ 65469 words of font info for 122 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,14n,47p,1323b,410s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}
-<C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
-/cmex10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
-/amsfonts/cm/cmmi10.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/ASUS/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ASUS/AppDat
-a/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/
-ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/U
-sers/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb
-><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb
-o8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvet
-ic/uhvr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
-times/utmb8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/u
-rw/times/utmbi8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/urw/times/utmr8a.pfb><C:/Users/ASUS/AppData/Local/Programs/MiKTeX 2.9/fonts/
-type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (51 pages, 1037410 bytes).
+ 47i,15n,47p,1555b,1903s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/b
+ase/8r.enc}<C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmex10.pfb><C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/kaka_/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/kaka_/AppData/Local/
+Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/kaka_/Ap
+pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/U
+sers/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cms
+y8.pfb><C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/courie
+r/ucrr8a.pfb><C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/
+helvetic/uhvb8a.pfb><C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/urw/helvetic/uhvbo8a.pfb><C:/Users/kaka_/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/urw/helvetic/uhvr8a.pfb><C:/Users/kaka_/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/kaka_/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/urw/times/utmbi8a.pfb><C:/Users/kaka_/AppData/Local/Progr
+ams/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/kaka_/AppData/Local/P
+rograms/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (166 pages, 3107031 bytes).
 PDF statistics:
- 251 PDF objects out of 1000 (max. 8388607)
+ 779 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 596 words of extra memory for PDF output out of 10000 (max. 10000000)
 
