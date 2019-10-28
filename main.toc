@@ -228,5 +228,8 @@
 \contentsline {section}{\numberline {3.5}Muhammad Reza Syachrani (1174084)}{253}% 
 \contentsline {subsection}{\numberline {3.5.1}Membaca Shapefile dengan PySHP}{253}% 
 \contentsline {subsection}{\numberline {3.5.2}Link}{261}% 
-\contentsline {schapter}{Daftar Pustaka}{263}% 
-\contentsline {schapter}{Index}{265}% 
+\contentsline {section}{\numberline {3.6}D. Irga B. Naufal Fakrhi (1174066)}{261}% 
+\contentsline {subsection}{\numberline {3.6.1}Membaca Shapefile dengan pySHP}{261}% 
+\contentsline {subsection}{\numberline {3.6.2}Link}{266}% 
+\contentsline {schapter}{Daftar Pustaka}{267}% 
+\contentsline {schapter}{Index}{269}% 
