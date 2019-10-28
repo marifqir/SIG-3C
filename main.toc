@@ -222,5 +222,11 @@
 \contentsline {section}{\numberline {3.3}Tia Nur Candida (1174086)}{243}% 
 \contentsline {subsection}{\numberline {3.3.1}Membaca Shapefile dengan PySHP}{243}% 
 \contentsline {subsection}{\numberline {3.3.2}Link}{248}% 
-\contentsline {schapter}{Daftar Pustaka}{249}% 
-\contentsline {schapter}{Index}{251}% 
+\contentsline {section}{\numberline {3.4}Chandra Kirana Poetra (1174079)}{248}% 
+\contentsline {subsection}{\numberline {3.4.1}Membaca Shapefile dengan PySHP}{248}% 
+\contentsline {subsection}{\numberline {3.4.2}Link}{253}% 
+\contentsline {section}{\numberline {3.5}Muhammad Reza Syachrani (1174084)}{253}% 
+\contentsline {subsection}{\numberline {3.5.1}Membaca Shapefile dengan PySHP}{253}% 
+\contentsline {subsection}{\numberline {3.5.2}Link}{261}% 
+\contentsline {schapter}{Daftar Pustaka}{263}% 
+\contentsline {schapter}{Index}{265}% 
