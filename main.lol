@@ -220,3 +220,14 @@
 \contentsline {lstlisting}{src/tugas3/1174054/soal9.py}{241}% 
 \contentsline {lstlisting}{src/tugas3/1174054/soal10.py}{242}% 
 \contentsline {lstlisting}{src/tugas3/1174054/soal11.py}{242}% 
+\contentsline {lstlisting}{src/tugas3/1174086/read1.py}{243}% 
+\contentsline {lstlisting}{src/tugas3/1174086/read2.py}{243}% 
+\contentsline {lstlisting}{src/tugas3/1174086/read3.py}{244}% 
+\contentsline {lstlisting}{src/tugas3/1174086/read4.py}{244}% 
+\contentsline {lstlisting}{src/tugas3/1174086/read5.py}{245}% 
+\contentsline {lstlisting}{src/tugas3/1174086/read6.py}{246}% 
+\contentsline {lstlisting}{src/tugas3/1174086/read7.py}{246}% 
+\contentsline {lstlisting}{src/tugas3/1174086/read8.py}{246}% 
+\contentsline {lstlisting}{src/tugas3/1174086/read9.py}{247}% 
+\contentsline {lstlisting}{src/tugas3/1174086/read10.py}{247}% 
+\contentsline {lstlisting}{src/tugas3/1174086/read11.py}{248}% 
