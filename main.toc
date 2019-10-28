@@ -240,5 +240,8 @@
 \contentsline {section}{\numberline {3.9}Alvan Alvanzah | 1174077}{277}% 
 \contentsline {subsection}{\numberline {3.9.1}Membaca Shapefile dengan PySHP}{277}% 
 \contentsline {subsection}{\numberline {3.9.2}Link}{282}% 
-\contentsline {schapter}{Daftar Pustaka}{283}% 
-\contentsline {schapter}{Index}{285}% 
+\contentsline {section}{\numberline {3.10}Hnadi Hermawan (1174080)}{282}% 
+\contentsline {subsection}{\numberline {3.10.1}Membaca Shapefile dengan PySHP}{282}% 
+\contentsline {subsection}{\numberline {3.10.2}Link}{288}% 
+\contentsline {schapter}{Daftar Pustaka}{289}% 
+\contentsline {schapter}{Index}{291}% 
