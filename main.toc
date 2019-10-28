@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xvii}% 
 \contentsline {schapter}{Daftar Tabel}{xxxi}% 
-\contentsline {schapter}{Foreword}{xli}% 
-\contentsline {schapter}{Kata Pengantar}{xliii}% 
-\contentsline {schapter}{Acknowledgments}{xlv}% 
-\contentsline {schapter}{Acronyms}{xlvii}% 
-\contentsline {schapter}{Glossary}{xlix}% 
-\contentsline {schapter}{List of Symbols}{li}% 
-\contentsline {schapter}{Introduction}{liii}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{liii}% 
+\contentsline {schapter}{Foreword}{xliii}% 
+\contentsline {schapter}{Kata Pengantar}{xlv}% 
+\contentsline {schapter}{Acknowledgments}{xlvii}% 
+\contentsline {schapter}{Acronyms}{xlix}% 
+\contentsline {schapter}{Glossary}{li}% 
+\contentsline {schapter}{List of Symbols}{liii}% 
+\contentsline {schapter}{Introduction}{lv}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lv}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -237,5 +237,8 @@
 \contentsline {section}{\numberline {3.8}Nurul Izza Hamka | 1174062}{271}% 
 \contentsline {subsection}{\numberline {3.8.1}Membaca Shapefile | PysHP}{271}% 
 \contentsline {subsection}{\numberline {3.8.2}Link}{277}% 
-\contentsline {schapter}{Daftar Pustaka}{279}% 
-\contentsline {schapter}{Index}{281}% 
+\contentsline {section}{\numberline {3.9}Alvan Alvanzah | 1174077}{277}% 
+\contentsline {subsection}{\numberline {3.9.1}Membaca Shapefile dengan PySHP}{277}% 
+\contentsline {subsection}{\numberline {3.9.2}Link}{282}% 
+\contentsline {schapter}{Daftar Pustaka}{283}% 
+\contentsline {schapter}{Index}{285}% 
