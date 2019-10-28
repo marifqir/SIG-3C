@@ -264,3 +264,14 @@
 \contentsline {lstlisting}{src/tugas3/1174066/Soal9.py}{265}% 
 \contentsline {lstlisting}{src/tugas3/1174066/Soal10.py}{265}% 
 \contentsline {lstlisting}{src/tugas3/1174066/Soal11.py}{265}% 
+\contentsline {lstlisting}{src/tugas3/1174070/soal1.py}{266}% 
+\contentsline {lstlisting}{src/tugas3/1174070/soal2.py}{266}% 
+\contentsline {lstlisting}{src/tugas3/1174070/soal3.py}{267}% 
+\contentsline {lstlisting}{src/tugas3/1174070/soal4.py}{267}% 
+\contentsline {lstlisting}{src/tugas3/1174070/soal5.py}{268}% 
+\contentsline {lstlisting}{src/tugas3/1174070/soal6.py}{268}% 
+\contentsline {lstlisting}{src/tugas3/1174070/soal7.py}{269}% 
+\contentsline {lstlisting}{src/tugas3/1174070/soal8.py}{269}% 
+\contentsline {lstlisting}{src/tugas3/1174070/soal9.py}{270}% 
+\contentsline {lstlisting}{src/tugas3/1174070/soal10.py}{270}% 
+\contentsline {lstlisting}{src/tugas3/1174070/soal11.py}{270}% 

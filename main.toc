@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xvii}% 
-\contentsline {schapter}{Daftar Tabel}{xxix}% 
-\contentsline {schapter}{Foreword}{xxxix}% 
-\contentsline {schapter}{Kata Pengantar}{xli}% 
-\contentsline {schapter}{Acknowledgments}{xliii}% 
-\contentsline {schapter}{Acronyms}{xlv}% 
-\contentsline {schapter}{Glossary}{xlvii}% 
-\contentsline {schapter}{List of Symbols}{xlix}% 
-\contentsline {schapter}{Introduction}{li}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{li}% 
+\contentsline {schapter}{Daftar Tabel}{xxxi}% 
+\contentsline {schapter}{Foreword}{xli}% 
+\contentsline {schapter}{Kata Pengantar}{xliii}% 
+\contentsline {schapter}{Acknowledgments}{xlv}% 
+\contentsline {schapter}{Acronyms}{xlvii}% 
+\contentsline {schapter}{Glossary}{xlix}% 
+\contentsline {schapter}{List of Symbols}{li}% 
+\contentsline {schapter}{Introduction}{liii}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{liii}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -231,5 +231,8 @@
 \contentsline {section}{\numberline {3.6}D. Irga B. Naufal Fakrhi (1174066)}{261}% 
 \contentsline {subsection}{\numberline {3.6.1}Membaca Shapefile dengan pySHP}{261}% 
 \contentsline {subsection}{\numberline {3.6.2}Link}{266}% 
-\contentsline {schapter}{Daftar Pustaka}{267}% 
-\contentsline {schapter}{Index}{269}% 
+\contentsline {section}{\numberline {3.7}Arrizal Furqona Gifary(1174070)}{266}% 
+\contentsline {subsection}{\numberline {3.7.1}Membaca Shapefile dengan PySHP}{266}% 
+\contentsline {subsection}{\numberline {3.7.2}Link}{271}% 
+\contentsline {schapter}{Daftar Pustaka}{273}% 
+\contentsline {schapter}{Index}{275}% 
