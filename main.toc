@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xvii}% 
-\contentsline {schapter}{Daftar Tabel}{xxxiii}% 
-\contentsline {schapter}{Foreword}{xlvii}% 
-\contentsline {schapter}{Kata Pengantar}{xlix}% 
-\contentsline {schapter}{Acknowledgments}{li}% 
-\contentsline {schapter}{Acronyms}{liii}% 
-\contentsline {schapter}{Glossary}{lv}% 
-\contentsline {schapter}{List of Symbols}{lvii}% 
-\contentsline {schapter}{Introduction}{lix}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lix}% 
+\contentsline {schapter}{Daftar Tabel}{xxxv}% 
+\contentsline {schapter}{Foreword}{xlix}% 
+\contentsline {schapter}{Kata Pengantar}{li}% 
+\contentsline {schapter}{Acknowledgments}{liii}% 
+\contentsline {schapter}{Acronyms}{lv}% 
+\contentsline {schapter}{Glossary}{lvii}% 
+\contentsline {schapter}{List of Symbols}{lix}% 
+\contentsline {schapter}{Introduction}{lxi}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxi}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -258,5 +258,11 @@
 \contentsline {section}{\numberline {3.15}Difa Al Fansha (1174076)}{310}% 
 \contentsline {subsection}{\numberline {3.15.1}Membaca Shapefile}{310}% 
 \contentsline {subsection}{\numberline {3.15.2}Link}{315}% 
-\contentsline {schapter}{Daftar Pustaka}{317}% 
-\contentsline {schapter}{Index}{319}% 
+\contentsline {section}{\numberline {3.16}Advent Nopele Olansi Damiahan Sihite (1174089)}{316}% 
+\contentsline {subsection}{\numberline {3.16.1}Membaca Shapefile dengan pySHP}{316}% 
+\contentsline {subsection}{\numberline {3.16.2}Link}{320}% 
+\contentsline {section}{\numberline {3.17}Kaka Kamaludin (1174067)}{321}% 
+\contentsline {subsection}{\numberline {3.17.1}Membaca Shapefile dengan PySHP}{321}% 
+\contentsline {subsection}{\numberline {3.17.2}Link}{324}% 
+\contentsline {schapter}{Daftar Pustaka}{325}% 
+\contentsline {schapter}{Index}{327}% 
