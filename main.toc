@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xv}% 
-\contentsline {schapter}{Daftar Tabel}{xxiii}% 
-\contentsline {schapter}{Foreword}{xxxi}% 
-\contentsline {schapter}{Kata Pengantar}{xxxiii}% 
-\contentsline {schapter}{Acknowledgments}{xxxv}% 
-\contentsline {schapter}{Acronyms}{xxxvii}% 
-\contentsline {schapter}{Glossary}{xxxix}% 
-\contentsline {schapter}{List of Symbols}{xli}% 
-\contentsline {schapter}{Introduction}{xliii}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xliii}% 
+\contentsline {schapter}{Daftar Gambar}{xvii}% 
+\contentsline {schapter}{Daftar Tabel}{xxix}% 
+\contentsline {schapter}{Foreword}{xxxix}% 
+\contentsline {schapter}{Kata Pengantar}{xli}% 
+\contentsline {schapter}{Acknowledgments}{xliii}% 
+\contentsline {schapter}{Acronyms}{xlv}% 
+\contentsline {schapter}{Glossary}{xlvii}% 
+\contentsline {schapter}{List of Symbols}{xlix}% 
+\contentsline {schapter}{Introduction}{li}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{li}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -193,3 +193,43 @@
 \contentsline {subsection}{\numberline {2.13.2}Link}{169}% 
 \contentsline {section}{\numberline {2.14}Ainul Filiani (1174073)}{169}% 
 \contentsline {subsection}{\numberline {2.14.1}Menulis Shapefile dengan PySHP}{169}% 
+\contentsline {subsection}{\numberline {2.14.2}Link}{177}% 
+\contentsline {section}{\numberline {2.15}Arrizal Furqona Gifary (1174070)}{177}% 
+\contentsline {subsection}{\numberline {2.15.1}Menulis Shapefile dengan PySHP}{177}% 
+\contentsline {subsection}{\numberline {2.15.2}Link}{187}% 
+\contentsline {section}{\numberline {2.16}Alvan Alvanzah (1174077)}{187}% 
+\contentsline {subsection}{\numberline {2.16.1}Tugas Membuat Shapefile dengan PySHP}{187}% 
+\contentsline {subsection}{\numberline {2.16.2}Link}{195}% 
+\contentsline {section}{\numberline {2.17}Aulyardha Anindita | 1174054}{196}% 
+\contentsline {subsection}{\numberline {2.17.1}Menulis Shapefile dengan PySHP}{196}% 
+\contentsline {subsection}{\numberline {2.17.2}Link}{205}% 
+\contentsline {section}{\numberline {2.18}Mochamad Arifqi Ramadhan | 1174074}{205}% 
+\contentsline {subsection}{\numberline {2.18.1}Menggunakan library Shapefile dengan Python (pyshp)}{205}% 
+\contentsline {subsection}{\numberline {2.18.2}Link Youtube}{213}% 
+\contentsline {section}{\numberline {2.19}Dini Permata Putri (1174053)}{213}% 
+\contentsline {subsection}{\numberline {2.19.1}Menulis Shapefile}{213}% 
+\contentsline {subsection}{\numberline {2.19.2}Link}{220}% 
+\contentsline {section}{\numberline {2.20}Difa Al Fansha (1174076)}{220}% 
+\contentsline {subsection}{\numberline {2.20.1}Menulis dan membaca shapefile}{220}% 
+\contentsline {subsection}{\numberline {2.20.2}Link}{229}% 
+\contentsline {chapter}{\numberline {3}Tugas Ketiga}{231}% 
+\contentsline {section}{\numberline {3.1}Fanny Shafira Damayanti (1174069)}{231}% 
+\contentsline {subsection}{\numberline {3.1.1}Membaca Shapefile dengan PySHP}{231}% 
+\contentsline {subsection}{\numberline {3.1.2}Link}{237}% 
+\contentsline {section}{\numberline {3.2}Aulyardha Anindita | 1174054}{237}% 
+\contentsline {subsection}{\numberline {3.2.1}Membaca Shapefile dengan PySHP}{237}% 
+\contentsline {subsection}{\numberline {3.2.2}Link}{243}% 
+\contentsline {section}{\numberline {3.3}Tia Nur Candida (1174086)}{243}% 
+\contentsline {subsection}{\numberline {3.3.1}Membaca Shapefile dengan PySHP}{243}% 
+\contentsline {subsection}{\numberline {3.3.2}Link}{248}% 
+\contentsline {section}{\numberline {3.4}Chandra Kirana Poetra (1174079)}{248}% 
+\contentsline {subsection}{\numberline {3.4.1}Membaca Shapefile dengan PySHP}{248}% 
+\contentsline {subsection}{\numberline {3.4.2}Link}{253}% 
+\contentsline {section}{\numberline {3.5}Muhammad Reza Syachrani (1174084)}{253}% 
+\contentsline {subsection}{\numberline {3.5.1}Membaca Shapefile dengan PySHP}{253}% 
+\contentsline {subsection}{\numberline {3.5.2}Link}{261}% 
+\contentsline {section}{\numberline {3.6}D. Irga B. Naufal Fakrhi (1174066)}{261}% 
+\contentsline {subsection}{\numberline {3.6.1}Membaca Shapefile dengan pySHP}{261}% 
+\contentsline {subsection}{\numberline {3.6.2}Link}{266}% 
+\contentsline {schapter}{Daftar Pustaka}{267}% 
+\contentsline {schapter}{Index}{269}% 
