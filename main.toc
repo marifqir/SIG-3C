@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xv}% 
-\contentsline {schapter}{Daftar Tabel}{xxv}% 
-\contentsline {schapter}{Foreword}{xxxiii}% 
-\contentsline {schapter}{Kata Pengantar}{xxxv}% 
-\contentsline {schapter}{Acknowledgments}{xxxvii}% 
-\contentsline {schapter}{Acronyms}{xxxix}% 
-\contentsline {schapter}{Glossary}{xli}% 
-\contentsline {schapter}{List of Symbols}{xliii}% 
-\contentsline {schapter}{Introduction}{xlv}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xlv}% 
+\contentsline {schapter}{Daftar Gambar}{xvii}% 
+\contentsline {schapter}{Daftar Tabel}{xxix}% 
+\contentsline {schapter}{Foreword}{xxxix}% 
+\contentsline {schapter}{Kata Pengantar}{xli}% 
+\contentsline {schapter}{Acknowledgments}{xliii}% 
+\contentsline {schapter}{Acronyms}{xlv}% 
+\contentsline {schapter}{Glossary}{xlvii}% 
+\contentsline {schapter}{List of Symbols}{xlix}% 
+\contentsline {schapter}{Introduction}{li}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{li}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -216,5 +216,8 @@
 \contentsline {section}{\numberline {3.1}Fanny Shafira Damayanti (1174069)}{231}% 
 \contentsline {subsection}{\numberline {3.1.1}Membaca Shapefile dengan PySHP}{231}% 
 \contentsline {subsection}{\numberline {3.1.2}Link}{237}% 
-\contentsline {schapter}{Daftar Pustaka}{239}% 
-\contentsline {schapter}{Index}{241}% 
+\contentsline {section}{\numberline {3.2}Aulyardha Anindita | 1174054}{237}% 
+\contentsline {subsection}{\numberline {3.2.1}Membaca Shapefile dengan PySHP}{237}% 
+\contentsline {subsection}{\numberline {3.2.2}Link}{243}% 
+\contentsline {schapter}{Daftar Pustaka}{245}% 
+\contentsline {schapter}{Index}{247}% 
