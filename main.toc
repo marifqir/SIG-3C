@@ -243,5 +243,8 @@
 \contentsline {section}{\numberline {3.10}Hnadi Hermawan (1174080)}{282}% 
 \contentsline {subsection}{\numberline {3.10.1}Membaca Shapefile dengan PySHP}{282}% 
 \contentsline {subsection}{\numberline {3.10.2}Link}{288}% 
-\contentsline {schapter}{Daftar Pustaka}{289}% 
-\contentsline {schapter}{Index}{291}% 
+\contentsline {section}{\numberline {3.11}Ilham Muhammad Ariq (1174087)}{288}% 
+\contentsline {subsection}{\numberline {3.11.1}Membaca Shapefile dengan PySHP}{288}% 
+\contentsline {subsection}{\numberline {3.11.2}Link}{293}% 
+\contentsline {schapter}{Daftar Pustaka}{295}% 
+\contentsline {schapter}{Index}{297}% 
