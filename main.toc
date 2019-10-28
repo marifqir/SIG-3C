@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xvii}% 
-\contentsline {schapter}{Daftar Tabel}{xxxi}% 
-\contentsline {schapter}{Foreword}{xliii}% 
-\contentsline {schapter}{Kata Pengantar}{xlv}% 
-\contentsline {schapter}{Acknowledgments}{xlvii}% 
-\contentsline {schapter}{Acronyms}{xlix}% 
-\contentsline {schapter}{Glossary}{li}% 
-\contentsline {schapter}{List of Symbols}{liii}% 
-\contentsline {schapter}{Introduction}{lv}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lv}% 
+\contentsline {schapter}{Daftar Tabel}{xxxiii}% 
+\contentsline {schapter}{Foreword}{xlvii}% 
+\contentsline {schapter}{Kata Pengantar}{xlix}% 
+\contentsline {schapter}{Acknowledgments}{li}% 
+\contentsline {schapter}{Acronyms}{liii}% 
+\contentsline {schapter}{Glossary}{lv}% 
+\contentsline {schapter}{List of Symbols}{lvii}% 
+\contentsline {schapter}{Introduction}{lix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lix}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -249,5 +249,14 @@
 \contentsline {section}{\numberline {3.12}Bakti Qilan Mufid (1174083)}{293}% 
 \contentsline {subsection}{\numberline {3.12.1}Membaca Shapefile dengan PySHP}{293}% 
 \contentsline {subsection}{\numberline {3.12.2}Link}{300}% 
-\contentsline {schapter}{Daftar Pustaka}{301}% 
-\contentsline {schapter}{Index}{303}% 
+\contentsline {section}{\numberline {3.13}Alfadian Owen (1174091)}{300}% 
+\contentsline {subsection}{\numberline {3.13.1}Membaca Shapefile dengan pySHP}{300}% 
+\contentsline {subsection}{\numberline {3.13.2}Link}{305}% 
+\contentsline {section}{\numberline {3.14}Mochamad Arifqi Ramadhan | 1174074}{305}% 
+\contentsline {subsection}{\numberline {3.14.1}Membaca Shapefile dengan PySHP}{305}% 
+\contentsline {subsection}{\numberline {3.14.2}Link}{310}% 
+\contentsline {section}{\numberline {3.15}Difa Al Fansha (1174076)}{310}% 
+\contentsline {subsection}{\numberline {3.15.1}Membaca Shapefile}{310}% 
+\contentsline {subsection}{\numberline {3.15.2}Link}{315}% 
+\contentsline {schapter}{Daftar Pustaka}{317}% 
+\contentsline {schapter}{Index}{319}% 
