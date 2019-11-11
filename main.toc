@@ -1,288 +1,294 @@
-\contentsline {schapter}{Daftar Gambar}{xvii}% 
-\contentsline {schapter}{Daftar Tabel}{xxxv}% 
-\contentsline {schapter}{Foreword}{xlix}% 
-\contentsline {schapter}{Kata Pengantar}{li}% 
-\contentsline {schapter}{Acknowledgments}{liii}% 
-\contentsline {schapter}{Acronyms}{lv}% 
-\contentsline {schapter}{Glossary}{lvii}% 
-\contentsline {schapter}{List of Symbols}{lix}% 
-\contentsline {schapter}{Introduction}{lxi}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxi}% 
-\contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
-\contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
-\contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
-\contentsline {subsection}{\numberline {1.1.2}Sejarah}{1}% 
-\contentsline {subsection}{\numberline {1.1.3}Koordinat}{1}% 
-\contentsline {subsection}{\numberline {1.1.4}Data Geospasial}{1}% 
-\contentsline {subsection}{\numberline {1.1.5}Link}{1}% 
-\contentsline {subsection}{\numberline {1.1.6}Plagiarism}{1}% 
-\contentsline {subsection}{\numberline {1.1.7}Cara Penggunaan}{1}% 
-\contentsline {subsubsection}{\numberline {1.1.7.1}Gambar}{1}% 
-\contentsline {subsubsection}{\numberline {1.1.7.2}List}{2}% 
-\contentsline {section}{\numberline {1.2}D. Irga B. Naufal Fakhri (1174066)}{2}% 
-\contentsline {subsection}{\numberline {1.2.1}Koordinat}{2}% 
-\contentsline {subsection}{\numberline {1.2.2}Link}{3}% 
-\contentsline {subsection}{\numberline {1.2.3}Plagiarism}{4}% 
-\contentsline {section}{\numberline {1.3}Chandra Kirana Poetra (1174079)}{4}% 
-\contentsline {subsection}{\numberline {1.3.1}Buku}{4}% 
-\contentsline {subsection}{\numberline {1.3.2}Data Geospasial}{4}% 
-\contentsline {subsection}{\numberline {1.3.3}Link}{5}% 
-\contentsline {subsection}{\numberline {1.3.4}Plagiarism}{5}% 
-\contentsline {subsection}{\numberline {1.3.5}Cara Penggunaan}{6}% 
-\contentsline {subsubsection}{\numberline {1.3.5.1}Gambar}{6}% 
-\contentsline {subsubsection}{\numberline {1.3.5.2}List}{6}% 
-\contentsline {section}{\numberline {1.4}Advent Nopele Olansi Damiahan Sihite (1174089)}{7}% 
-\contentsline {subsection}{\numberline {1.4.1}Buku}{7}% 
-\contentsline {subsection}{\numberline {1.4.2}Sejarah}{7}% 
-\contentsline {subsection}{\numberline {1.4.3}Link}{7}% 
-\contentsline {subsection}{\numberline {1.4.4}Plagiarism}{7}% 
-\contentsline {subsection}{\numberline {1.4.5}Cara Penggunaan}{8}% 
-\contentsline {subsubsection}{\numberline {1.4.5.1}Gambar}{8}% 
-\contentsline {subsubsection}{\numberline {1.4.5.2}List}{8}% 
-\contentsline {section}{\numberline {1.5}Tia Nur Candida (1174086)}{9}% 
-\contentsline {subsection}{\numberline {1.5.1}Buku}{9}% 
-\contentsline {subsection}{\numberline {1.5.2}Pengertian}{9}% 
-\contentsline {subsection}{\numberline {1.5.3}Sejarah}{9}% 
-\contentsline {subsection}{\numberline {1.5.4}Koordinat}{9}% 
-\contentsline {subsection}{\numberline {1.5.5}Geospasial}{10}% 
-\contentsline {subsection}{\numberline {1.5.6}Link}{10}% 
-\contentsline {subsection}{\numberline {1.5.7}Plagiarism}{10}% 
-\contentsline {section}{\numberline {1.6}Kaka Kamaludin (1174067)}{11}% 
-\contentsline {subsection}{\numberline {1.6.1}Buku}{11}% 
-\contentsline {subsection}{\numberline {1.6.2}Data Geospasial}{11}% 
-\contentsline {subsection}{\numberline {1.6.3}Link}{11}% 
-\contentsline {subsection}{\numberline {1.6.4}Plagiarism}{12}% 
-\contentsline {section}{\numberline {1.7}Fanny Shafira Damayanti (1174069)}{12}% 
-\contentsline {subsection}{\numberline {1.7.1}Buku}{12}% 
-\contentsline {subsection}{\numberline {1.7.2}Pengertian Sistem Informasi Geografis}{12}% 
-\contentsline {subsection}{\numberline {1.7.3}Sejarah}{12}% 
-\contentsline {subsection}{\numberline {1.7.4}Koordinat}{13}% 
-\contentsline {subsection}{\numberline {1.7.5}Data Geospasial}{14}% 
-\contentsline {subsection}{\numberline {1.7.6}Link}{16}% 
-\contentsline {subsection}{\numberline {1.7.7}Plagiarism}{17}% 
-\contentsline {subsection}{\numberline {1.7.8}Plagiarism}{17}% 
-\contentsline {section}{\numberline {1.8}Ilham Muhammad Ariq (1174087)}{17}% 
-\contentsline {subsection}{\numberline {1.8.1}Buku}{17}% 
-\contentsline {subsection}{\numberline {1.8.2}Data Geospasial}{17}% 
-\contentsline {subsection}{\numberline {1.8.3}Link}{19}% 
-\contentsline {subsection}{\numberline {1.8.4}Plagiarism}{20}% 
-\contentsline {section}{\numberline {1.9}Alvan Alvanzah/1174077}{20}% 
-\contentsline {subsection}{\numberline {1.9.1}BUKU}{20}% 
-\contentsline {subsection}{\numberline {1.9.2}SEJARAH PTOLEMY}{20}% 
-\contentsline {subsection}{\numberline {1.9.3}Link Video}{21}% 
-\contentsline {subsection}{\numberline {1.9.4}Plagiarisme}{21}% 
-\contentsline {section}{\numberline {1.10}Muhammad Reza Syachrani (1174084)}{21}% 
-\contentsline {subsection}{\numberline {1.10.1}Buku}{21}% 
-\contentsline {subsection}{\numberline {1.10.2}Pengertian}{21}% 
-\contentsline {subsection}{\numberline {1.10.3}Link}{23}% 
-\contentsline {subsection}{\numberline {1.10.4}Plagiarism}{23}% 
-\contentsline {section}{\numberline {1.11}Arrizal Furqona Gifary (1174070)}{24}% 
-\contentsline {subsection}{\numberline {1.11.1}Koordinat}{24}% 
-\contentsline {subsection}{\numberline {1.11.2}Link}{25}% 
-\contentsline {subsection}{\numberline {1.11.3}Plagiarism}{25}% 
-\contentsline {section}{\numberline {1.12}Bakti QIlan Mufid (1174083)}{25}% 
-\contentsline {subsection}{\numberline {1.12.1}Buku}{25}% 
-\contentsline {subsection}{\numberline {1.12.2}Data Geospasial}{25}% 
-\contentsline {subsection}{\numberline {1.12.3}Link}{27}% 
-\contentsline {subsection}{\numberline {1.12.4}Plagiarism}{27}% 
-\contentsline {subsection}{\numberline {1.12.5}Cara Penggunaan}{27}% 
-\contentsline {subsubsection}{\numberline {1.12.5.1}Gambar}{27}% 
-\contentsline {subsubsection}{\numberline {1.12.5.2}List}{27}% 
-\contentsline {section}{\numberline {1.13}Alfadian Owen (1174091)}{28}% 
-\contentsline {subsection}{\numberline {1.13.1}Buku}{28}% 
-\contentsline {subsection}{\numberline {1.13.2}Data Geospasial}{28}% 
-\contentsline {subsection}{\numberline {1.13.3}Link}{28}% 
-\contentsline {subsection}{\numberline {1.13.4}Plagiarism}{29}% 
-\contentsline {subsection}{\numberline {1.13.5}Cara Penggunaan}{29}% 
-\contentsline {subsubsection}{\numberline {1.13.5.1}Gambar}{29}% 
-\contentsline {subsubsection}{\numberline {1.13.5.2}List}{29}% 
-\contentsline {section}{\numberline {1.14}Geographic Information System | Nurul Izza Hamka | 1174062}{30}% 
-\contentsline {subsection}{\numberline {1.14.1}Buku}{30}% 
-\contentsline {subsection}{\numberline {1.14.2}Pengertian Sistem Informasi geografis}{30}% 
-\contentsline {subsection}{\numberline {1.14.3}Sejarah}{31}% 
-\contentsline {subsection}{\numberline {1.14.4}Koordinat}{31}% 
-\contentsline {subsection}{\numberline {1.14.5}Data Geospasial}{31}% 
-\contentsline {subsection}{\numberline {1.14.6}Link}{32}% 
-\contentsline {subsection}{\numberline {1.14.7}Plagiarism}{32}% 
-\contentsline {section}{\numberline {1.15}Ainul Filiani (1174073)}{32}% 
-\contentsline {subsection}{\numberline {1.15.1}Buku}{32}% 
-\contentsline {subsection}{\numberline {1.15.2}Pengertian Sistem Informasi Geografis}{32}% 
-\contentsline {subsection}{\numberline {1.15.3}Sejarah}{33}% 
-\contentsline {subsection}{\numberline {1.15.4}koordinat}{34}% 
-\contentsline {subsection}{\numberline {1.15.5}Data geospasial}{35}% 
-\contentsline {subsection}{\numberline {1.15.6}link}{35}% 
-\contentsline {subsection}{\numberline {1.15.7}plagiarisme}{35}% 
-\contentsline {section}{\numberline {1.16}Aulyardha Anindita | 1174054}{35}% 
-\contentsline {subsection}{\numberline {1.16.1}Buku}{35}% 
-\contentsline {subsection}{\numberline {1.16.2}Sistem Informasi Geografis}{35}% 
-\contentsline {paragraph}{}{35}% 
-\contentsline {subsection}{\numberline {1.16.3}Sejarah}{36}% 
-\contentsline {paragraph}{}{36}% 
-\contentsline {paragraph}{}{36}% 
-\contentsline {subsection}{\numberline {1.16.4}Koordinat Bumi}{38}% 
-\contentsline {subsection}{\numberline {1.16.5}Data Geospasial}{39}% 
-\contentsline {subsection}{\numberline {1.16.6}Link Youtube}{39}% 
-\contentsline {subsection}{\numberline {1.16.7}Plagiarisme}{40}% 
-\contentsline {section}{\numberline {1.17}Difa Al Fansha(1174076)}{40}% 
-\contentsline {subsection}{\numberline {1.17.1}Pengertian}{40}% 
-\contentsline {subsection}{\numberline {1.17.2}Link}{40}% 
-\contentsline {subsection}{\numberline {1.17.3}Plagiarism}{41}% 
-\contentsline {section}{\numberline {1.18}Mochamad Arifqi Ramadhan (1174074)}{41}% 
-\contentsline {subsection}{\numberline {1.18.1}Kordinat}{41}% 
-\contentsline {subsection}{\numberline {1.18.2}Link}{43}% 
-\contentsline {subsection}{\numberline {1.18.3}Plagiarism}{43}% 
-\contentsline {section}{\numberline {1.19}Muhammad Abdul Gani Wijaya 1174071}{43}% 
-\contentsline {subsection}{\numberline {1.19.1}DATA GEOSPASIAL}{43}% 
-\contentsline {subsection}{\numberline {1.19.2}DATA GEOSPASIAL RASTER}{43}% 
-\contentsline {subsection}{\numberline {1.19.3}DATA GEOSPASIAL VEKTOR}{45}% 
-\contentsline {subsection}{\numberline {1.19.4}DATA GEOSPASIAL (OPEN GEOSPASIAL CONSORTIUM)}{45}% 
-\contentsline {subsection}{\numberline {1.19.5}Link Youtube}{45}% 
-\contentsline {subsection}{\numberline {1.19.6}Check Plagiarism}{47}% 
-\contentsline {section}{\numberline {1.20}Handi Hermawan (1174067)}{47}% 
-\contentsline {subsection}{\numberline {1.20.1}Definisi}{47}% 
-\contentsline {subsection}{\numberline {1.20.2}Pemahaman GIS}{47}% 
-\contentsline {subsection}{\numberline {1.20.3}Komponen GIS}{47}% 
-\contentsline {subsection}{\numberline {1.20.4}Model Sistem Informasi Geografis}{48}% 
-\contentsline {subsection}{\numberline {1.20.5}Link}{48}% 
-\contentsline {section}{\numberline {1.21}Dini Permata Putri (1174053)}{48}% 
-\contentsline {subsection}{\numberline {1.21.1}Buku}{48}% 
-\contentsline {subsection}{\numberline {1.21.2}Pengertian Sistem Informasi Geografis}{48}% 
-\contentsline {subsection}{\numberline {1.21.3}Sejarah}{49}% 
-\contentsline {subsection}{\numberline {1.21.4}koordinat}{49}% 
-\contentsline {subsection}{\numberline {1.21.5}Data geospasial}{50}% 
-\contentsline {subsection}{\numberline {1.21.6}link}{50}% 
-\contentsline {chapter}{\numberline {2}Tugas Kedua}{51}% 
-\contentsline {section}{\numberline {2.1}D. Irga B. Naufal Fakhri (1174066)}{51}% 
-\contentsline {subsection}{\numberline {2.1.1}Menulis Shapefile dengan PySHP}{51}% 
-\contentsline {subsection}{\numberline {2.1.2}Link}{60}% 
-\contentsline {section}{\numberline {2.2}Chandra Kirana Poetra (1174079)}{60}% 
-\contentsline {subsection}{\numberline {2.2.1}Tugas Membuat Shapefile dengan PySHP}{60}% 
-\contentsline {subsection}{\numberline {2.2.2}Link}{70}% 
-\contentsline {section}{\numberline {2.3}Tia Nur Candida (1174086)}{70}% 
-\contentsline {subsection}{\numberline {2.3.1}Menulis Shapefile dengan PySHP}{70}% 
-\contentsline {subsection}{\numberline {2.3.2}Link}{78}% 
-\contentsline {section}{\numberline {2.4}Muhammad Abdul Gani Wijaya 1174071}{78}% 
-\contentsline {subsection}{\numberline {2.4.1}Menggunakan library Shapefile dengan Python (pyshp)}{78}% 
-\contentsline {subsection}{\numberline {2.4.2}Link Youtube}{86}% 
-\contentsline {section}{\numberline {2.5}Muhammad Reza Syachrani (1174084)}{86}% 
-\contentsline {subsection}{\numberline {2.5.1}Menulis Shapefile dengan PySHP}{86}% 
-\contentsline {subsection}{\numberline {2.5.2}Link}{96}% 
-\contentsline {section}{\numberline {2.6}Fanny Shafira Damayanti (1174069)}{96}% 
-\contentsline {subsection}{\numberline {2.6.1}Menulis Shapefile dengan PySHP}{96}% 
-\contentsline {subsection}{\numberline {2.6.2}Link}{105}% 
-\contentsline {section}{\numberline {2.7}Bakti QIlan Mufid (1174083)}{105}% 
-\contentsline {subsection}{\numberline {2.7.1}Tugas Membuat Shapefile dengan PySHP}{105}% 
-\contentsline {subsection}{\numberline {2.7.2}Link}{114}% 
-\contentsline {section}{\numberline {2.8}Kaka Kamaludin (1174067)}{114}% 
-\contentsline {subsection}{\numberline {2.8.1}Menulis Shapefile dengan PySHP}{114}% 
-\contentsline {subsection}{\numberline {2.8.2}Link}{123}% 
-\contentsline {section}{\numberline {2.9}Handi Hermawan (1174080)}{123}% 
-\contentsline {subsection}{\numberline {2.9.1}Tugas 2 membuat Shapefile dengan PySHP}{123}% 
-\contentsline {subsection}{\numberline {2.9.2}Link}{132}% 
-\contentsline {section}{\numberline {2.10}ADVENT NOPELE OLANSI DAMIAHAN SIHITE (1174089)}{132}% 
-\contentsline {subsection}{\numberline {2.10.1}Menulis Shapefile dengan PySHP}{132}% 
-\contentsline {subsection}{\numberline {2.10.2}Link}{142}% 
-\contentsline {section}{\numberline {2.11}Nurul Izza Hamka | 1174062}{143}% 
-\contentsline {subsection}{\numberline {2.11.1}Shapefile Dengan PyShp}{143}% 
-\contentsline {subsection}{\numberline {2.11.2}Link}{151}% 
-\contentsline {section}{\numberline {2.12}Alfadian Owen (1174091)}{151}% 
-\contentsline {subsection}{\numberline {2.12.1}Menulis Shapefile dengan PySHP}{151}% 
-\contentsline {subsection}{\numberline {2.12.2}Link}{159}% 
-\contentsline {section}{\numberline {2.13}Ilham Muhammad Ariq (1174087)}{160}% 
-\contentsline {subsection}{\numberline {2.13.1}Menulis Shapefile dengan PySHP}{160}% 
-\contentsline {subsection}{\numberline {2.13.2}Link}{169}% 
-\contentsline {section}{\numberline {2.14}Ainul Filiani (1174073)}{169}% 
-\contentsline {subsection}{\numberline {2.14.1}Menulis Shapefile dengan PySHP}{169}% 
-\contentsline {subsection}{\numberline {2.14.2}Link}{177}% 
-\contentsline {section}{\numberline {2.15}Arrizal Furqona Gifary (1174070)}{177}% 
-\contentsline {subsection}{\numberline {2.15.1}Menulis Shapefile dengan PySHP}{177}% 
-\contentsline {subsection}{\numberline {2.15.2}Link}{187}% 
-\contentsline {section}{\numberline {2.16}Alvan Alvanzah (1174077)}{187}% 
-\contentsline {subsection}{\numberline {2.16.1}Tugas Membuat Shapefile dengan PySHP}{187}% 
-\contentsline {subsection}{\numberline {2.16.2}Link}{195}% 
-\contentsline {section}{\numberline {2.17}Aulyardha Anindita | 1174054}{196}% 
-\contentsline {subsection}{\numberline {2.17.1}Menulis Shapefile dengan PySHP}{196}% 
-\contentsline {subsection}{\numberline {2.17.2}Link}{205}% 
-\contentsline {section}{\numberline {2.18}Mochamad Arifqi Ramadhan | 1174074}{205}% 
-\contentsline {subsection}{\numberline {2.18.1}Menggunakan library Shapefile dengan Python (pyshp)}{205}% 
-\contentsline {subsection}{\numberline {2.18.2}Link Youtube}{213}% 
-\contentsline {section}{\numberline {2.19}Dini Permata Putri (1174053)}{213}% 
-\contentsline {subsection}{\numberline {2.19.1}Menulis Shapefile}{213}% 
-\contentsline {subsection}{\numberline {2.19.2}Link}{220}% 
-\contentsline {section}{\numberline {2.20}Difa Al Fansha (1174076)}{220}% 
-\contentsline {subsection}{\numberline {2.20.1}Menulis dan membaca shapefile}{220}% 
-\contentsline {subsection}{\numberline {2.20.2}Link}{229}% 
-\contentsline {chapter}{\numberline {3}Tugas Ketiga}{231}% 
-\contentsline {section}{\numberline {3.1}Fanny Shafira Damayanti (1174069)}{231}% 
-\contentsline {subsection}{\numberline {3.1.1}Membaca Shapefile dengan PySHP}{231}% 
-\contentsline {subsection}{\numberline {3.1.2}Link}{237}% 
-\contentsline {section}{\numberline {3.2}Aulyardha Anindita | 1174054}{237}% 
-\contentsline {subsection}{\numberline {3.2.1}Membaca Shapefile dengan PySHP}{237}% 
-\contentsline {subsection}{\numberline {3.2.2}Link}{243}% 
-\contentsline {section}{\numberline {3.3}Tia Nur Candida (1174086)}{243}% 
-\contentsline {subsection}{\numberline {3.3.1}Membaca Shapefile dengan PySHP}{243}% 
-\contentsline {subsection}{\numberline {3.3.2}Link}{248}% 
-\contentsline {section}{\numberline {3.4}Chandra Kirana Poetra (1174079)}{248}% 
-\contentsline {subsection}{\numberline {3.4.1}Membaca Shapefile dengan PySHP}{248}% 
-\contentsline {subsection}{\numberline {3.4.2}Link}{253}% 
-\contentsline {section}{\numberline {3.5}Muhammad Reza Syachrani (1174084)}{253}% 
-\contentsline {subsection}{\numberline {3.5.1}Membaca Shapefile dengan PySHP}{253}% 
-\contentsline {subsection}{\numberline {3.5.2}Link}{261}% 
-\contentsline {section}{\numberline {3.6}D. Irga B. Naufal Fakrhi (1174066)}{261}% 
-\contentsline {subsection}{\numberline {3.6.1}Membaca Shapefile dengan pySHP}{261}% 
-\contentsline {subsection}{\numberline {3.6.2}Link}{266}% 
-\contentsline {section}{\numberline {3.7}Arrizal Furqona Gifary(1174070)}{266}% 
-\contentsline {subsection}{\numberline {3.7.1}Membaca Shapefile dengan PySHP}{266}% 
-\contentsline {subsection}{\numberline {3.7.2}Link}{271}% 
-\contentsline {section}{\numberline {3.8}Nurul Izza Hamka | 1174062}{271}% 
-\contentsline {subsection}{\numberline {3.8.1}Membaca Shapefile | PysHP}{271}% 
-\contentsline {subsection}{\numberline {3.8.2}Link}{277}% 
-\contentsline {section}{\numberline {3.9}Alvan Alvanzah | 1174077}{277}% 
-\contentsline {subsection}{\numberline {3.9.1}Membaca Shapefile dengan PySHP}{277}% 
-\contentsline {subsection}{\numberline {3.9.2}Link}{282}% 
-\contentsline {section}{\numberline {3.10}Hnadi Hermawan (1174080)}{282}% 
-\contentsline {subsection}{\numberline {3.10.1}Membaca Shapefile dengan PySHP}{282}% 
-\contentsline {subsection}{\numberline {3.10.2}Link}{288}% 
-\contentsline {section}{\numberline {3.11}Ilham Muhammad Ariq (1174087)}{288}% 
-\contentsline {subsection}{\numberline {3.11.1}Membaca Shapefile dengan PySHP}{288}% 
-\contentsline {subsection}{\numberline {3.11.2}Link}{293}% 
-\contentsline {section}{\numberline {3.12}Bakti Qilan Mufid (1174083)}{293}% 
-\contentsline {subsection}{\numberline {3.12.1}Membaca Shapefile dengan PySHP}{293}% 
-\contentsline {subsection}{\numberline {3.12.2}Link}{300}% 
-\contentsline {section}{\numberline {3.13}Alfadian Owen (1174091)}{300}% 
-\contentsline {subsection}{\numberline {3.13.1}Membaca Shapefile dengan pySHP}{300}% 
-\contentsline {subsection}{\numberline {3.13.2}Link}{305}% 
-\contentsline {section}{\numberline {3.14}Mochamad Arifqi Ramadhan | 1174074}{305}% 
-\contentsline {subsection}{\numberline {3.14.1}Membaca Shapefile dengan PySHP}{305}% 
-\contentsline {subsection}{\numberline {3.14.2}Link}{310}% 
-\contentsline {section}{\numberline {3.15}Difa Al Fansha (1174076)}{310}% 
-\contentsline {subsection}{\numberline {3.15.1}Membaca Shapefile}{310}% 
-\contentsline {subsection}{\numberline {3.15.2}Link}{315}% 
-\contentsline {section}{\numberline {3.16}Advent Nopele Olansi Damiahan Sihite (1174089)}{316}% 
-\contentsline {subsection}{\numberline {3.16.1}Membaca Shapefile dengan pySHP}{316}% 
-\contentsline {subsection}{\numberline {3.16.2}Link}{320}% 
-\contentsline {section}{\numberline {3.17}Kaka Kamaludin (1174067)}{321}% 
-\contentsline {subsection}{\numberline {3.17.1}Membaca Shapefile dengan PySHP}{321}% 
-\contentsline {subsection}{\numberline {3.17.2}Link}{324}% 
-\contentsline {section}{\numberline {3.18}Muhammad Abddul Gani Wijaya 1174071}{324}% 
-\contentsline {subsection}{\numberline {3.18.1}Membaca file Shape file dengan python}{324}% 
-\contentsline {subsection}{\numberline {3.18.2}Link}{329}% 
-\contentsline {section}{\numberline {3.19}Ainul Filiani | 1174073}{329}% 
-\contentsline {subsection}{\numberline {3.19.1}Membaca Shapefile dengan PySHP}{329}% 
-\contentsline {subsection}{\numberline {3.19.2}Link}{335}% 
-\contentsline {chapter}{\numberline {4}Tugas Keempat}{337}% 
-\contentsline {section}{\numberline {4.1}D. Irga B. Naufal Fakrhi (1174066)}{337}% 
-\contentsline {subsection}{\numberline {4.1.1}Instalasi Map Server}{337}% 
-\contentsline {subsection}{\numberline {4.1.2}Konfigurasi Map Server}{338}% 
-\contentsline {subsection}{\numberline {4.1.3}Link Youtube Instalasi MapServer}{339}% 
-\contentsline {subsection}{\numberline {4.1.4}Instalasi MapProxy}{339}% 
-\contentsline {subsection}{\numberline {4.1.5}Membuka map menggunakan MapProxy}{340}% 
-\contentsline {subsection}{\numberline {4.1.6}Link Youtube MapProxy dan Menjalankannya}{342}% 
-\contentsline {section}{\numberline {4.2}Ilham Muhammad Ariq (1174087)}{342}% 
-\contentsline {subsection}{\numberline {4.2.1}Instalasi Map Server}{342}% 
-\contentsline {subsection}{\numberline {4.2.2}Instalasi Map Proxy}{346}% 
-\contentsline {subsection}{\numberline {4.2.3}Link Youtube}{346}% 
-\contentsline {subsection}{\numberline {4.2.4}Membuka map menggunakan MapProxy}{347}% 
-\contentsline {subsection}{\numberline {4.2.5}Link Youtube}{348}% 
-\contentsline {schapter}{Daftar Pustaka}{349}% 
-\contentsline {schapter}{Index}{351}% 
+\contentsline {schapter}{Daftar Gambar}{xvii}
+\contentsline {schapter}{Daftar Tabel}{xxxvii}
+\contentsline {schapter}{Foreword}{li}
+\contentsline {schapter}{Kata Pengantar}{liii}
+\contentsline {schapter}{Acknowledgments}{lv}
+\contentsline {schapter}{Acronyms}{lvii}
+\contentsline {schapter}{Glossary}{lix}
+\contentsline {schapter}{List of Symbols}{lxi}
+\contentsline {schapter}{Introduction}{lxiii}
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxiii}
+\contentsline {chapter}{\numberline {1}Tugas Pertama}{1}
+\contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}
+\contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}
+\contentsline {subsection}{\numberline {1.1.2}Sejarah}{1}
+\contentsline {subsection}{\numberline {1.1.3}Koordinat}{1}
+\contentsline {subsection}{\numberline {1.1.4}Data Geospasial}{1}
+\contentsline {subsection}{\numberline {1.1.5}Link}{1}
+\contentsline {subsection}{\numberline {1.1.6}Plagiarism}{1}
+\contentsline {subsection}{\numberline {1.1.7}Cara Penggunaan}{1}
+\contentsline {subsubsection}{\numberline {1.1.7.1}Gambar}{1}
+\contentsline {subsubsection}{\numberline {1.1.7.2}List}{2}
+\contentsline {section}{\numberline {1.2}D. Irga B. Naufal Fakhri (1174066)}{2}
+\contentsline {subsection}{\numberline {1.2.1}Koordinat}{2}
+\contentsline {subsection}{\numberline {1.2.2}Link}{3}
+\contentsline {subsection}{\numberline {1.2.3}Plagiarism}{4}
+\contentsline {section}{\numberline {1.3}Chandra Kirana Poetra (1174079)}{4}
+\contentsline {subsection}{\numberline {1.3.1}Buku}{4}
+\contentsline {subsection}{\numberline {1.3.2}Data Geospasial}{4}
+\contentsline {subsection}{\numberline {1.3.3}Link}{5}
+\contentsline {subsection}{\numberline {1.3.4}Plagiarism}{5}
+\contentsline {subsection}{\numberline {1.3.5}Cara Penggunaan}{6}
+\contentsline {subsubsection}{\numberline {1.3.5.1}Gambar}{6}
+\contentsline {subsubsection}{\numberline {1.3.5.2}List}{6}
+\contentsline {section}{\numberline {1.4}Advent Nopele Olansi Damiahan Sihite (1174089)}{7}
+\contentsline {subsection}{\numberline {1.4.1}Buku}{7}
+\contentsline {subsection}{\numberline {1.4.2}Sejarah}{7}
+\contentsline {subsection}{\numberline {1.4.3}Link}{7}
+\contentsline {subsection}{\numberline {1.4.4}Plagiarism}{7}
+\contentsline {subsection}{\numberline {1.4.5}Cara Penggunaan}{8}
+\contentsline {subsubsection}{\numberline {1.4.5.1}Gambar}{8}
+\contentsline {subsubsection}{\numberline {1.4.5.2}List}{8}
+\contentsline {section}{\numberline {1.5}Tia Nur Candida (1174086)}{9}
+\contentsline {subsection}{\numberline {1.5.1}Buku}{9}
+\contentsline {subsection}{\numberline {1.5.2}Pengertian}{9}
+\contentsline {subsection}{\numberline {1.5.3}Sejarah}{9}
+\contentsline {subsection}{\numberline {1.5.4}Koordinat}{9}
+\contentsline {subsection}{\numberline {1.5.5}Geospasial}{10}
+\contentsline {subsection}{\numberline {1.5.6}Link}{10}
+\contentsline {subsection}{\numberline {1.5.7}Plagiarism}{10}
+\contentsline {section}{\numberline {1.6}Kaka Kamaludin (1174067)}{11}
+\contentsline {subsection}{\numberline {1.6.1}Buku}{11}
+\contentsline {subsection}{\numberline {1.6.2}Data Geospasial}{11}
+\contentsline {subsection}{\numberline {1.6.3}Link}{11}
+\contentsline {subsection}{\numberline {1.6.4}Plagiarism}{12}
+\contentsline {section}{\numberline {1.7}Fanny Shafira Damayanti (1174069)}{12}
+\contentsline {subsection}{\numberline {1.7.1}Buku}{12}
+\contentsline {subsection}{\numberline {1.7.2}Pengertian Sistem Informasi Geografis}{12}
+\contentsline {subsection}{\numberline {1.7.3}Sejarah}{12}
+\contentsline {subsection}{\numberline {1.7.4}Koordinat}{13}
+\contentsline {subsection}{\numberline {1.7.5}Data Geospasial}{14}
+\contentsline {subsection}{\numberline {1.7.6}Link}{16}
+\contentsline {subsection}{\numberline {1.7.7}Plagiarism}{16}
+\contentsline {subsection}{\numberline {1.7.8}Plagiarism}{16}
+\contentsline {section}{\numberline {1.8}Ilham Muhammad Ariq (1174087)}{17}
+\contentsline {subsection}{\numberline {1.8.1}Buku}{17}
+\contentsline {subsection}{\numberline {1.8.2}Data Geospasial}{17}
+\contentsline {subsection}{\numberline {1.8.3}Link}{19}
+\contentsline {subsection}{\numberline {1.8.4}Plagiarism}{19}
+\contentsline {section}{\numberline {1.9}Alvan Alvanzah/1174077}{20}
+\contentsline {subsection}{\numberline {1.9.1}BUKU}{20}
+\contentsline {subsection}{\numberline {1.9.2}SEJARAH PTOLEMY}{20}
+\contentsline {subsection}{\numberline {1.9.3}Link Video}{21}
+\contentsline {subsection}{\numberline {1.9.4}Plagiarisme}{21}
+\contentsline {section}{\numberline {1.10}Muhammad Reza Syachrani (1174084)}{22}
+\contentsline {subsection}{\numberline {1.10.1}Buku}{22}
+\contentsline {subsection}{\numberline {1.10.2}Pengertian}{22}
+\contentsline {subsection}{\numberline {1.10.3}Link}{23}
+\contentsline {subsection}{\numberline {1.10.4}Plagiarism}{23}
+\contentsline {section}{\numberline {1.11}Arrizal Furqona Gifary (1174070)}{23}
+\contentsline {subsection}{\numberline {1.11.1}Koordinat}{23}
+\contentsline {subsection}{\numberline {1.11.2}Link}{25}
+\contentsline {subsection}{\numberline {1.11.3}Plagiarism}{25}
+\contentsline {section}{\numberline {1.12}Bakti QIlan Mufid (1174083)}{25}
+\contentsline {subsection}{\numberline {1.12.1}Buku}{25}
+\contentsline {subsection}{\numberline {1.12.2}Data Geospasial}{25}
+\contentsline {subsection}{\numberline {1.12.3}Link}{27}
+\contentsline {subsection}{\numberline {1.12.4}Plagiarism}{27}
+\contentsline {subsection}{\numberline {1.12.5}Cara Penggunaan}{27}
+\contentsline {subsubsection}{\numberline {1.12.5.1}Gambar}{27}
+\contentsline {subsubsection}{\numberline {1.12.5.2}List}{27}
+\contentsline {section}{\numberline {1.13}Alfadian Owen (1174091)}{28}
+\contentsline {subsection}{\numberline {1.13.1}Buku}{28}
+\contentsline {subsection}{\numberline {1.13.2}Data Geospasial}{28}
+\contentsline {subsection}{\numberline {1.13.3}Link}{28}
+\contentsline {subsection}{\numberline {1.13.4}Plagiarism}{29}
+\contentsline {subsection}{\numberline {1.13.5}Cara Penggunaan}{29}
+\contentsline {subsubsection}{\numberline {1.13.5.1}Gambar}{29}
+\contentsline {subsubsection}{\numberline {1.13.5.2}List}{29}
+\contentsline {section}{\numberline {1.14}Geographic Information System | Nurul Izza Hamka | 1174062}{30}
+\contentsline {subsection}{\numberline {1.14.1}Buku}{30}
+\contentsline {subsection}{\numberline {1.14.2}Pengertian Sistem Informasi geografis}{30}
+\contentsline {subsection}{\numberline {1.14.3}Sejarah}{31}
+\contentsline {subsection}{\numberline {1.14.4}Koordinat}{31}
+\contentsline {subsection}{\numberline {1.14.5}Data Geospasial}{31}
+\contentsline {subsection}{\numberline {1.14.6}Link}{32}
+\contentsline {subsection}{\numberline {1.14.7}Plagiarism}{32}
+\contentsline {section}{\numberline {1.15}Ainul Filiani (1174073)}{32}
+\contentsline {subsection}{\numberline {1.15.1}Buku}{32}
+\contentsline {subsection}{\numberline {1.15.2}Pengertian Sistem Informasi Geografis}{32}
+\contentsline {subsection}{\numberline {1.15.3}Sejarah}{33}
+\contentsline {subsection}{\numberline {1.15.4}koordinat}{34}
+\contentsline {subsection}{\numberline {1.15.5}Data geospasial}{35}
+\contentsline {subsection}{\numberline {1.15.6}link}{35}
+\contentsline {subsection}{\numberline {1.15.7}plagiarisme}{35}
+\contentsline {section}{\numberline {1.16}Aulyardha Anindita | 1174054}{35}
+\contentsline {subsection}{\numberline {1.16.1}Buku}{35}
+\contentsline {subsection}{\numberline {1.16.2}Sistem Informasi Geografis}{35}
+\contentsline {paragraph}{}{35}
+\contentsline {subsection}{\numberline {1.16.3}Sejarah}{36}
+\contentsline {paragraph}{}{36}
+\contentsline {paragraph}{}{36}
+\contentsline {subsection}{\numberline {1.16.4}Koordinat Bumi}{38}
+\contentsline {subsection}{\numberline {1.16.5}Data Geospasial}{39}
+\contentsline {subsection}{\numberline {1.16.6}Link Youtube}{39}
+\contentsline {subsection}{\numberline {1.16.7}Plagiarisme}{40}
+\contentsline {section}{\numberline {1.17}Difa Al Fansha(1174076)}{40}
+\contentsline {subsection}{\numberline {1.17.1}Pengertian}{40}
+\contentsline {subsection}{\numberline {1.17.2}Link}{40}
+\contentsline {subsection}{\numberline {1.17.3}Plagiarism}{41}
+\contentsline {section}{\numberline {1.18}Mochamad Arifqi Ramadhan (1174074)}{41}
+\contentsline {subsection}{\numberline {1.18.1}Kordinat}{41}
+\contentsline {subsection}{\numberline {1.18.2}Link}{43}
+\contentsline {subsection}{\numberline {1.18.3}Plagiarism}{43}
+\contentsline {section}{\numberline {1.19}Muhammad Abdul Gani Wijaya 1174071}{43}
+\contentsline {subsection}{\numberline {1.19.1}DATA GEOSPASIAL}{43}
+\contentsline {subsection}{\numberline {1.19.2}DATA GEOSPASIAL RASTER}{43}
+\contentsline {subsection}{\numberline {1.19.3}DATA GEOSPASIAL VEKTOR}{45}
+\contentsline {subsection}{\numberline {1.19.4}DATA GEOSPASIAL (OPEN GEOSPASIAL CONSORTIUM)}{45}
+\contentsline {subsection}{\numberline {1.19.5}Link Youtube}{45}
+\contentsline {subsection}{\numberline {1.19.6}Check Plagiarism}{47}
+\contentsline {section}{\numberline {1.20}Handi Hermawan (1174067)}{47}
+\contentsline {subsection}{\numberline {1.20.1}Definisi}{47}
+\contentsline {subsection}{\numberline {1.20.2}Pemahaman GIS}{47}
+\contentsline {subsection}{\numberline {1.20.3}Komponen GIS}{47}
+\contentsline {subsection}{\numberline {1.20.4}Model Sistem Informasi Geografis}{48}
+\contentsline {subsection}{\numberline {1.20.5}Link}{48}
+\contentsline {section}{\numberline {1.21}Dini Permata Putri (1174053)}{48}
+\contentsline {subsection}{\numberline {1.21.1}Buku}{48}
+\contentsline {subsection}{\numberline {1.21.2}Pengertian Sistem Informasi Geografis}{48}
+\contentsline {subsection}{\numberline {1.21.3}Sejarah}{49}
+\contentsline {subsection}{\numberline {1.21.4}koordinat}{49}
+\contentsline {subsection}{\numberline {1.21.5}Data geospasial}{50}
+\contentsline {subsection}{\numberline {1.21.6}link}{50}
+\contentsline {chapter}{\numberline {2}Tugas Kedua}{51}
+\contentsline {section}{\numberline {2.1}D. Irga B. Naufal Fakhri (1174066)}{51}
+\contentsline {subsection}{\numberline {2.1.1}Menulis Shapefile dengan PySHP}{51}
+\contentsline {subsection}{\numberline {2.1.2}Link}{60}
+\contentsline {section}{\numberline {2.2}Chandra Kirana Poetra (1174079)}{60}
+\contentsline {subsection}{\numberline {2.2.1}Tugas Membuat Shapefile dengan PySHP}{60}
+\contentsline {subsection}{\numberline {2.2.2}Link}{70}
+\contentsline {section}{\numberline {2.3}Tia Nur Candida (1174086)}{70}
+\contentsline {subsection}{\numberline {2.3.1}Menulis Shapefile dengan PySHP}{70}
+\contentsline {subsection}{\numberline {2.3.2}Link}{78}
+\contentsline {section}{\numberline {2.4}Muhammad Abdul Gani Wijaya 1174071}{78}
+\contentsline {subsection}{\numberline {2.4.1}Menggunakan library Shapefile dengan Python (pyshp)}{78}
+\contentsline {subsection}{\numberline {2.4.2}Link Youtube}{86}
+\contentsline {section}{\numberline {2.5}Muhammad Reza Syachrani (1174084)}{86}
+\contentsline {subsection}{\numberline {2.5.1}Menulis Shapefile dengan PySHP}{86}
+\contentsline {subsection}{\numberline {2.5.2}Link}{96}
+\contentsline {section}{\numberline {2.6}Fanny Shafira Damayanti (1174069)}{96}
+\contentsline {subsection}{\numberline {2.6.1}Menulis Shapefile dengan PySHP}{96}
+\contentsline {subsection}{\numberline {2.6.2}Link}{105}
+\contentsline {section}{\numberline {2.7}Bakti QIlan Mufid (1174083)}{105}
+\contentsline {subsection}{\numberline {2.7.1}Tugas Membuat Shapefile dengan PySHP}{105}
+\contentsline {subsection}{\numberline {2.7.2}Link}{114}
+\contentsline {section}{\numberline {2.8}Kaka Kamaludin (1174067)}{114}
+\contentsline {subsection}{\numberline {2.8.1}Menulis Shapefile dengan PySHP}{114}
+\contentsline {subsection}{\numberline {2.8.2}Link}{123}
+\contentsline {section}{\numberline {2.9}Handi Hermawan (1174080)}{123}
+\contentsline {subsection}{\numberline {2.9.1}Tugas 2 membuat Shapefile dengan PySHP}{123}
+\contentsline {subsection}{\numberline {2.9.2}Link}{132}
+\contentsline {section}{\numberline {2.10}ADVENT NOPELE OLANSI DAMIAHAN SIHITE (1174089)}{132}
+\contentsline {subsection}{\numberline {2.10.1}Menulis Shapefile dengan PySHP}{132}
+\contentsline {subsection}{\numberline {2.10.2}Link}{142}
+\contentsline {section}{\numberline {2.11}Nurul Izza Hamka | 1174062}{143}
+\contentsline {subsection}{\numberline {2.11.1}Shapefile Dengan PyShp}{143}
+\contentsline {subsection}{\numberline {2.11.2}Link}{151}
+\contentsline {section}{\numberline {2.12}Alfadian Owen (1174091)}{151}
+\contentsline {subsection}{\numberline {2.12.1}Menulis Shapefile dengan PySHP}{151}
+\contentsline {subsection}{\numberline {2.12.2}Link}{159}
+\contentsline {section}{\numberline {2.13}Ilham Muhammad Ariq (1174087)}{160}
+\contentsline {subsection}{\numberline {2.13.1}Menulis Shapefile dengan PySHP}{160}
+\contentsline {subsection}{\numberline {2.13.2}Link}{169}
+\contentsline {section}{\numberline {2.14}Ainul Filiani (1174073)}{169}
+\contentsline {subsection}{\numberline {2.14.1}Menulis Shapefile dengan PySHP}{169}
+\contentsline {subsection}{\numberline {2.14.2}Link}{177}
+\contentsline {section}{\numberline {2.15}Arrizal Furqona Gifary (1174070)}{177}
+\contentsline {subsection}{\numberline {2.15.1}Menulis Shapefile dengan PySHP}{177}
+\contentsline {subsection}{\numberline {2.15.2}Link}{187}
+\contentsline {section}{\numberline {2.16}Alvan Alvanzah (1174077)}{187}
+\contentsline {subsection}{\numberline {2.16.1}Tugas Membuat Shapefile dengan PySHP}{187}
+\contentsline {subsection}{\numberline {2.16.2}Link}{195}
+\contentsline {section}{\numberline {2.17}Aulyardha Anindita | 1174054}{196}
+\contentsline {subsection}{\numberline {2.17.1}Menulis Shapefile dengan PySHP}{196}
+\contentsline {subsection}{\numberline {2.17.2}Link}{205}
+\contentsline {section}{\numberline {2.18}Mochamad Arifqi Ramadhan | 1174074}{205}
+\contentsline {subsection}{\numberline {2.18.1}Menggunakan library Shapefile dengan Python (pyshp)}{205}
+\contentsline {subsection}{\numberline {2.18.2}Link Youtube}{213}
+\contentsline {section}{\numberline {2.19}Dini Permata Putri (1174053)}{213}
+\contentsline {subsection}{\numberline {2.19.1}Menulis Shapefile}{213}
+\contentsline {subsection}{\numberline {2.19.2}Link}{220}
+\contentsline {section}{\numberline {2.20}Difa Al Fansha (1174076)}{220}
+\contentsline {subsection}{\numberline {2.20.1}Menulis dan membaca shapefile}{220}
+\contentsline {subsection}{\numberline {2.20.2}Link}{229}
+\contentsline {chapter}{\numberline {3}Tugas Ketiga}{231}
+\contentsline {section}{\numberline {3.1}Fanny Shafira Damayanti (1174069)}{231}
+\contentsline {subsection}{\numberline {3.1.1}Membaca Shapefile dengan PySHP}{231}
+\contentsline {subsection}{\numberline {3.1.2}Link}{237}
+\contentsline {section}{\numberline {3.2}Aulyardha Anindita | 1174054}{237}
+\contentsline {subsection}{\numberline {3.2.1}Membaca Shapefile dengan PySHP}{237}
+\contentsline {subsection}{\numberline {3.2.2}Link}{243}
+\contentsline {section}{\numberline {3.3}Tia Nur Candida (1174086)}{243}
+\contentsline {subsection}{\numberline {3.3.1}Membaca Shapefile dengan PySHP}{243}
+\contentsline {subsection}{\numberline {3.3.2}Link}{248}
+\contentsline {section}{\numberline {3.4}Chandra Kirana Poetra (1174079)}{248}
+\contentsline {subsection}{\numberline {3.4.1}Membaca Shapefile dengan PySHP}{248}
+\contentsline {subsection}{\numberline {3.4.2}Link}{253}
+\contentsline {section}{\numberline {3.5}Muhammad Reza Syachrani (1174084)}{253}
+\contentsline {subsection}{\numberline {3.5.1}Membaca Shapefile dengan PySHP}{253}
+\contentsline {subsection}{\numberline {3.5.2}Link}{261}
+\contentsline {section}{\numberline {3.6}D. Irga B. Naufal Fakrhi (1174066)}{261}
+\contentsline {subsection}{\numberline {3.6.1}Membaca Shapefile dengan pySHP}{261}
+\contentsline {subsection}{\numberline {3.6.2}Link}{266}
+\contentsline {section}{\numberline {3.7}Arrizal Furqona Gifary(1174070)}{266}
+\contentsline {subsection}{\numberline {3.7.1}Membaca Shapefile dengan PySHP}{266}
+\contentsline {subsection}{\numberline {3.7.2}Link}{271}
+\contentsline {section}{\numberline {3.8}Nurul Izza Hamka | 1174062}{271}
+\contentsline {subsection}{\numberline {3.8.1}Membaca Shapefile | PysHP}{271}
+\contentsline {subsection}{\numberline {3.8.2}Link}{277}
+\contentsline {section}{\numberline {3.9}Alvan Alvanzah | 1174077}{277}
+\contentsline {subsection}{\numberline {3.9.1}Membaca Shapefile dengan PySHP}{277}
+\contentsline {subsection}{\numberline {3.9.2}Link}{282}
+\contentsline {section}{\numberline {3.10}Hnadi Hermawan (1174080)}{282}
+\contentsline {subsection}{\numberline {3.10.1}Membaca Shapefile dengan PySHP}{282}
+\contentsline {subsection}{\numberline {3.10.2}Link}{288}
+\contentsline {section}{\numberline {3.11}Ilham Muhammad Ariq (1174087)}{288}
+\contentsline {subsection}{\numberline {3.11.1}Membaca Shapefile dengan PySHP}{288}
+\contentsline {subsection}{\numberline {3.11.2}Link}{293}
+\contentsline {section}{\numberline {3.12}Bakti Qilan Mufid (1174083)}{293}
+\contentsline {subsection}{\numberline {3.12.1}Membaca Shapefile dengan PySHP}{293}
+\contentsline {subsection}{\numberline {3.12.2}Link}{300}
+\contentsline {section}{\numberline {3.13}Alfadian Owen (1174091)}{300}
+\contentsline {subsection}{\numberline {3.13.1}Membaca Shapefile dengan pySHP}{300}
+\contentsline {subsection}{\numberline {3.13.2}Link}{305}
+\contentsline {section}{\numberline {3.14}Mochamad Arifqi Ramadhan | 1174074}{305}
+\contentsline {subsection}{\numberline {3.14.1}Membaca Shapefile dengan PySHP}{305}
+\contentsline {subsection}{\numberline {3.14.2}Link}{310}
+\contentsline {section}{\numberline {3.15}Difa Al Fansha (1174076)}{310}
+\contentsline {subsection}{\numberline {3.15.1}Membaca Shapefile}{310}
+\contentsline {subsection}{\numberline {3.15.2}Link}{315}
+\contentsline {section}{\numberline {3.16}Advent Nopele Olansi Damiahan Sihite (1174089)}{316}
+\contentsline {subsection}{\numberline {3.16.1}Membaca Shapefile dengan pySHP}{316}
+\contentsline {subsection}{\numberline {3.16.2}Link}{320}
+\contentsline {section}{\numberline {3.17}Kaka Kamaludin (1174067)}{321}
+\contentsline {subsection}{\numberline {3.17.1}Membaca Shapefile dengan PySHP}{321}
+\contentsline {subsection}{\numberline {3.17.2}Link}{324}
+\contentsline {section}{\numberline {3.18}Muhammad Abddul Gani Wijaya 1174071}{324}
+\contentsline {subsection}{\numberline {3.18.1}Membaca file Shape file dengan python}{324}
+\contentsline {subsection}{\numberline {3.18.2}Link}{329}
+\contentsline {section}{\numberline {3.19}Ainul Filiani | 1174073}{329}
+\contentsline {subsection}{\numberline {3.19.1}Membaca Shapefile dengan PySHP}{329}
+\contentsline {subsection}{\numberline {3.19.2}Link}{335}
+\contentsline {chapter}{\numberline {4}Tugas Keempat}{337}
+\contentsline {section}{\numberline {4.1}D. Irga B. Naufal Fakrhi (1174066)}{337}
+\contentsline {subsection}{\numberline {4.1.1}Instalasi Map Server}{337}
+\contentsline {subsection}{\numberline {4.1.2}Konfigurasi Map Server}{338}
+\contentsline {subsection}{\numberline {4.1.3}Link Youtube Instalasi MapServer}{339}
+\contentsline {subsection}{\numberline {4.1.4}Instalasi MapProxy}{339}
+\contentsline {subsection}{\numberline {4.1.5}Membuka map menggunakan MapProxy}{340}
+\contentsline {subsection}{\numberline {4.1.6}Link Youtube MapProxy dan Menjalankannya}{342}
+\contentsline {section}{\numberline {4.2}Ilham Muhammad Ariq (1174087)}{342}
+\contentsline {subsection}{\numberline {4.2.1}Instalasi Map Server}{342}
+\contentsline {subsection}{\numberline {4.2.2}Instalasi Map Proxy}{346}
+\contentsline {subsection}{\numberline {4.2.3}Link Youtube}{346}
+\contentsline {subsection}{\numberline {4.2.4}Membuka map menggunakan MapProxy}{347}
+\contentsline {subsection}{\numberline {4.2.5}Link Youtube}{348}
+\contentsline {section}{\numberline {4.3}Tia Nur Candida (1174086)}{349}
+\contentsline {subsection}{\numberline {4.3.1}Instalasi Map Server}{349}
+\contentsline {subsection}{\numberline {4.3.2}Konfigurasi Map Server}{349}
+\contentsline {subsection}{\numberline {4.3.3}Instalasi MapProxy}{350}
+\contentsline {subsection}{\numberline {4.3.4}Membuka map menggunakan MapProxy}{350}
+\contentsline {subsection}{\numberline {4.3.5}Link Youtube Instalasi MapServer dan Mapproxy}{351}
+\contentsline {schapter}{Daftar Pustaka}{353}
+\contentsline {schapter}{Index}{355}
