@@ -278,5 +278,11 @@
 \contentsline {subsection}{\numberline {4.1.4}Instalasi MapProxy}{339}% 
 \contentsline {subsection}{\numberline {4.1.5}Membuka map menggunakan MapProxy}{340}% 
 \contentsline {subsection}{\numberline {4.1.6}Link Youtube MapProxy dan Menjalankannya}{342}% 
-\contentsline {schapter}{Daftar Pustaka}{343}% 
-\contentsline {schapter}{Index}{345}% 
+\contentsline {section}{\numberline {4.2}Ilham Muhammad Ariq (1174087)}{342}% 
+\contentsline {subsection}{\numberline {4.2.1}Instalasi Map Server}{342}% 
+\contentsline {subsection}{\numberline {4.2.2}Instalasi Map Proxy}{346}% 
+\contentsline {subsection}{\numberline {4.2.3}Link Youtube}{346}% 
+\contentsline {subsection}{\numberline {4.2.4}Membuka map menggunakan MapProxy}{347}% 
+\contentsline {subsection}{\numberline {4.2.5}Link Youtube}{348}% 
+\contentsline {schapter}{Daftar Pustaka}{349}% 
+\contentsline {schapter}{Index}{351}% 
