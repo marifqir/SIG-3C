@@ -270,5 +270,13 @@
 \contentsline {section}{\numberline {3.19}Ainul Filiani | 1174073}{329}% 
 \contentsline {subsection}{\numberline {3.19.1}Membaca Shapefile dengan PySHP}{329}% 
 \contentsline {subsection}{\numberline {3.19.2}Link}{335}% 
-\contentsline {schapter}{Daftar Pustaka}{337}% 
-\contentsline {schapter}{Index}{339}% 
+\contentsline {chapter}{\numberline {4}Tugas Keempat}{337}% 
+\contentsline {section}{\numberline {4.1}D. Irga B. Naufal Fakrhi (1174066)}{337}% 
+\contentsline {subsection}{\numberline {4.1.1}Instalasi Map Server}{337}% 
+\contentsline {subsection}{\numberline {4.1.2}Konfigurasi Map Server}{338}% 
+\contentsline {subsection}{\numberline {4.1.3}Link Youtube Instalasi MapServer}{339}% 
+\contentsline {subsection}{\numberline {4.1.4}Instalasi MapProxy}{339}% 
+\contentsline {subsection}{\numberline {4.1.5}Membuka map menggunakan MapProxy}{340}% 
+\contentsline {subsection}{\numberline {4.1.6}Link Youtube MapProxy dan Menjalankannya}{342}% 
+\contentsline {schapter}{Daftar Pustaka}{343}% 
+\contentsline {schapter}{Index}{345}% 
