@@ -313,5 +313,11 @@
 \contentsline {subsection}{\numberline {4.6.5}Instalasi MapProxy}{366}% 
 \contentsline {subsection}{\numberline {4.6.6}Membuka map menggunakan MapProxy}{366}% 
 \contentsline {subsection}{\numberline {4.6.7}Link Youtube MapProxy dan Menjalankannya}{369}% 
-\contentsline {schapter}{Daftar Pustaka}{371}% 
-\contentsline {schapter}{Index}{373}% 
+\contentsline {section}{\numberline {4.7}Muhammad Reza Syachrani(1174084)}{369}% 
+\contentsline {subsection}{\numberline {4.7.1}Instalasi Map Server}{369}% 
+\contentsline {subsection}{\numberline {4.7.2}Konfigurasi Map Server}{369}% 
+\contentsline {subsection}{\numberline {4.7.3}Instalasi MapProxy}{371}% 
+\contentsline {subsection}{\numberline {4.7.4}Membuka map menggunakan MapProxy}{371}% 
+\contentsline {subsection}{\numberline {4.7.5}Link Youtube}{373}% 
+\contentsline {schapter}{Daftar Pustaka}{375}% 
+\contentsline {schapter}{Index}{377}% 
