@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6930) (preloaded format=pdflatex 2019.2.25)  12 NOV 2019 10:04
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.2)  12 NOV 2019 11:15
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2018-12-01>
+LaTeX2e <2019-10-01> patch level 1
 (wileySix.cls
 
 
@@ -62,39 +62,31 @@ Writing index file main.idx
 \chapskip=\dimen111
 \chapheight=\dimen112
 \authorskip=\dimen113
-)
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
-cx.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphicx.sty"
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphi
-cs.sty"
-Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.s
-ty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\gr
-aphics.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\graphics.cfg"
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package graphics Info: Driver file: pdftex.def on input line 99.
+Package graphics Info: Driver file: pdftex.def on input line 105.
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pd
-ftex.def"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-def\pdftex.def"
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen114
 \Gin@req@width=\dimen115
 )
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listin
-gs.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.sty"
 \lst@mode=\count107
 \lst@gtempboxa=\box27
 \lst@token=\toks15
@@ -108,21 +100,18 @@ gs.sty"
 \lst@lineno=\count112
 \lst@maxwidth=\dimen119
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmis
-c.sty"
-File: lstmisc.sty 2018/09/02 1.7 (Carsten Heinz)
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstmisc.sty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
 \c@lstnumber=\count113
 \lst@skipnumbers=\count114
 \lst@framebox=\box28
 )
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listin
-gs.cfg"
-File: listings.cfg 2018/09/02 1.7 listings configuration
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\listings.cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
 ))
-Package: listings 2018/09/02 1.7 (Carsten Heinz)
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty
-"
+("C:\Program Files\MiKTeX 2.9\tex/latex/float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \c@float@type=\count115
 \float@exts=\toks16
@@ -130,19 +119,16 @@ Package: float 2001/11/08 v1.3d Float enhancements (AL)
 \@float@everytoks=\toks17
 \@floatcapt=\box30
 )
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\color.
-sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\color.sty"
 Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\co
-lor.cfg"
+("C:\Program Files\MiKTeX 2.9\tex/latex/graphics-cfg\color.cfg"
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstlan
-g1.sty"
-File: lstlang1.sty 2018/09/02 1.7 listings language file
+("C:\Program Files\MiKTeX 2.9\tex/latex/listings\lstlang1.sty"
+File: lstlang1.sty 2019/09/10 1.8c listings language file
 ) (w-bookps.sty
 
 
@@ -173,15 +159,12 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 130.
 LaTeX Font Info:    ... okay on input line 130.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 130.
 LaTeX Font Info:    ... okay on input line 130.
-LaTeX Font Info:    Try loading font information for OT1+ptm on input line 130.
-
-
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.f
-d"
+LaTeX Font Info:    Trying to load font information for OT1+ptm on input line 1
+30.
+ ("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1ptm.fd"
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/context/base\supp-pdf
-.mkii"
+("C:\Program Files\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
 \scratchdimen=\dimen120
@@ -194,51 +177,39 @@ File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 \MPnumerator=\count120
 \makeMPintoPDFobject=\count121
 \everyMPtoPDFconversion=\toks19
-)
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\epstop
-df-base.sty"
+) ("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\epstopdf-base.sty"
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infw
-arerr.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.sty"
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext
-.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvde
-finekeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvdefinekeys.sty"
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxc
-mds.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvopti
-ons.sty"
+("C:\Program Files\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.sty"
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvse
-tkeys.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.sty"
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etex
-cmds.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.sty"
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\iflu
-atex.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifluatex.sty"
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdft
-excmds.sty"
-Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2019/07/25 v0.30 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ifpd
-f.sty"
+("C:\Program Files\MiKTeX 2.9\tex/generic/oberdiek\ifpdf.sty"
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -261,7 +232,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 149--149
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/Difaal21/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/bakti/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
@@ -566,7 +537,15 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[40])
+[40]
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[41])
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
@@ -578,13 +557,13 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[41] [42
-
-] (main.lot)
+[42] (main.lot)
 \tf@lot=\write6
 \openout6 = `main.lot'.
 
- [43] [44
+ [43
+
+] [44
 
 ] (main.lol
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -721,18 +700,18 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 (info/acknowledgments.tex [61]) [62
 
 ] (info/acronyms.tex)
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 188.
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 1
+88.
 
-
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.f
-d"
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\omsptm.fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 188.
  [63] [64
 
-] (info/glossary.tex) [65] [66
+]
+(info/glossary.tex) [65] [66
 
 ] (info/symbols.tex) [67] [68
 
@@ -1103,10 +1082,9 @@ File: figures/Tugas1/1174087/raster.png Graphic file (type png)
 Package pdftex.def Info: figures/Tugas1/1174087/raster.png  used on input line 
 44.
 (pdftex.def)             Requested size: 113.81102pt x 208.44054pt.
-LaTeX Font Info:    Try loading font information for OT1+pcr on input line 55.
-
-("C:\Users\Difaal21\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.f
-d"
+LaTeX Font Info:    Trying to load font information for OT1+pcr on input line 5
+5.
+("C:\Program Files\MiKTeX 2.9\tex/latex/psnfss\ot1pcr.fd"
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
 )
 <figures/Tugas1/1174087/plagiarism.png, id=314, 631.60968pt x 330.48468pt>
@@ -1115,7 +1093,8 @@ File: figures/Tugas1/1174087/plagiarism.png Graphic file (type png)
 Package pdftex.def Info: figures/Tugas1/1174087/plagiarism.png  used on input l
 ine 59.
 (pdftex.def)             Requested size: 113.81102pt x 59.55023pt.
-) (chapters/tugas1/1174077.tex
+)
+(chapters/tugas1/1174077.tex
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -8857,6 +8836,741 @@ File: figures/Tugas4/1174076/13.png Graphic file (type png)
 <use figures/Tugas4/1174076/13.png>
 Package pdftex.def Info: figures/Tugas4/1174076/13.png  used on input line 99.
 (pdftex.def)             Requested size: 170.71652pt x 91.22578pt.
+) (chapters/tugas4/1174077.tex
+<figures/Tugas4/1174077/1.png, id=2445, 883.04906pt x 532.23843pt>
+File: figures/Tugas4/1174077/1.png Graphic file (type png)
+<use figures/Tugas4/1174077/1.png>
+Package pdftex.def Info: figures/Tugas4/1174077/1.png  used on input line 7.
+(pdftex.def)             Requested size: 227.62204pt x 137.19301pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+
+ []
+
+<figures/Tugas4/1174077/2.png, id=2446, 584.93532pt x 167.12437pt>
+File: figures/Tugas4/1174077/2.png Graphic file (type png)
+<use figures/Tugas4/1174077/2.png>
+Package pdftex.def Info: figures/Tugas4/1174077/2.png  used on input line 14.
+(pdftex.def)             Requested size: 227.62204pt x 65.03543pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--17
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[384 <./figures/Tugas4/1174076/13.png> <./figures/Tugas4/1174077/1.png>]
+<figures/Tugas4/1174077/3.png, id=2452, 316.93407pt x 252.945pt>
+File: figures/Tugas4/1174077/3.png Graphic file (type png)
+<use figures/Tugas4/1174077/3.png>
+Package pdftex.def Info: figures/Tugas4/1174077/3.png  used on input line 21.
+(pdftex.def)             Requested size: 227.62204pt x 181.66869pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+
+ []
+
+<figures/Tugas4/1174077/4.png, id=2453, 315.42844pt x 250.68657pt>
+File: figures/Tugas4/1174077/4.png Graphic file (type png)
+<use figures/Tugas4/1174077/4.png>
+Package pdftex.def Info: figures/Tugas4/1174077/4.png  used on input line 28.
+(pdftex.def)             Requested size: 227.62204pt x 180.90347pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--31
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[385 <./figures/Tugas4/1174077/2.png> <./figures/Tugas4/1174077/3.png>]
+<figures/Tugas4/1174077/5.png, id=2459, 316.93407pt x 251.43938pt>
+File: figures/Tugas4/1174077/5.png Graphic file (type png)
+<use figures/Tugas4/1174077/5.png>
+Package pdftex.def Info: figures/Tugas4/1174077/5.png  used on input line 35.
+(pdftex.def)             Requested size: 227.62204pt x 180.58731pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--38
+
+ []
+
+<figures/Tugas4/1174077/6.png, id=2460, 316.93407pt x 252.19218pt>
+File: figures/Tugas4/1174077/6.png Graphic file (type png)
+<use figures/Tugas4/1174077/6.png>
+Package pdftex.def Info: figures/Tugas4/1174077/6.png  used on input line 42.
+(pdftex.def)             Requested size: 227.62204pt x 181.12799pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
+
+ []
+
+
+Underfull \vbox (badness 7099) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[386 <./figures/Tugas4/1174077/4.png> <./figures/Tugas4/1174077/5.png>]
+<figures/Tugas4/1174077/7.png, id=2466, 316.93407pt x 252.19218pt>
+File: figures/Tugas4/1174077/7.png Graphic file (type png)
+<use figures/Tugas4/1174077/7.png>
+Package pdftex.def Info: figures/Tugas4/1174077/7.png  used on input line 49.
+(pdftex.def)             Requested size: 227.62204pt x 181.12799pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--52
+
+ []
+
+<figures/Tugas4/1174077/8.png, id=2467, 316.18124pt x 252.19218pt>
+File: figures/Tugas4/1174077/8.png Graphic file (type png)
+<use figures/Tugas4/1174077/8.png>
+Package pdftex.def Info: figures/Tugas4/1174077/8.png  used on input line 56.
+(pdftex.def)             Requested size: 227.62204pt x 181.55898pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--59
+
+ []
+
+
+Underfull \vbox (badness 6708) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[387 <./figures/Tugas4/1174077/6.png> <./figures/Tugas4/1174077/7.png>]
+<figures/Tugas4/1174077/9.png, id=2473, 724.95844pt x 219.82124pt>
+File: figures/Tugas4/1174077/9.png Graphic file (type png)
+<use figures/Tugas4/1174077/9.png>
+Package pdftex.def Info: figures/Tugas4/1174077/9.png  used on input line 66.
+(pdftex.def)             Requested size: 227.62204pt x 69.01932pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--69
+
+ []
+
+<figures/Tugas4/1174077/10.png, id=2474, 725.71124pt x 91.09032pt>
+File: figures/Tugas4/1174077/10.png Graphic file (type png)
+<use figures/Tugas4/1174077/10.png>
+Package pdftex.def Info: figures/Tugas4/1174077/10.png  used on input line 73.
+(pdftex.def)             Requested size: 227.62204pt x 28.56989pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 70--76
+
+ []
+
+<figures/Tugas4/1174077/11.png, id=2475, 459.96844pt x 258.21469pt>
+File: figures/Tugas4/1174077/11.png Graphic file (type png)
+<use figures/Tugas4/1174077/11.png>
+Package pdftex.def Info: figures/Tugas4/1174077/11.png  used on input line 85.
+(pdftex.def)             Requested size: 113.81102pt x 63.88763pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--88
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[388 <./figures/Tugas4/1174077/8.png> <./figures/Tugas4/1174077/9.png> <./figur
+es/Tugas4/1174077/10.png>]
+<figures/Tugas4/1174077/12.png, id=2483, 451.6875pt x 112.92188pt>
+File: figures/Tugas4/1174077/12.png Graphic file (type png)
+<use figures/Tugas4/1174077/12.png>
+Package pdftex.def Info: figures/Tugas4/1174077/12.png  used on input line 92.
+(pdftex.def)             Requested size: 113.81102pt x 28.45267pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--95
+
+ []
+
+<figures/Tugas4/1174077/13.png, id=2484, 281.55188pt x 131.74219pt>
+File: figures/Tugas4/1174077/13.png Graphic file (type png)
+<use figures/Tugas4/1174077/13.png>
+Package pdftex.def Info: figures/Tugas4/1174077/13.png  used on input line 99.
+(pdftex.def)             Requested size: 113.81102pt x 53.25276pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--102
+
+ []
+
+<figures/Tugas4/1174077/14.png, id=2485, 445.665pt x 329.73187pt>
+File: figures/Tugas4/1174077/14.png Graphic file (type png)
+<use figures/Tugas4/1174077/14.png>
+Package pdftex.def Info: figures/Tugas4/1174077/14.png  used on input line 106.
+
+(pdftex.def)             Requested size: 113.81102pt x 84.20377pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 103--109
+
+ []
+
+<figures/Tugas4/1174077/15.png, id=2486, 453.19313pt x 152.82094pt>
+File: figures/Tugas4/1174077/15.png Graphic file (type png)
+<use figures/Tugas4/1174077/15.png>
+Package pdftex.def Info: figures/Tugas4/1174077/15.png  used on input line 113.
+
+(pdftex.def)             Requested size: 113.81102pt x 38.37769pt.
+
+Overfull \hbox (1.85764pt too wide) in paragraph at lines 110--116
+[]\OT1/ptm/m/n/10 Buat se-buah folder baru dis-ana den-gan nama my-wfs,karena s
+e-belum-nya menyet-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--116
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[389 <./figures/Tugas4/1174077/11.png> <./figures/Tugas4/1174077/12.png> <./fig
+ures/Tugas4/1174077/13.png> <./figures/Tugas4/1174077/14.png>]
+<figures/Tugas4/1174077/16.png, id=2494, 472.76625pt x 87.32625pt>
+File: figures/Tugas4/1174077/16.png Graphic file (type png)
+<use figures/Tugas4/1174077/16.png>
+Package pdftex.def Info: figures/Tugas4/1174077/16.png  used on input line 120.
+
+(pdftex.def)             Requested size: 113.81102pt x 21.02267pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--123
+
+ []
+
+<figures/Tugas4/1174077/17.png, id=2495, 673.01437pt x 459.21562pt>
+File: figures/Tugas4/1174077/17.png Graphic file (type png)
+<use figures/Tugas4/1174077/17.png>
+Package pdftex.def Info: figures/Tugas4/1174077/17.png  used on input line 127.
+
+(pdftex.def)             Requested size: 113.81102pt x 77.6522pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 124--130
+
+ []
+
+<figures/Tugas4/1174077/18.png, id=2496, 1028.34187pt x 495.35063pt>
+File: figures/Tugas4/1174077/18.png Graphic file (type png)
+<use figures/Tugas4/1174077/18.png>
+Package pdftex.def Info: figures/Tugas4/1174077/18.png  used on input line 135.
+
+(pdftex.def)             Requested size: 113.81102pt x 54.8213pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 132--138
+
+ []
+
+<figures/Tugas4/1174077/19.png, id=2497, 510.40688pt x 185.94469pt>
+File: figures/Tugas4/1174077/19.png Graphic file (type png)
+<use figures/Tugas4/1174077/19.png>
+Package pdftex.def Info: figures/Tugas4/1174077/19.png  used on input line 143.
+
+(pdftex.def)             Requested size: 113.81102pt x 41.46121pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--146
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[390 <./figures/Tugas4/1174077/15.png> <./figures/Tugas4/1174077/16.png> <./fig
+ures/Tugas4/1174077/17.png> <./figures/Tugas4/1174077/18.png>]
+<figures/Tugas4/1174077/map.png, id=2505, 800.9925pt x 434.37282pt>
+File: figures/Tugas4/1174077/map.png Graphic file (type png)
+<use figures/Tugas4/1174077/map.png>
+Package pdftex.def Info: figures/Tugas4/1174077/map.png  used on input line 150
+.
+(pdftex.def)             Requested size: 113.81102pt x 61.71318pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--153
+
+ []
+
+) (chapters/tugas4/1174091.tex
+<figures/tugas4/1174091/1.png, id=2506, 1010.27437pt x 340.27126pt>
+File: figures/tugas4/1174091/1.png Graphic file (type png)
+<use figures/tugas4/1174091/1.png>
+Package pdftex.def Info: figures/tugas4/1174091/1.png  used on input line 7.
+(pdftex.def)             Requested size: 113.81102pt x 38.32819pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
+
+ []
+
+<figures/tugas4/1174091/2.png, id=2507, 319.94531pt x 252.945pt>
+File: figures/tugas4/1174091/2.png Graphic file (type png)
+<use figures/tugas4/1174091/2.png>
+Package pdftex.def Info: figures/tugas4/1174091/2.png  used on input line 16.
+(pdftex.def)             Requested size: 113.81102pt x 89.97943pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 13--19
+
+ []
+
+
+Underfull \vbox (badness 4036) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[391 <./figures/Tugas4/1174077/19.png> <./figures/Tugas4/1174077/map.png> <./fi
+gures/tugas4/1174091/1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
+
+ []
+
+<figures/tugas4/1174091/3.png, id=2514, 567.62062pt x 255.20343pt>
+File: figures/tugas4/1174091/3.png Graphic file (type png)
+<use figures/tugas4/1174091/3.png>
+Package pdftex.def Info: figures/tugas4/1174091/3.png  used on input line 30.
+(pdftex.def)             Requested size: 113.81102pt x 51.16827pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 27--33
+
+ []
+
+<figures/tugas4/1174091/4.png, id=2515, 213.04594pt x 41.4047pt>
+File: figures/tugas4/1174091/4.png Graphic file (type png)
+<use figures/tugas4/1174091/4.png>
+Package pdftex.def Info: figures/tugas4/1174091/4.png  used on input line 38.
+(pdftex.def)             Requested size: 113.81102pt x 22.11937pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--41
+
+ []
+
+<figures/tugas4/1174091/5.png, id=2516, 301.8778pt x 158.09062pt>
+File: figures/tugas4/1174091/5.png Graphic file (type png)
+<use figures/tugas4/1174091/5.png>
+Package pdftex.def Info: figures/tugas4/1174091/5.png  used on input line 46.
+(pdftex.def)             Requested size: 113.81102pt x 59.59984pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 43--49
+
+ []
+
+
+Underfull \vbox (badness 4913) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[392 <./figures/tugas4/1174091/2.png> <./figures/tugas4/1174091/3.png> <./figur
+es/tugas4/1174091/4.png>]
+<figures/tugas4/1174091/6.png, id=2523, 346.29375pt x 322.95656pt>
+File: figures/tugas4/1174091/6.png Graphic file (type png)
+<use figures/tugas4/1174091/6.png>
+Package pdftex.def Info: figures/tugas4/1174091/6.png  used on input line 54.
+(pdftex.def)             Requested size: 113.81102pt x 106.1374pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 51--57
+
+ []
+
+<figures/tugas4/1174091/7.png, id=2524, 338.76563pt x 96.36pt>
+File: figures/tugas4/1174091/7.png Graphic file (type png)
+<use figures/tugas4/1174091/7.png>
+Package pdftex.def Info: figures/tugas4/1174091/7.png  used on input line 69.
+(pdftex.def)             Requested size: 113.81102pt x 32.37231pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 66--72
+
+ []
+
+<figures/tugas4/1174091/8.png, id=2525, 619.56468pt x 253.69781pt>
+File: figures/tugas4/1174091/8.png Graphic file (type png)
+<use figures/tugas4/1174091/8.png>
+Package pdftex.def Info: figures/tugas4/1174091/8.png  used on input line 81.
+(pdftex.def)             Requested size: 113.81102pt x 46.60043pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 78--84
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[393 <./figures/tugas4/1174091/5.png> <./figures/tugas4/1174091/6.png> <./figur
+es/tugas4/1174091/7.png>]
+<figures/tugas4/1174091/9.png, id=2532, 515.67656pt x 118.19156pt>
+File: figures/tugas4/1174091/9.png Graphic file (type png)
+<use figures/tugas4/1174091/9.png>
+Package pdftex.def Info: figures/tugas4/1174091/9.png  used on input line 89.
+(pdftex.def)             Requested size: 113.81102pt x 26.08517pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--92
+
+ []
+
+<figures/tugas4/1174091/10.png, id=2533, 380.92313pt x 153.57375pt>
+File: figures/tugas4/1174091/10.png Graphic file (type png)
+<use figures/tugas4/1174091/10.png>
+Package pdftex.def Info: figures/tugas4/1174091/10.png  used on input line 97.
+(pdftex.def)             Requested size: 113.81102pt x 45.88266pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--100
+
+ []
+
+<figures/tugas4/1174091/11.png, id=2534, 375.65344pt x 15.05624pt>
+File: figures/tugas4/1174091/11.png Graphic file (type png)
+<use figures/tugas4/1174091/11.png>
+Package pdftex.def Info: figures/tugas4/1174091/11.png  used on input line 117.
+
+(pdftex.def)             Requested size: 113.81102pt x 4.56146pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--120
+
+ []
+
+) (chapters/tugas4/1174083.tex
+<figures/Tugas4/1174083/pic1.png, id=2535, 1028.34187pt x 520.94624pt>
+File: figures/Tugas4/1174083/pic1.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic1.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic1.png  used on input line 7.
+
+(pdftex.def)             Requested size: 227.62204pt x 115.30803pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[394 <./figures/tugas4/1174091/8.png> <./figures/tugas4/1174091/9.png> <./figur
+es/tugas4/1174091/10.png> <./figures/tugas4/1174091/11.png>]
+<figures/Tugas4/1174083/pic2.png, id=2544, 615.0478pt x 21.07875pt>
+File: figures/Tugas4/1174083/pic2.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic2.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic2.png  used on input line 14
+.
+(pdftex.def)             Requested size: 227.62204pt x 7.80093pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--17
+
+ []
+
+<figures/Tugas4/1174083/pic3.png, id=2545, 317.68687pt x 254.45062pt>
+File: figures/Tugas4/1174083/pic3.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic3.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic3.png  used on input line 21
+.
+(pdftex.def)             Requested size: 227.62204pt x 182.31906pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[395 <./figures/Tugas4/1174083/pic1.png> <./figures/Tugas4/1174083/pic2.png>]
+<figures/Tugas4/1174083/pic4.png, id=2551, 319.1925pt x 252.945pt>
+File: figures/Tugas4/1174083/pic4.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic4.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic4.png  used on input line 28
+.
+(pdftex.def)             Requested size: 227.62204pt x 180.37956pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--31
+
+ []
+
+<figures/Tugas4/1174083/pic5.png, id=2552, 317.68687pt x 253.69781pt>
+File: figures/Tugas4/1174083/pic5.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic5.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic5.png  used on input line 35
+.
+(pdftex.def)             Requested size: 227.62204pt x 181.77966pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 32--38
+
+ []
+
+
+Underfull \vbox (badness 5652) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[396 <./figures/Tugas4/1174083/pic3.png> <./figures/Tugas4/1174083/pic4.png>]
+<figures/Tugas4/1174083/pic6.png, id=2558, 317.68687pt x 252.19218pt>
+File: figures/Tugas4/1174083/pic6.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic6.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic6.png  used on input line 42
+.
+(pdftex.def)             Requested size: 227.62204pt x 180.70085pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 39--45
+
+ []
+
+<figures/Tugas4/1174083/pic7.png, id=2559, 317.68687pt x 253.69781pt>
+File: figures/Tugas4/1174083/pic7.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic7.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic7.png  used on input line 49
+.
+(pdftex.def)             Requested size: 227.62204pt x 181.77966pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--52
+
+ []
+
+
+Underfull \vbox (badness 6592) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[397 <./figures/Tugas4/1174083/pic5.png> <./figures/Tugas4/1174083/pic6.png>]
+<figures/Tugas4/1174083/pic8.png, id=2565, 317.68687pt x 254.45062pt>
+File: figures/Tugas4/1174083/pic8.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic8.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic8.png  used on input line 56
+.
+(pdftex.def)             Requested size: 227.62204pt x 182.31906pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 53--59
+
+ []
+
+<figures/Tugas4/1174083/pic10.png, id=2566, 726.46407pt x 183.68625pt>
+File: figures/Tugas4/1174083/pic10.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic10.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic10.png  used on input line 7
+2.
+(pdftex.def)             Requested size: 227.62204pt x 57.55315pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--75
+
+ []
+
+
+Underfull \vbox (badness 2384) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[398 <./figures/Tugas4/1174083/pic7.png> <./figures/Tugas4/1174083/pic8.png>]
+<figures/Tugas4/1174083/pic11.png, id=2572, 725.71124pt x 113.67468pt>
+File: figures/Tugas4/1174083/pic11.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic11.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic11.png  used on input line 7
+9.
+(pdftex.def)             Requested size: 227.62204pt x 35.65334pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 76--82
+
+ []
+
+<figures/Tugas4/1174083/pic13.png, id=2573, 456.95718pt x 201.00093pt>
+File: figures/Tugas4/1174083/pic13.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic13.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic13.png  used on input line 9
+3.
+(pdftex.def)             Requested size: 113.81102pt x 50.05994pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--96
+
+ []
+
+<figures/Tugas4/1174083/pic14.png, id=2574, 473.51906pt x 102.3825pt>
+File: figures/Tugas4/1174083/pic14.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic14.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic14.png  used on input line 1
+01.
+(pdftex.def)             Requested size: 113.81102pt x 24.60666pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--104
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[399 <./figures/Tugas4/1174083/pic10.png> <./figures/Tugas4/1174083/pic11.png> 
+<./figures/Tugas4/1174083/pic13.png>]
+<figures/Tugas4/1174083/pic15.png, id=2581, 447.17062pt x 48.18pt>
+File: figures/Tugas4/1174083/pic15.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic15.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic15.png  used on input line 1
+10.
+(pdftex.def)             Requested size: 113.81102pt x 12.26256pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--113
+
+ []
+
+<figures/Tugas4/1174083/pic16.png, id=2582, 596.2275pt x 417.05812pt>
+File: figures/Tugas4/1174083/pic16.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic16.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic16.png  used on input line 1
+18.
+(pdftex.def)             Requested size: 113.81102pt x 79.61096pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 115--121
+
+ []
+
+<figures/Tugas4/1174083/pic17.png, id=2583, 735.49782pt x 66.2475pt>
+File: figures/Tugas4/1174083/pic17.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic17.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic17.png  used on input line 1
+26.
+(pdftex.def)             Requested size: 113.81102pt x 10.25107pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 123--129
+
+ []
+
+<figures/Tugas4/1174083/pic18.png, id=2584, 352.31625pt x 86.57344pt>
+File: figures/Tugas4/1174083/pic18.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic18.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic18.png  used on input line 1
+34.
+(pdftex.def)             Requested size: 113.81102pt x 27.9656pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 131--137
+
+ []
+
+<figures/Tugas4/1174083/pic19.png, id=2585, 560.8453pt x 67.0003pt>
+File: figures/Tugas4/1174083/pic19.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic19.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic19.png  used on input line 1
+42.
+(pdftex.def)             Requested size: 113.81102pt x 13.5961pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--145
+
+ []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[400 <./figures/Tugas4/1174083/pic14.png> <./figures/Tugas4/1174083/pic15.png> 
+<./figures/Tugas4/1174083/pic16.png> <./figures/Tugas4/1174083/pic17.png> <./fi
+gures/Tugas4/1174083/pic18.png>]
+<figures/Tugas4/1174083/pic20.png, id=2595, 344.03531pt x 146.79843pt>
+File: figures/Tugas4/1174083/pic20.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic20.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic20.png  used on input line 1
+50.
+(pdftex.def)             Requested size: 113.81102pt x 48.56235pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--153
+
+ []
+
+<figures/Tugas4/1174083/pic22.png, id=2596, 1028.34187pt x 542.77782pt>
+File: figures/Tugas4/1174083/pic22.png Graphic file (type png)
+<use figures/Tugas4/1174083/pic22.png>
+Package pdftex.def Info: figures/Tugas4/1174083/pic22.png  used on input line 1
+59.
+(pdftex.def)             Requested size: 113.81102pt x 60.07014pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 156--162
+
+ []
+
 ) (main.bbl
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
@@ -8865,43 +9579,40 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[384 <./figures/Tugas4/1174076/13.png>]) [385
+[401 <./figures/Tugas4/1174083/pic19.png> <./figures/Tugas4/1174083/pic20.png> 
+<./figures/Tugas4/1174083/pic22.png>] [402
 
-] [386
+]) [403] [404
 
-] (main.ind [387
+] (main.ind [405
 
 
-]) (main.aux) ) 
+])
+(main.aux) ) 
 Here is how much of TeX's memory you used:
- 7499 strings out of 492946
- 208385 string characters out of 3124934
- 472919 words of memory out of 3000000
- 9981 multiletter control sequences out of 15000+200000
+ 9564 strings out of 492453
+ 235308 string characters out of 3129820
+ 475305 words of memory out of 3000000
+ 12478 multiletter control sequences out of 15000+200000
  65469 words of font info for 122 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,15n,47p,1555b,1903s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Users/Difaal21/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/d
-vips/base/8r.enc}<C:/Users/Difaal21/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmex10.pfb><C:/Users/Difaal21/AppData/Local/Programs/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/Difaal21/AppData/Loc
-al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Difaa
-l21/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-<C:/Users/Difaal21/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
-s/cm/cmsy10.pfb><C:/Users/Difaal21/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Difaal21/AppData/Local/Programs/MiKTeX
- 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Users/Difaal21/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Users/Difaal21/AppData/Lo
-cal/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Users/Difaal21
-/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/User
-s/Difaal21/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><
-C:/Users/Difaal21/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmbi
-8a.pfb><C:/Users/Difaal21/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/tim
-es/utmr8a.pfb><C:/Users/Difaal21/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
-urw/times/utmri8a.pfb>
-Output written on main.pdf (456 pages, 13721709 bytes).
+ 47i,15n,47p,1555b,1903s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb
+i8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (474 pages, 14721889 bytes).
 PDF statistics:
- 2519 PDF objects out of 2984 (max. 8388607)
+ 2677 PDF objects out of 2984 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 3011 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3261 words of extra memory for PDF output out of 10000 (max. 10000000)
 
