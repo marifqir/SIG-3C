@@ -332,5 +332,10 @@
 \contentsline {subsection}{\numberline {4.9.4}Pengujian}{383}% 
 \contentsline {subsection}{\numberline {4.9.5}Link install Map Server}{384}% 
 \contentsline {subsection}{\numberline {4.9.6}Menampilkan Map Indonesia dengan QGIS}{384}% 
-\contentsline {schapter}{Daftar Pustaka}{385}% 
-\contentsline {schapter}{Index}{387}% 
+\contentsline {section}{\numberline {4.10}Alvan Alvanzah (1174077)}{384}% 
+\contentsline {subsection}{\numberline {4.10.1}Instalasi Map Server}{384}% 
+\contentsline {subsection}{\numberline {4.10.2}Instalasi Map Proxy}{388}% 
+\contentsline {subsection}{\numberline {4.10.3}Link Youtube}{388}% 
+\contentsline {subsection}{\numberline {4.10.4}Pengujian}{389}% 
+\contentsline {schapter}{Daftar Pustaka}{393}% 
+\contentsline {schapter}{Index}{395}% 
