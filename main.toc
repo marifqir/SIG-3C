@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xix}% 
-\contentsline {schapter}{Daftar Tabel}{xliii}% 
-\contentsline {schapter}{Foreword}{lvii}% 
-\contentsline {schapter}{Kata Pengantar}{lix}% 
-\contentsline {schapter}{Acknowledgments}{lxi}% 
-\contentsline {schapter}{Acronyms}{lxiii}% 
-\contentsline {schapter}{Glossary}{lxv}% 
-\contentsline {schapter}{List of Symbols}{lxvii}% 
-\contentsline {schapter}{Introduction}{lxix}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxix}% 
+\contentsline {schapter}{Daftar Tabel}{xlv}% 
+\contentsline {schapter}{Foreword}{lix}% 
+\contentsline {schapter}{Kata Pengantar}{lxi}% 
+\contentsline {schapter}{Acknowledgments}{lxiii}% 
+\contentsline {schapter}{Acronyms}{lxv}% 
+\contentsline {schapter}{Glossary}{lxvii}% 
+\contentsline {schapter}{List of Symbols}{lxix}% 
+\contentsline {schapter}{Introduction}{lxxi}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxxi}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -278,76 +278,88 @@
 \contentsline {subsection}{\numberline {4.1.4}Instalasi MapProxy}{339}% 
 \contentsline {subsection}{\numberline {4.1.5}Membuka map menggunakan MapProxy}{340}% 
 \contentsline {subsection}{\numberline {4.1.6}Link Youtube MapProxy dan Menjalankannya}{342}% 
-\contentsline {section}{\numberline {4.2}Ilham Muhammad Ariq (1174087)}{342}% 
+\contentsline {section}{\numberline {4.2}Kaka Kamaludin (1174067)}{342}% 
 \contentsline {subsection}{\numberline {4.2.1}Instalasi Map Server}{342}% 
-\contentsline {subsection}{\numberline {4.2.2}Instalasi Map Proxy}{346}% 
-\contentsline {subsection}{\numberline {4.2.3}Link Youtube}{346}% 
-\contentsline {subsection}{\numberline {4.2.4}Membuka map menggunakan MapProxy}{347}% 
-\contentsline {subsection}{\numberline {4.2.5}Link Youtube}{348}% 
-\contentsline {section}{\numberline {4.3}Tia Nur Candida (1174086)}{349}% 
-\contentsline {subsection}{\numberline {4.3.1}Instalasi Map Server}{349}% 
-\contentsline {subsection}{\numberline {4.3.2}Konfigurasi Map Server}{349}% 
-\contentsline {subsection}{\numberline {4.3.3}Instalasi MapProxy}{350}% 
-\contentsline {subsection}{\numberline {4.3.4}Membuka map menggunakan MapProxy}{350}% 
-\contentsline {subsection}{\numberline {4.3.5}Link Youtube Instalasi MapServer dan Mapproxy}{351}% 
-\contentsline {section}{\numberline {4.4}Chandra Kirana Poetra (1174079)}{351}% 
-\contentsline {subsection}{\numberline {4.4.1}Instalasi Map Server}{351}% 
-\contentsline {subsection}{\numberline {4.4.2}Konfigurasi Map Server}{352}% 
-\contentsline {subsection}{\numberline {4.4.3}Link Youtube Instalasi MapServer}{353}% 
-\contentsline {subsection}{\numberline {4.4.4}Instalasi MapProxy}{353}% 
-\contentsline {subsection}{\numberline {4.4.5}Membuka map menggunakan MapProxy}{353}% 
-\contentsline {subsection}{\numberline {4.4.6}Link Youtube MapProxy dan Menjalankannya}{356}% 
-\contentsline {section}{\numberline {4.5}Fanny Shafira Damayanti (1174069)}{356}% 
-\contentsline {subsection}{\numberline {4.5.1}Instalasi Map Server}{356}% 
+\contentsline {subsection}{\numberline {4.2.2}Instalasi MapProxy}{345}% 
+\contentsline {subsection}{\numberline {4.2.3}Membuka map menggunakan MapProxy}{345}% 
+\contentsline {subsection}{\numberline {4.2.4}Link Youtube MapProxy dan Menjalankannya}{346}% 
+\contentsline {section}{\numberline {4.3}Ilham Muhammad Ariq (1174087)}{346}% 
+\contentsline {subsection}{\numberline {4.3.1}Instalasi Map Server}{346}% 
+\contentsline {subsection}{\numberline {4.3.2}Instalasi Map Proxy}{350}% 
+\contentsline {subsection}{\numberline {4.3.3}Link Youtube}{350}% 
+\contentsline {subsection}{\numberline {4.3.4}Membuka map menggunakan MapProxy}{351}% 
+\contentsline {subsection}{\numberline {4.3.5}Link Youtube}{352}% 
+\contentsline {section}{\numberline {4.4}Tia Nur Candida (1174086)}{353}% 
+\contentsline {subsection}{\numberline {4.4.1}Instalasi Map Server}{353}% 
+\contentsline {subsection}{\numberline {4.4.2}Konfigurasi Map Server}{353}% 
+\contentsline {subsection}{\numberline {4.4.3}Instalasi MapProxy}{354}% 
+\contentsline {subsection}{\numberline {4.4.4}Membuka map menggunakan MapProxy}{354}% 
+\contentsline {subsection}{\numberline {4.4.5}Link Youtube Instalasi MapServer dan Mapproxy}{355}% 
+\contentsline {section}{\numberline {4.5}Chandra Kirana Poetra (1174079)}{355}% 
+\contentsline {subsection}{\numberline {4.5.1}Instalasi Map Server}{355}% 
 \contentsline {subsection}{\numberline {4.5.2}Konfigurasi Map Server}{356}% 
-\contentsline {subsection}{\numberline {4.5.3}Pengujian}{358}% 
-\contentsline {subsection}{\numberline {4.5.4}Link Youtube Instalasi MapServer}{359}% 
-\contentsline {subsection}{\numberline {4.5.5}Instalasi MapProxy}{359}% 
-\contentsline {subsection}{\numberline {4.5.6}Membuka map menggunakan MapProxy}{360}% 
-\contentsline {subsection}{\numberline {4.5.7}Link Youtube MapProxy dan Menjalankannya}{362}% 
-\contentsline {section}{\numberline {4.6}Arrizal Furqona Gifary (1174070)}{362}% 
-\contentsline {subsection}{\numberline {4.6.1}Instalasi Map Server}{362}% 
-\contentsline {subsection}{\numberline {4.6.2}Konfigurasi Map Server}{363}% 
-\contentsline {subsection}{\numberline {4.6.3}Pengujian}{365}% 
-\contentsline {subsection}{\numberline {4.6.4}Link Youtube Instalasi MapServer}{366}% 
-\contentsline {subsection}{\numberline {4.6.5}Instalasi MapProxy}{366}% 
-\contentsline {subsection}{\numberline {4.6.6}Membuka map menggunakan MapProxy}{366}% 
-\contentsline {subsection}{\numberline {4.6.7}Link Youtube MapProxy dan Menjalankannya}{369}% 
-\contentsline {section}{\numberline {4.7}Muhammad Reza Syachrani(1174084)}{369}% 
-\contentsline {subsection}{\numberline {4.7.1}Instalasi Map Server}{369}% 
-\contentsline {subsection}{\numberline {4.7.2}Konfigurasi Map Server}{369}% 
-\contentsline {subsection}{\numberline {4.7.3}Instalasi MapProxy}{371}% 
-\contentsline {subsection}{\numberline {4.7.4}Membuka map menggunakan MapProxy}{371}% 
-\contentsline {subsection}{\numberline {4.7.5}Link Youtube}{373}% 
-\contentsline {section}{\numberline {4.8}Mochamad Arifqi Ramadhan | 1174074}{373}% 
+\contentsline {subsection}{\numberline {4.5.3}Link Youtube Instalasi MapServer}{357}% 
+\contentsline {subsection}{\numberline {4.5.4}Instalasi MapProxy}{357}% 
+\contentsline {subsection}{\numberline {4.5.5}Membuka map menggunakan MapProxy}{357}% 
+\contentsline {subsection}{\numberline {4.5.6}Link Youtube MapProxy dan Menjalankannya}{360}% 
+\contentsline {section}{\numberline {4.6}Fanny Shafira Damayanti (1174069)}{360}% 
+\contentsline {subsection}{\numberline {4.6.1}Instalasi Map Server}{360}% 
+\contentsline {subsection}{\numberline {4.6.2}Konfigurasi Map Server}{360}% 
+\contentsline {subsection}{\numberline {4.6.3}Pengujian}{362}% 
+\contentsline {subsection}{\numberline {4.6.4}Link Youtube Instalasi MapServer}{363}% 
+\contentsline {subsection}{\numberline {4.6.5}Instalasi MapProxy}{363}% 
+\contentsline {subsection}{\numberline {4.6.6}Membuka map menggunakan MapProxy}{364}% 
+\contentsline {subsection}{\numberline {4.6.7}Link Youtube MapProxy dan Menjalankannya}{366}% 
+\contentsline {section}{\numberline {4.7}Arrizal Furqona Gifary (1174070)}{366}% 
+\contentsline {subsection}{\numberline {4.7.1}Instalasi Map Server}{366}% 
+\contentsline {subsection}{\numberline {4.7.2}Konfigurasi Map Server}{367}% 
+\contentsline {subsection}{\numberline {4.7.3}Pengujian}{369}% 
+\contentsline {subsection}{\numberline {4.7.4}Link Youtube Instalasi MapServer}{370}% 
+\contentsline {subsection}{\numberline {4.7.5}Instalasi MapProxy}{370}% 
+\contentsline {subsection}{\numberline {4.7.6}Membuka map menggunakan MapProxy}{370}% 
+\contentsline {subsection}{\numberline {4.7.7}Link Youtube MapProxy dan Menjalankannya}{373}% 
+\contentsline {section}{\numberline {4.8}Muhammad Reza Syachrani(1174084)}{373}% 
 \contentsline {subsection}{\numberline {4.8.1}Instalasi Map Server}{373}% 
-\contentsline {subsection}{\numberline {4.8.2}Instalasi Map Proxy}{376}% 
-\contentsline {subsection}{\numberline {4.8.3}Link Youtube}{377}% 
-\contentsline {subsection}{\numberline {4.8.4}Membuka map menggunakan MapProxy}{377}% 
-\contentsline {subsection}{\numberline {4.8.5}Link Youtube}{379}% 
-\contentsline {section}{\numberline {4.9}Difa Al Fansha (1174076)}{379}% 
-\contentsline {subsection}{\numberline {4.9.1}Instalasi Map Server}{379}% 
-\contentsline {subsection}{\numberline {4.9.2}Instalasi Map Proxy}{382}% 
-\contentsline {subsection}{\numberline {4.9.3}Konfigurasi Map Server}{382}% 
-\contentsline {subsection}{\numberline {4.9.4}Pengujian}{383}% 
-\contentsline {subsection}{\numberline {4.9.5}Link install Map Server}{384}% 
-\contentsline {subsection}{\numberline {4.9.6}Menampilkan Map Indonesia dengan QGIS}{384}% 
-\contentsline {section}{\numberline {4.10}Alvan Alvanzah (1174077)}{384}% 
-\contentsline {subsection}{\numberline {4.10.1}Instalasi Map Server}{384}% 
-\contentsline {subsection}{\numberline {4.10.2}Instalasi Map Proxy}{388}% 
-\contentsline {subsection}{\numberline {4.10.3}Link Youtube}{388}% 
-\contentsline {subsection}{\numberline {4.10.4}Pengujian}{389}% 
-\contentsline {section}{\numberline {4.11}Alfadian Owen (1174091)}{391}% 
-\contentsline {subsection}{\numberline {4.11.1}Instalasi Map Server}{391}% 
-\contentsline {subsection}{\numberline {4.11.2}Konfigurasi Map Server}{392}% 
-\contentsline {subsection}{\numberline {4.11.3}Instalasi MapProxy}{393}% 
-\contentsline {subsection}{\numberline {4.11.4}Membuka map menggunakan MapProxy}{393}% 
-\contentsline {section}{\numberline {4.12}Bakti Qilan Mufid (1174083)}{395}% 
+\contentsline {subsection}{\numberline {4.8.2}Konfigurasi Map Server}{373}% 
+\contentsline {subsection}{\numberline {4.8.3}Instalasi MapProxy}{375}% 
+\contentsline {subsection}{\numberline {4.8.4}Membuka map menggunakan MapProxy}{375}% 
+\contentsline {subsection}{\numberline {4.8.5}Link Youtube}{377}% 
+\contentsline {section}{\numberline {4.9}Mochamad Arifqi Ramadhan | 1174074}{377}% 
+\contentsline {subsection}{\numberline {4.9.1}Instalasi Map Server}{377}% 
+\contentsline {subsection}{\numberline {4.9.2}Instalasi Map Proxy}{380}% 
+\contentsline {subsection}{\numberline {4.9.3}Link Youtube}{381}% 
+\contentsline {subsection}{\numberline {4.9.4}Membuka map menggunakan MapProxy}{381}% 
+\contentsline {subsection}{\numberline {4.9.5}Link Youtube}{383}% 
+\contentsline {section}{\numberline {4.10}Difa Al Fansha (1174076)}{383}% 
+\contentsline {subsection}{\numberline {4.10.1}Instalasi Map Server}{383}% 
+\contentsline {subsection}{\numberline {4.10.2}Instalasi Map Proxy}{386}% 
+\contentsline {subsection}{\numberline {4.10.3}Konfigurasi Map Server}{386}% 
+\contentsline {subsection}{\numberline {4.10.4}Pengujian}{387}% 
+\contentsline {subsection}{\numberline {4.10.5}Link install Map Server}{388}% 
+\contentsline {subsection}{\numberline {4.10.6}Menampilkan Map Indonesia dengan QGIS}{388}% 
+\contentsline {section}{\numberline {4.11}Alvan Alvanzah (1174077)}{388}% 
+\contentsline {subsection}{\numberline {4.11.1}Instalasi Map Server}{388}% 
+\contentsline {subsection}{\numberline {4.11.2}Instalasi Map Proxy}{392}% 
+\contentsline {subsection}{\numberline {4.11.3}Link Youtube}{392}% 
+\contentsline {subsection}{\numberline {4.11.4}Pengujian}{393}% 
+\contentsline {section}{\numberline {4.12}Alfadian Owen (1174091)}{395}% 
 \contentsline {subsection}{\numberline {4.12.1}Instalasi Map Server}{395}% 
-\contentsline {subsection}{\numberline {4.12.2}Link Youtube}{398}% 
-\contentsline {subsection}{\numberline {4.12.3}Instalasi Map Proxy}{399}% 
-\contentsline {subsection}{\numberline {4.12.4}Link Youtube}{399}% 
-\contentsline {subsection}{\numberline {4.12.5}Membuka map menggunakan MapProxy}{399}% 
-\contentsline {subsection}{\numberline {4.12.6}Link Youtube MapProxy dan Menjalankannya}{401}% 
-\contentsline {schapter}{Daftar Pustaka}{403}% 
-\contentsline {schapter}{Index}{405}% 
+\contentsline {subsection}{\numberline {4.12.2}Konfigurasi Map Server}{396}% 
+\contentsline {subsection}{\numberline {4.12.3}Instalasi MapProxy}{397}% 
+\contentsline {subsection}{\numberline {4.12.4}Membuka map menggunakan MapProxy}{397}% 
+\contentsline {section}{\numberline {4.13}Bakti Qilan Mufid (1174083)}{399}% 
+\contentsline {subsection}{\numberline {4.13.1}Instalasi Map Server}{399}% 
+\contentsline {subsection}{\numberline {4.13.2}Link Youtube}{402}% 
+\contentsline {subsection}{\numberline {4.13.3}Instalasi Map Proxy}{403}% 
+\contentsline {subsection}{\numberline {4.13.4}Link Youtube}{403}% 
+\contentsline {subsection}{\numberline {4.13.5}Membuka map menggunakan MapProxy}{403}% 
+\contentsline {subsection}{\numberline {4.13.6}Link Youtube MapProxy dan Menjalankannya}{405}% 
+\contentsline {section}{\numberline {4.14}Handi Hermawan (1174080)}{405}% 
+\contentsline {subsection}{\numberline {4.14.1}Instalasi Map Server}{405}% 
+\contentsline {subsection}{\numberline {4.14.2}Konfigurasi Map Server}{407}% 
+\contentsline {subsection}{\numberline {4.14.3}Link Youtube Instalasi MapServer}{407}% 
+\contentsline {subsection}{\numberline {4.14.4}Instalasi MapProxy}{407}% 
+\contentsline {subsection}{\numberline {4.14.5}Membuka map menggunakan MapProxy}{407}% 
+\contentsline {subsection}{\numberline {4.14.6}Link Youtube MapProxy dan Menjalankannya}{409}% 
+\contentsline {schapter}{Daftar Pustaka}{411}% 
+\contentsline {schapter}{Index}{413}% 
