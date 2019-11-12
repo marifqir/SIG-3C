@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xix}% 
-\contentsline {schapter}{Daftar Tabel}{xli}% 
-\contentsline {schapter}{Foreword}{lv}% 
-\contentsline {schapter}{Kata Pengantar}{lvii}% 
-\contentsline {schapter}{Acknowledgments}{lix}% 
-\contentsline {schapter}{Acronyms}{lxi}% 
-\contentsline {schapter}{Glossary}{lxiii}% 
-\contentsline {schapter}{List of Symbols}{lxv}% 
-\contentsline {schapter}{Introduction}{lxvii}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxvii}% 
+\contentsline {schapter}{Daftar Tabel}{xliii}% 
+\contentsline {schapter}{Foreword}{lvii}% 
+\contentsline {schapter}{Kata Pengantar}{lix}% 
+\contentsline {schapter}{Acknowledgments}{lxi}% 
+\contentsline {schapter}{Acronyms}{lxiii}% 
+\contentsline {schapter}{Glossary}{lxv}% 
+\contentsline {schapter}{List of Symbols}{lxvii}% 
+\contentsline {schapter}{Introduction}{lxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxix}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -319,5 +319,18 @@
 \contentsline {subsection}{\numberline {4.7.3}Instalasi MapProxy}{371}% 
 \contentsline {subsection}{\numberline {4.7.4}Membuka map menggunakan MapProxy}{371}% 
 \contentsline {subsection}{\numberline {4.7.5}Link Youtube}{373}% 
-\contentsline {schapter}{Daftar Pustaka}{375}% 
-\contentsline {schapter}{Index}{377}% 
+\contentsline {section}{\numberline {4.8}Mochamad Arifqi Ramadhan | 1174074}{373}% 
+\contentsline {subsection}{\numberline {4.8.1}Instalasi Map Server}{373}% 
+\contentsline {subsection}{\numberline {4.8.2}Instalasi Map Proxy}{376}% 
+\contentsline {subsection}{\numberline {4.8.3}Link Youtube}{377}% 
+\contentsline {subsection}{\numberline {4.8.4}Membuka map menggunakan MapProxy}{377}% 
+\contentsline {subsection}{\numberline {4.8.5}Link Youtube}{379}% 
+\contentsline {section}{\numberline {4.9}Difa Al Fansha (1174076)}{379}% 
+\contentsline {subsection}{\numberline {4.9.1}Instalasi Map Server}{379}% 
+\contentsline {subsection}{\numberline {4.9.2}Instalasi Map Proxy}{382}% 
+\contentsline {subsection}{\numberline {4.9.3}Konfigurasi Map Server}{382}% 
+\contentsline {subsection}{\numberline {4.9.4}Pengujian}{383}% 
+\contentsline {subsection}{\numberline {4.9.5}Link install Map Server}{384}% 
+\contentsline {subsection}{\numberline {4.9.6}Menampilkan Map Indonesia dengan QGIS}{384}% 
+\contentsline {schapter}{Daftar Pustaka}{385}% 
+\contentsline {schapter}{Index}{387}% 
