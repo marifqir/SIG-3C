@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xix}% 
-\contentsline {schapter}{Daftar Tabel}{xlv}% 
-\contentsline {schapter}{Foreword}{lix}% 
-\contentsline {schapter}{Kata Pengantar}{lxi}% 
-\contentsline {schapter}{Acknowledgments}{lxiii}% 
-\contentsline {schapter}{Acronyms}{lxv}% 
-\contentsline {schapter}{Glossary}{lxvii}% 
-\contentsline {schapter}{List of Symbols}{lxix}% 
-\contentsline {schapter}{Introduction}{lxxi}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxxi}% 
+\contentsline {schapter}{Daftar Gambar}{xxi}% 
+\contentsline {schapter}{Daftar Tabel}{xlix}% 
+\contentsline {schapter}{Foreword}{lxiii}% 
+\contentsline {schapter}{Kata Pengantar}{lxv}% 
+\contentsline {schapter}{Acknowledgments}{lxvii}% 
+\contentsline {schapter}{Acronyms}{lxix}% 
+\contentsline {schapter}{Glossary}{lxxi}% 
+\contentsline {schapter}{List of Symbols}{lxxiii}% 
+\contentsline {schapter}{Introduction}{lxxv}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxxv}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -361,5 +361,13 @@
 \contentsline {subsection}{\numberline {4.14.4}Instalasi MapProxy}{407}% 
 \contentsline {subsection}{\numberline {4.14.5}Membuka map menggunakan MapProxy}{407}% 
 \contentsline {subsection}{\numberline {4.14.6}Link Youtube MapProxy dan Menjalankannya}{409}% 
-\contentsline {schapter}{Daftar Pustaka}{411}% 
-\contentsline {schapter}{Index}{413}% 
+\contentsline {section}{\numberline {4.15}Aulyardha Anindita | 1174054}{409}% 
+\contentsline {subsection}{\numberline {4.15.1}Instalasi Map Server}{409}% 
+\contentsline {subsection}{\numberline {4.15.2}Konfigurasi Map Server}{412}% 
+\contentsline {subsection}{\numberline {4.15.3}Pengujian}{414}% 
+\contentsline {subsection}{\numberline {4.15.4}Link Youtube}{416}% 
+\contentsline {subsection}{\numberline {4.15.5}Instalasi Map Proxy}{416}% 
+\contentsline {subsection}{\numberline {4.15.6}Membuka Map menggunakan MapProxy}{416}% 
+\contentsline {subsection}{\numberline {4.15.7}Link Youtube MapProxy}{419}% 
+\contentsline {schapter}{Daftar Pustaka}{421}% 
+\contentsline {schapter}{Index}{423}% 
