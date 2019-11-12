@@ -337,5 +337,17 @@
 \contentsline {subsection}{\numberline {4.10.2}Instalasi Map Proxy}{388}% 
 \contentsline {subsection}{\numberline {4.10.3}Link Youtube}{388}% 
 \contentsline {subsection}{\numberline {4.10.4}Pengujian}{389}% 
-\contentsline {schapter}{Daftar Pustaka}{393}% 
-\contentsline {schapter}{Index}{395}% 
+\contentsline {section}{\numberline {4.11}Alfadian Owen (1174091)}{391}% 
+\contentsline {subsection}{\numberline {4.11.1}Instalasi Map Server}{391}% 
+\contentsline {subsection}{\numberline {4.11.2}Konfigurasi Map Server}{392}% 
+\contentsline {subsection}{\numberline {4.11.3}Instalasi MapProxy}{393}% 
+\contentsline {subsection}{\numberline {4.11.4}Membuka map menggunakan MapProxy}{393}% 
+\contentsline {section}{\numberline {4.12}Bakti Qilan Mufid (1174083)}{395}% 
+\contentsline {subsection}{\numberline {4.12.1}Instalasi Map Server}{395}% 
+\contentsline {subsection}{\numberline {4.12.2}Link Youtube}{398}% 
+\contentsline {subsection}{\numberline {4.12.3}Instalasi Map Proxy}{399}% 
+\contentsline {subsection}{\numberline {4.12.4}Link Youtube}{399}% 
+\contentsline {subsection}{\numberline {4.12.5}Membuka map menggunakan MapProxy}{399}% 
+\contentsline {subsection}{\numberline {4.12.6}Link Youtube MapProxy dan Menjalankannya}{401}% 
+\contentsline {schapter}{Daftar Pustaka}{403}% 
+\contentsline {schapter}{Index}{405}% 
