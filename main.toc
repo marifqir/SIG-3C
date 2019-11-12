@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xix}% 
-\contentsline {schapter}{Daftar Tabel}{xxxix}% 
-\contentsline {schapter}{Foreword}{liii}% 
-\contentsline {schapter}{Kata Pengantar}{lv}% 
-\contentsline {schapter}{Acknowledgments}{lvii}% 
-\contentsline {schapter}{Acronyms}{lix}% 
-\contentsline {schapter}{Glossary}{lxi}% 
-\contentsline {schapter}{List of Symbols}{lxiii}% 
-\contentsline {schapter}{Introduction}{lxv}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxv}% 
+\contentsline {schapter}{Daftar Tabel}{xli}% 
+\contentsline {schapter}{Foreword}{lv}% 
+\contentsline {schapter}{Kata Pengantar}{lvii}% 
+\contentsline {schapter}{Acknowledgments}{lix}% 
+\contentsline {schapter}{Acronyms}{lxi}% 
+\contentsline {schapter}{Glossary}{lxiii}% 
+\contentsline {schapter}{List of Symbols}{lxv}% 
+\contentsline {schapter}{Introduction}{lxvii}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxvii}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -305,5 +305,13 @@
 \contentsline {subsection}{\numberline {4.5.5}Instalasi MapProxy}{359}% 
 \contentsline {subsection}{\numberline {4.5.6}Membuka map menggunakan MapProxy}{360}% 
 \contentsline {subsection}{\numberline {4.5.7}Link Youtube MapProxy dan Menjalankannya}{362}% 
-\contentsline {schapter}{Daftar Pustaka}{363}% 
-\contentsline {schapter}{Index}{365}% 
+\contentsline {section}{\numberline {4.6}Arrizal Furqona Gifary (1174070)}{362}% 
+\contentsline {subsection}{\numberline {4.6.1}Instalasi Map Server}{362}% 
+\contentsline {subsection}{\numberline {4.6.2}Konfigurasi Map Server}{363}% 
+\contentsline {subsection}{\numberline {4.6.3}Pengujian}{365}% 
+\contentsline {subsection}{\numberline {4.6.4}Link Youtube Instalasi MapServer}{366}% 
+\contentsline {subsection}{\numberline {4.6.5}Instalasi MapProxy}{366}% 
+\contentsline {subsection}{\numberline {4.6.6}Membuka map menggunakan MapProxy}{366}% 
+\contentsline {subsection}{\numberline {4.6.7}Link Youtube MapProxy dan Menjalankannya}{369}% 
+\contentsline {schapter}{Daftar Pustaka}{371}% 
+\contentsline {schapter}{Index}{373}% 
