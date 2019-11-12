@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xvii}% 
-\contentsline {schapter}{Daftar Tabel}{xxxi}% 
-\contentsline {schapter}{Foreword}{xliii}% 
-\contentsline {schapter}{Kata Pengantar}{xlv}% 
-\contentsline {schapter}{Acknowledgments}{xlvii}% 
-\contentsline {schapter}{Acronyms}{xlix}% 
-\contentsline {schapter}{Glossary}{li}% 
-\contentsline {schapter}{List of Symbols}{liii}% 
-\contentsline {schapter}{Introduction}{lv}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lv}% 
+\contentsline {schapter}{Daftar Gambar}{xix}% 
+\contentsline {schapter}{Daftar Tabel}{xli}% 
+\contentsline {schapter}{Foreword}{lv}% 
+\contentsline {schapter}{Kata Pengantar}{lvii}% 
+\contentsline {schapter}{Acknowledgments}{lix}% 
+\contentsline {schapter}{Acronyms}{lxi}% 
+\contentsline {schapter}{Glossary}{lxiii}% 
+\contentsline {schapter}{List of Symbols}{lxv}% 
+\contentsline {schapter}{Introduction}{lxvii}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxvii}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -249,5 +249,75 @@
 \contentsline {section}{\numberline {3.12}Bakti Qilan Mufid (1174083)}{293}% 
 \contentsline {subsection}{\numberline {3.12.1}Membaca Shapefile dengan PySHP}{293}% 
 \contentsline {subsection}{\numberline {3.12.2}Link}{300}% 
-\contentsline {schapter}{Daftar Pustaka}{301}% 
-\contentsline {schapter}{Index}{303}% 
+\contentsline {section}{\numberline {3.13}Alfadian Owen (1174091)}{300}% 
+\contentsline {subsection}{\numberline {3.13.1}Membaca Shapefile dengan pySHP}{300}% 
+\contentsline {subsection}{\numberline {3.13.2}Link}{305}% 
+\contentsline {section}{\numberline {3.14}Mochamad Arifqi Ramadhan | 1174074}{305}% 
+\contentsline {subsection}{\numberline {3.14.1}Membaca Shapefile dengan PySHP}{305}% 
+\contentsline {subsection}{\numberline {3.14.2}Link}{310}% 
+\contentsline {section}{\numberline {3.15}Difa Al Fansha (1174076)}{310}% 
+\contentsline {subsection}{\numberline {3.15.1}Membaca Shapefile}{310}% 
+\contentsline {subsection}{\numberline {3.15.2}Link}{315}% 
+\contentsline {section}{\numberline {3.16}Advent Nopele Olansi Damiahan Sihite (1174089)}{316}% 
+\contentsline {subsection}{\numberline {3.16.1}Membaca Shapefile dengan pySHP}{316}% 
+\contentsline {subsection}{\numberline {3.16.2}Link}{320}% 
+\contentsline {section}{\numberline {3.17}Kaka Kamaludin (1174067)}{321}% 
+\contentsline {subsection}{\numberline {3.17.1}Membaca Shapefile dengan PySHP}{321}% 
+\contentsline {subsection}{\numberline {3.17.2}Link}{324}% 
+\contentsline {section}{\numberline {3.18}Muhammad Abddul Gani Wijaya 1174071}{324}% 
+\contentsline {subsection}{\numberline {3.18.1}Membaca file Shape file dengan python}{324}% 
+\contentsline {subsection}{\numberline {3.18.2}Link}{329}% 
+\contentsline {section}{\numberline {3.19}Ainul Filiani | 1174073}{329}% 
+\contentsline {subsection}{\numberline {3.19.1}Membaca Shapefile dengan PySHP}{329}% 
+\contentsline {subsection}{\numberline {3.19.2}Link}{335}% 
+\contentsline {chapter}{\numberline {4}Tugas Keempat}{337}% 
+\contentsline {section}{\numberline {4.1}D. Irga B. Naufal Fakrhi (1174066)}{337}% 
+\contentsline {subsection}{\numberline {4.1.1}Instalasi Map Server}{337}% 
+\contentsline {subsection}{\numberline {4.1.2}Konfigurasi Map Server}{338}% 
+\contentsline {subsection}{\numberline {4.1.3}Link Youtube Instalasi MapServer}{339}% 
+\contentsline {subsection}{\numberline {4.1.4}Instalasi MapProxy}{339}% 
+\contentsline {subsection}{\numberline {4.1.5}Membuka map menggunakan MapProxy}{340}% 
+\contentsline {subsection}{\numberline {4.1.6}Link Youtube MapProxy dan Menjalankannya}{342}% 
+\contentsline {section}{\numberline {4.2}Ilham Muhammad Ariq (1174087)}{342}% 
+\contentsline {subsection}{\numberline {4.2.1}Instalasi Map Server}{342}% 
+\contentsline {subsection}{\numberline {4.2.2}Instalasi Map Proxy}{346}% 
+\contentsline {subsection}{\numberline {4.2.3}Link Youtube}{346}% 
+\contentsline {subsection}{\numberline {4.2.4}Membuka map menggunakan MapProxy}{347}% 
+\contentsline {subsection}{\numberline {4.2.5}Link Youtube}{348}% 
+\contentsline {section}{\numberline {4.3}Tia Nur Candida (1174086)}{349}% 
+\contentsline {subsection}{\numberline {4.3.1}Instalasi Map Server}{349}% 
+\contentsline {subsection}{\numberline {4.3.2}Konfigurasi Map Server}{349}% 
+\contentsline {subsection}{\numberline {4.3.3}Instalasi MapProxy}{350}% 
+\contentsline {subsection}{\numberline {4.3.4}Membuka map menggunakan MapProxy}{350}% 
+\contentsline {subsection}{\numberline {4.3.5}Link Youtube Instalasi MapServer dan Mapproxy}{351}% 
+\contentsline {section}{\numberline {4.4}Chandra Kirana Poetra (1174079)}{351}% 
+\contentsline {subsection}{\numberline {4.4.1}Instalasi Map Server}{351}% 
+\contentsline {subsection}{\numberline {4.4.2}Konfigurasi Map Server}{352}% 
+\contentsline {subsection}{\numberline {4.4.3}Link Youtube Instalasi MapServer}{353}% 
+\contentsline {subsection}{\numberline {4.4.4}Instalasi MapProxy}{353}% 
+\contentsline {subsection}{\numberline {4.4.5}Membuka map menggunakan MapProxy}{353}% 
+\contentsline {subsection}{\numberline {4.4.6}Link Youtube MapProxy dan Menjalankannya}{356}% 
+\contentsline {section}{\numberline {4.5}Fanny Shafira Damayanti (1174069)}{356}% 
+\contentsline {subsection}{\numberline {4.5.1}Instalasi Map Server}{356}% 
+\contentsline {subsection}{\numberline {4.5.2}Konfigurasi Map Server}{356}% 
+\contentsline {subsection}{\numberline {4.5.3}Pengujian}{358}% 
+\contentsline {subsection}{\numberline {4.5.4}Link Youtube Instalasi MapServer}{359}% 
+\contentsline {subsection}{\numberline {4.5.5}Instalasi MapProxy}{359}% 
+\contentsline {subsection}{\numberline {4.5.6}Membuka map menggunakan MapProxy}{360}% 
+\contentsline {subsection}{\numberline {4.5.7}Link Youtube MapProxy dan Menjalankannya}{362}% 
+\contentsline {section}{\numberline {4.6}Arrizal Furqona Gifary (1174070)}{362}% 
+\contentsline {subsection}{\numberline {4.6.1}Instalasi Map Server}{362}% 
+\contentsline {subsection}{\numberline {4.6.2}Konfigurasi Map Server}{363}% 
+\contentsline {subsection}{\numberline {4.6.3}Pengujian}{365}% 
+\contentsline {subsection}{\numberline {4.6.4}Link Youtube Instalasi MapServer}{366}% 
+\contentsline {subsection}{\numberline {4.6.5}Instalasi MapProxy}{366}% 
+\contentsline {subsection}{\numberline {4.6.6}Membuka map menggunakan MapProxy}{366}% 
+\contentsline {subsection}{\numberline {4.6.7}Link Youtube MapProxy dan Menjalankannya}{369}% 
+\contentsline {section}{\numberline {4.7}Muhammad Reza Syachrani(1174084)}{369}% 
+\contentsline {subsection}{\numberline {4.7.1}Instalasi Map Server}{369}% 
+\contentsline {subsection}{\numberline {4.7.2}Konfigurasi Map Server}{369}% 
+\contentsline {subsection}{\numberline {4.7.3}Instalasi MapProxy}{371}% 
+\contentsline {subsection}{\numberline {4.7.4}Membuka map menggunakan MapProxy}{371}% 
+\contentsline {subsection}{\numberline {4.7.5}Link Youtube}{373}% 
+\contentsline {schapter}{Daftar Pustaka}{375}% 
+\contentsline {schapter}{Index}{377}% 
