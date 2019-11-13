@@ -369,5 +369,16 @@
 \contentsline {subsection}{\numberline {4.15.5}Instalasi Map Proxy}{416}% 
 \contentsline {subsection}{\numberline {4.15.6}Membuka Map menggunakan MapProxy}{416}% 
 \contentsline {subsection}{\numberline {4.15.7}Link Youtube MapProxy}{419}% 
-\contentsline {schapter}{Daftar Pustaka}{421}% 
-\contentsline {schapter}{Index}{423}% 
+\contentsline {section}{\numberline {4.16}Muhammad Abdul Gani Wijaya (117407)}{419}% 
+\contentsline {subsection}{\numberline {4.16.1}Instalasi Map Server dan Map Proxy}{419}% 
+\contentsline {subsection}{\numberline {4.16.2}Pengujian Map Server dan Map Proxy}{421}% 
+\contentsline {subsection}{\numberline {4.16.3}Link tutorial}{424}% 
+\contentsline {section}{\numberline {4.17}Nurul Izza Hamka (1174062)}{425}% 
+\contentsline {subsection}{\numberline {4.17.1}Instalasi Map Server}{425}% 
+\contentsline {subsection}{\numberline {4.17.2}Konfigurasi Map Server}{425}% 
+\contentsline {subsection}{\numberline {4.17.3}Pengujian}{427}% 
+\contentsline {subsection}{\numberline {4.17.4}Link Youtube Instalasi MapServer}{428}% 
+\contentsline {subsection}{\numberline {4.17.5}Instalasi MapProxy}{428}% 
+\contentsline {subsection}{\numberline {4.17.6}Link Youtube MapProxy dan Menjalankannya}{429}% 
+\contentsline {schapter}{Daftar Pustaka}{431}% 
+\contentsline {schapter}{Index}{433}% 
