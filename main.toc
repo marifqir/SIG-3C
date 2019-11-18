@@ -388,5 +388,9 @@
 \contentsline {subsection}{\numberline {4.18.5}Instalasi MapProxy}{432}% 
 \contentsline {subsection}{\numberline {4.18.6}Membuka map menggunakan MapProxy}{433}% 
 \contentsline {subsection}{\numberline {4.18.7}Link Youtube MapProxy dan Menjalankannya}{435}% 
-\contentsline {schapter}{Daftar Pustaka}{437}% 
-\contentsline {schapter}{Index}{439}% 
+\contentsline {chapter}{\numberline {5}Tugas Kelima}{437}% 
+\contentsline {section}{\numberline {5.1}Fanny Shafira Damayanti (1174069)}{437}% 
+\contentsline {subsection}{\numberline {5.1.1}LeafletJS dan Mapproxy}{437}% 
+\contentsline {subsection}{\numberline {5.1.2}Link Youtube MapProxy dan Menjalankannya}{439}% 
+\contentsline {schapter}{Daftar Pustaka}{441}% 
+\contentsline {schapter}{Index}{443}% 
