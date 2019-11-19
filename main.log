@@ -1,8 +1,8 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.10.13)  19 NOV 2019 00:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7200 64-bit) (preloaded format=pdflatex 2019.11.2)  19 NOV 2019 09:59
 entering extended mode
 **./main.tex
 (main.tex
-LaTeX2e <2019-10-01>
+LaTeX2e <2019-10-01> patch level 1
 (wileySix.cls
 
 
@@ -70,7 +70,7 @@ Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks14
 )
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\graphics.sty"
-Package: graphics 2019/07/20 v1.3b Standard LaTeX Graphics (DPC,SPQR)
+Package: graphics 2019/10/08 v1.3c Standard LaTeX Graphics (DPC,SPQR)
 
 ("C:\Program Files\MiKTeX 2.9\tex/latex/graphics\trig.sty"
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
@@ -232,7 +232,7 @@ Overfull \hbox (29.15398pt too wide) in paragraph at lines 149--149
 \subtitlefont SIG (SIS-TEM IN-FOR-MASI GE-OGRAFIS) 
  []
 
-[1{C:/Users/LENOVO/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
+[1{C:/Users/bakti/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 (info/copyrightpage.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 156--156
 
@@ -11237,7 +11237,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 41--47
 
  []
 
-) (main.bbl
+) (chapters/tugas5/1174083.tex
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -11247,6 +11247,58 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 
 [438 <./figures/tugas5/1174069/2.png> <./figures/tugas5/1174069/3.png> <./figur
 es/tugas5/1174069/4.png> <./figures/tugas5/1174069/5.png>]
+<figures/Tugas5/1174083/pic1.png, id=2926, 380.92313pt x 18.0675pt>
+File: figures/Tugas5/1174083/pic1.png Graphic file (type png)
+<use figures/Tugas5/1174083/pic1.png>
+Package pdftex.def Info: figures/Tugas5/1174083/pic1.png  used on input line 7.
+
+(pdftex.def)             Requested size: 341.43306pt x 16.19496pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 7--9
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--10
+
+ []
+
+<figures/Tugas5/1174083/pic2.png, id=2927, 397.485pt x 86.57344pt>
+File: figures/Tugas5/1174083/pic2.png Graphic file (type png)
+<use figures/Tugas5/1174083/pic2.png>
+Package pdftex.def Info: figures/Tugas5/1174083/pic2.png  used on input line 14
+.
+(pdftex.def)             Requested size: 341.43306pt x 74.36714pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 14--16
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 11--17
+
+ []
+
+<figures/Tugas5/1174083/pic3.png, id=2928, 484.05844pt x 396.7322pt>
+File: figures/Tugas5/1174083/pic3.png Graphic file (type png)
+<use figures/Tugas5/1174083/pic3.png>
+Package pdftex.def Info: figures/Tugas5/1174083/pic3.png  used on input line 21
+.
+(pdftex.def)             Requested size: 341.43306pt x 279.84756pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 21--23
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--24
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 Overfull \vbox (6.372pt too high) has occurred while \output is active []
 
 
@@ -11254,38 +11306,114 @@ Underfull \hbox (badness 10000) has occurred while \output is active
 []
  []
 
-[439] [440
+[439 <./figures/Tugas5/1174083/pic1.png> <./figures/Tugas5/1174083/pic2.png>]
+<figures/Tugas5/1174083/pic4.png, id=2934, 394.47375pt x 97.11281pt>
+File: figures/Tugas5/1174083/pic4.png Graphic file (type png)
+<use figures/Tugas5/1174083/pic4.png>
+Package pdftex.def Info: figures/Tugas5/1174083/pic4.png  used on input line 29
+.
+(pdftex.def)             Requested size: 341.43306pt x 84.05476pt.
 
-]) [441] [442
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 29--31
+ [][] 
+ []
 
-] (main.ind [443
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--32
+
+ []
+
+<figures/Tugas5/1174083/pic5.png, id=2935, 481.8pt x 222.07968pt>
+File: figures/Tugas5/1174083/pic5.png Graphic file (type png)
+<use figures/Tugas5/1174083/pic5.png>
+Package pdftex.def Info: figures/Tugas5/1174083/pic5.png  used on input line 34
+.
+(pdftex.def)             Requested size: 341.43306pt x 157.38286pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 34--36
+ [][] 
+ []
 
 
-]) (main.aux) ) 
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[440 <./figures/Tugas5/1174083/pic3.png> <./figures/Tugas5/1174083/pic4.png>]
+<figures/Tugas5/1174083/pic6.png, id=2942, 476.53032pt x 394.47375pt>
+File: figures/Tugas5/1174083/pic6.png Graphic file (type png)
+<use figures/Tugas5/1174083/pic6.png>
+Package pdftex.def Info: figures/Tugas5/1174083/pic6.png  used on input line 41
+.
+(pdftex.def)             Requested size: 341.43306pt x 282.65453pt.
+
+Overfull \hbox (5.43306pt too wide) in paragraph at lines 41--43
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--44
+
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[441 <./figures/Tugas5/1174083/pic5.png>]) (main.bbl
+Overfull \vbox (6.372pt too high) has occurred while \output is active []
+
+
+Underfull \hbox (badness 10000) has occurred while \output is active
+[]
+ []
+
+[442 <./figures/Tugas5/1174083/pic6.png>]) [443
+
+] [444
+
+] (main.ind [445
+
+
+])
+(main.aux) ) 
 Here is how much of TeX's memory you used:
- 10331 strings out of 492452
- 277974 string characters out of 3129804
- 475277 words of memory out of 3000000
- 13200 multiletter control sequences out of 15000+200000
+ 10371 strings out of 492453
+ 261510 string characters out of 3129820
+ 475305 words of memory out of 3000000
+ 13236 multiletter control sequences out of 15000+200000
  65469 words of font info for 122 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  47i,15n,47p,1555b,1903s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Pro
-gram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Fil
-es/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fon
-ts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/a
-msfonts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8
-a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Prog
-ram Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiK
-TeX 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/
-type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/u
-tmbi8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Pr
-ogram Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (520 pages, 20737003 bytes).
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Progra
+m Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/
+type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/courier/ucrr8a.p
+fb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/urw/helvetic/uhvbo8a.pfb><C:/Program Files/MiKTeX
+ 2.9/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb
+i8a.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (522 pages, 20865234 bytes).
 PDF statistics:
- 3005 PDF objects out of 3580 (max. 8388607)
+ 3023 PDF objects out of 3580 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 3856 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3886 words of extra memory for PDF output out of 10000 (max. 10000000)
 
