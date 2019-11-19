@@ -410,5 +410,8 @@
 \contentsline {section}{\numberline {5.7}Alvan Alvanzah (1174077)}{452}% 
 \contentsline {subsection}{\numberline {5.7.1}Menggunakan LeafletJS dengan MapProxy}{452}% 
 \contentsline {subsection}{\numberline {5.7.2}Link Youtube}{455}% 
-\contentsline {schapter}{Daftar Pustaka}{457}% 
-\contentsline {schapter}{Index}{459}% 
+\contentsline {section}{\numberline {5.8}Ilham Muhammad Ariq(1174087)}{455}% 
+\contentsline {subsection}{\numberline {5.8.1}Menggunakan LeafletJS dengan MapProxy}{455}% 
+\contentsline {subsection}{\numberline {5.8.2}Link Youtube}{458}% 
+\contentsline {schapter}{Daftar Pustaka}{459}% 
+\contentsline {schapter}{Index}{461}% 
