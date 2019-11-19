@@ -1,13 +1,13 @@
 \contentsline {schapter}{Daftar Gambar}{xxi}% 
-\contentsline {schapter}{Daftar Tabel}{li}% 
-\contentsline {schapter}{Foreword}{lxv}% 
-\contentsline {schapter}{Kata Pengantar}{lxvii}% 
-\contentsline {schapter}{Acknowledgments}{lxix}% 
-\contentsline {schapter}{Acronyms}{lxxi}% 
-\contentsline {schapter}{Glossary}{lxxiii}% 
-\contentsline {schapter}{List of Symbols}{lxxv}% 
-\contentsline {schapter}{Introduction}{lxxvii}% 
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxxvii}% 
+\contentsline {schapter}{Daftar Tabel}{liii}% 
+\contentsline {schapter}{Foreword}{lxvii}% 
+\contentsline {schapter}{Kata Pengantar}{lxix}% 
+\contentsline {schapter}{Acknowledgments}{lxxi}% 
+\contentsline {schapter}{Acronyms}{lxxiii}% 
+\contentsline {schapter}{Glossary}{lxxv}% 
+\contentsline {schapter}{List of Symbols}{lxxvii}% 
+\contentsline {schapter}{Introduction}{lxxix}% 
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{lxxix}% 
 \contentsline {chapter}{\numberline {1}Tugas Pertama}{1}% 
 \contentsline {section}{\numberline {1.1}NAMA (NPM)}{1}% 
 \contentsline {subsection}{\numberline {1.1.1}Pengertian}{1}% 
@@ -413,5 +413,11 @@
 \contentsline {section}{\numberline {5.8}Ilham Muhammad Ariq(1174087)}{455}% 
 \contentsline {subsection}{\numberline {5.8.1}Menggunakan LeafletJS dengan MapProxy}{455}% 
 \contentsline {subsection}{\numberline {5.8.2}Link Youtube}{458}% 
-\contentsline {schapter}{Daftar Pustaka}{459}% 
-\contentsline {schapter}{Index}{461}% 
+\contentsline {section}{\numberline {5.9}Chandra Kirana Poetra (1174079)}{459}% 
+\contentsline {subsection}{\numberline {5.9.1}Menggunakan LeafletJS dengan MapProxy}{459}% 
+\contentsline {subsection}{\numberline {5.9.2}Link Youtube}{462}% 
+\contentsline {section}{\numberline {5.10}Difa Al Fansha (1174076)}{462}% 
+\contentsline {subsection}{\numberline {5.10.1}Menggunakan LeafletJS dengan MapProxy}{462}% 
+\contentsline {subsection}{\numberline {5.10.2}Link}{465}% 
+\contentsline {schapter}{Daftar Pustaka}{467}% 
+\contentsline {schapter}{Index}{469}% 
