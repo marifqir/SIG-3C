@@ -395,5 +395,8 @@
 \contentsline {section}{\numberline {5.2}Bakti Qilan Mufid (1174083)}{439}% 
 \contentsline {subsection}{\numberline {5.2.1}Menggunakan LeafletJS dengan MapProxy}{439}% 
 \contentsline {subsection}{\numberline {5.2.2}Link Youtube}{442}% 
-\contentsline {schapter}{Daftar Pustaka}{443}% 
-\contentsline {schapter}{Index}{445}% 
+\contentsline {section}{\numberline {5.3}D. Irga B. Naufal Fakhri (1174066)}{442}% 
+\contentsline {subsection}{\numberline {5.3.1}LeafletJS dan MapProxy}{442}% 
+\contentsline {subsection}{\numberline {5.3.2}Link Youtube LeafletJS dan MapProxy}{443}% 
+\contentsline {schapter}{Daftar Pustaka}{445}% 
+\contentsline {schapter}{Index}{447}% 
