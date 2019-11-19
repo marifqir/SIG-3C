@@ -401,8 +401,11 @@
 \contentsline {section}{\numberline {5.4}Muhammad Reza Syachrani (1174084)}{444}% 
 \contentsline {subsection}{\numberline {5.4.1}Menggunakan LeafletJS dengan MapProxy}{444}% 
 \contentsline {subsection}{\numberline {5.4.2}Link Youtube}{448}% 
-\contentsline {section}{\numberline {5.5}Arrial Furqona Gifary (1174070)}{448}% 
-\contentsline {subsection}{\numberline {5.5.1}LeafletJS dan Mapproxy}{448}% 
-\contentsline {subsection}{\numberline {5.5.2}Link Youtube MapProxy dan Menjalankannya}{449}% 
-\contentsline {schapter}{Daftar Pustaka}{451}% 
-\contentsline {schapter}{Index}{453}% 
+\contentsline {section}{\numberline {5.5}Tia Nur Candida (1174086)}{448}% 
+\contentsline {subsection}{\numberline {5.5.1}Menggunakan LeafletJS dengan MapProxy}{448}% 
+\contentsline {subsection}{\numberline {5.5.2}Link Youtube}{450}% 
+\contentsline {section}{\numberline {5.6}Arrial Furqona Gifary (1174070)}{450}% 
+\contentsline {subsection}{\numberline {5.6.1}LeafletJS dan Mapproxy}{450}% 
+\contentsline {subsection}{\numberline {5.6.2}Link Youtube MapProxy dan Menjalankannya}{452}% 
+\contentsline {schapter}{Daftar Pustaka}{453}% 
+\contentsline {schapter}{Index}{455}% 
